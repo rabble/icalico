@@ -1,0 +1,10 @@
+<h2>Add an OpenID to your account.</h2>
+<p>Once added, you'll be able to log into your existing account via
+  OpenID instead of by username/password
+</p>
+
+<%= start_form_tag :action => 'openid_start' %>
+<p><label for="openid_identifier">OpenID</label><br/>
+<%= text_field_tag 'openid_identifier' %></p>
+<%= submit_tag "Add an OpenID to " + h(current_user.login) %>
+<%= end_form_tag %>

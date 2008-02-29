@@ -1,0 +1,1642 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE;VALUE=TEXT:US/Pacific
+METHOD:EXPORT
+PRODID:-//Apple Computer\, Inc//iCal 1.0//EN
+X-WR-CALNAME;VALUE=TEXT:Web 2.0 Expo
+X-WR-RELCALID;VALUE=TEXT:WEB20EXPO2007
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:US/Pacific
+LAST-MODIFIED:20060703T074125Z
+BEGIN:DAYLIGHT
+DTSTART:20060403T100000
+TZOFFSETTO:-0700
+TZOFFSETFROM:+0000
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20061030T020000
+TZOFFSETTO:-0800
+TZOFFSETFROM:-0700
+TZNAME:PST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T093000
+SUMMARY:"Building Social Applications" Stowe Boyd  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:10806
+DTEND;TZID=US/Pacific:20070415T123000
+DESCRIPTION:Description: Creating social applications is hard. It's easy to miss social interplay and build information-centered applications instead. This workshop explores the key factors of successful social applications\, and presents an approach to building them: Social Architecture. The workshop also includes group activities to explore Social Architecture in a team setting.\nSpeaker(s): Stowe Boyd; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10806
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T093000
+SUMMARY:"High Performance Webpages" Steve Souders Tenni Theurer (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:13253
+DTEND;TZID=US/Pacific:20070415T123000
+DESCRIPTION:Description: Yahoo!'s Exceptional Performance team has identified 13 best practices for making web pages faster through a series of research studies on Yahoo's properties. In this workshop we'll discuss the research projects that provided the basis for several rules\, as well as the 13 rules themselves. \nSpeaker(s): Steve Souders; Tenni Theurer\nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13253
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T093000
+SUMMARY:"Community Evangelism: Tools & Techniques" Tara Hunt Anil Dash; Deborah Schultz (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10586
+DTEND;TZID=US/Pacific:20070415T123000
+DESCRIPTION:Description: Web 2.0 is people! Find out how new tools like blogging\, podcasting\, and videoblogging (a.k.a. vlogging) are helping companies communicate with their fans and customers. Learn how to enable your community to talk to each other\, and discover the untapped evangelists who may already be cheerleading for your products and services.\nSpeaker(s): Tara Hunt; Anil Dash; Deborah Schultz\nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10586
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T093000
+SUMMARY:"The Iterative App: From Discord to Design" Kelly Goto  (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:12097
+DTEND;TZID=US/Pacific:20070415T123000
+DESCRIPTION:Description: Due to the diverse demands of clients\, bosses\, engineers\, and designers\, web application design has reached a new level of frenzy and discord. Kelly Goto can help you refine your application development process and project management to an art form. Learn the behind-the-scenes techniques for rapid prototyping and learn to include iterative usability testing cycles in your project development.\nSpeaker(s): Kelly Goto; \nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12097
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T093000
+SUMMARY:"Going 2.0: How to Run a Business Entirely on Web 2.0 Applications & Services" Ismael Ghalimi  (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:10593
+DTEND;TZID=US/Pacific:20070415T123000
+DESCRIPTION:Description: This workshop will focus on how to move your business onto the latest and greatest Web 2.0 applications\, many of which are offered at low or no cost. The workshop will review popular Web 2.0 applications currently provided for email\, spreadsheets\, wikis\, databases\, accounting\, and other business services.  Come learn how to get your business rolling in the world of Web 2.0!\nSpeaker(s): Ismael Ghalimi; \nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10593
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T140000
+SUMMARY:"What is Web 2.0: The Rules for Creating Successful Online Products in the 21st Century" Dion Hinchcliffe  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:13790
+DTEND;TZID=US/Pacific:20070415T170000
+DESCRIPTION:Description: For newcomers and industry veterans alike\, this fast-paced\, informative workshop takes a deep dive into Web 2.0 with detailed coverage of the specific design patterns and business models driving the next generation of the Web.\nSpeaker(s): Dion Hinchcliffe; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13790
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T140000
+SUMMARY:"Ruby on Rails" David A. Black  (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:10780
+DTEND;TZID=US/Pacific:20070415T170000
+DESCRIPTION:Description: Using live code demonstrations and hands-on examples\, this half-day workshop will introduce the basics of the Ruby on Rails framework. Participants will learn the process of creating a Rails application\, and will also dive into a working application where they will see the Model/View/Controller architecture in action\, and learn some basic Ruby language and Rails development techniques.\nSpeaker(s): David A. Black; \nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10780
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T140000
+SUMMARY:"Introduction to Search Engine Optimization and Search Engine Marketing" Todd Friesen Greg Boser (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10579
+DTEND;TZID=US/Pacific:20070415T170000
+DESCRIPTION:Description: This workshop will cover the basic fundamentals of search engine marketing (SEM) and search engine optimization (SEO). Find out how to generate both free and paid traffic to your web sites\, and when one is more effective than the other. Learn techniques for constructing highly visible web sites and content that can be found and crawled easily by all the major search engines. Discover what keywords your competitors are bidding on\, and whether they're getting more out of search than you are.\nSpeaker(s): Todd Friesen; Greg Boser\nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10579
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T140000
+SUMMARY:"Web 2.0 as a UI Paradigm: Design and Development" Roger Billerey-Mosier Ryan Campbell (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:12499
+DTEND;TZID=US/Pacific:20070415T170000
+DESCRIPTION:Description: Building dynamic\, highly usable\, task-focused\, rich internet applications doesn't mean losing the old benefits of search engine optimization and well-established UI behaviors. After determining cross-platform compatibility\, security\, and usability issues\, we will explore how designers and developers can best work together to easily implement and maintain this next-generation of web applications. \nSpeaker(s): Roger Billerey-Mosier; Ryan Campbell\nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12499
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T140000
+SUMMARY:"Starting Up 2.0: Strategies for Pitching, Financing & Growing Your Web 2.0 Startup" Jeff Clavier Rob Hayes (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:10592
+DTEND;TZID=US/Pacific:20070415T170000
+DESCRIPTION:Description: If you're getting ready to start a Web 2.0 business\, or you're looking for startup funding from angels or VCs\, this workshop is for you. Learn how to put together and refine a pitch for Web 2.0 investors\, and get a crash course on how to get your web startup off the ground. Workshop topics will include financing\, recruiting\, promoting\, and managing all the hats every startup entrepreneur needs to wear.\nSpeaker(s): Jeff Clavier; Rob Hayes\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10592
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T140000
+SUMMARY:"Scalable Web Architectures: Common Patterns and Approaches" Cal Henderson  (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:10578
+DTEND;TZID=US/Pacific:20070415T170000
+DESCRIPTION:Description: Everyone's doing it -- the poster children for "Web 2.0" are built on top of the LAMP stack. The next generation of web-based applications are built with free tools\, with few people understanding the best way to scale these applications out. But patterns emerged very early on -- all of these applications share some common architectural principles that seem to be working. In this brief state-of-the-world\, we'll look at the various approaches to scalable internet application architectures and what we can learn from them. \nSpeaker(s): Cal Henderson; \nTrack: Web Operations\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10578
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070415T190000
+SUMMARY:"Ignite"   (Room: )
+LOCATION:         
+DTSTAMP:19010101T010101Z
+UID:12926
+DTEND;TZID=US/Pacific:20070415T210000
+DESCRIPTION:Description: If you had five minutes on stage what would you say? What if you only got 20 slides and they rotated automatically after 15 seconds? Would you pitch a project? Launch a web site? Teach a hack? We're going to find out when we try our first Ignite event at Web 2.0 Expo. Happening Sunday evening\, this will be a high-energy event. \nSpeaker(s): ; \nTrack: \nRoom: 
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12926
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T090000
+SUMMARY:"The People Formerly Known as the Audience" Derek Powazek Heather Champ (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:10445
+DTEND;TZID=US/Pacific:20070416T095000
+DESCRIPTION:Description: Join internet pioneer Derek Powazek for a look into the world of so-called "user-generated content." See educational examples of companies getting it right and wrong\, and how the media has to change when consumers turn into producers.\nSpeaker(s): Derek Powazek; Heather Champ\nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10445
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T090000
+SUMMARY:"All You Need to Know About Django" Adrian Holovaty  (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:13254
+DTEND;TZID=US/Pacific:20070416T095000
+DESCRIPTION:Description: You've heard about Django\, the relatively young Python web framework. But why are people talking about it? Hear lead developer/co-creator Adrian Holovaty explain how the framework works\, how it saves you time\, and why people fall in love with it. Expect both a high-level overview and low-level code samples\,  along with a look into Django's future.\nSpeaker(s): Adrian Holovaty; \nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13254
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T090000
+SUMMARY:"Blogs, Chat Rooms, Wikis, Oh My! The Yellow Brick Road to Online Market Intelligence" Howard Kaushansky  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10770
+DTEND;TZID=US/Pacific:20070416T095000
+DESCRIPTION:Description: Mining marketing data online and converting it into actionable insight blends art and science. New technologies and the exploding blogosphere have made the mission possible. Discover how to mine and measure the online grapevine for targeted marketing\, unravel the spam tornado\, know your blogger\, and work successfully with blogging communities.\nSpeaker(s): Howard Kaushansky; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10770
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T090000
+SUMMARY:"The New Hybrid Designer" Emily Chang Kelly Goto; Richard McManus; Chris Messina (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11827
+DTEND;TZID=US/Pacific:20070416T095000
+DESCRIPTION:Description: Modern web design requires the coding savviness of a developer coupled with the aesthetics and user awareness of a designer. What does this New Creative look like? This panel will explore how the advent of the social and participatory Web has changed the role of the designer\, and provide insight into what you need to know today to design for tomorrow's Web.\nSpeaker(s): Emily Chang; Kelly Goto; Richard McManus; Chris Messina\nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11827
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T090000
+SUMMARY:"Media 2.0: How Web 2.0 is Transforming Traditional Media" Charlene Li Oliver Muoto; Gabe Rivera; Ted Shelton; Rich Skrenta (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:10601
+DTEND;TZID=US/Pacific:20070416T095000
+DESCRIPTION:Description: When Web 1.0 first came on the scene 10 years ago\, print media published web sites that basically contained online versions of their print publications. This approach and attitude is changing dramatically\, as traditional media sites are becoming more interactive and aggressively seeking to develop active online readers. Bloggers are getting funded to produce new micropublishing ventures\, and other sites like Digg and YouTube are creating new ways for stories and media to be discovered.\nSpeaker(s): Charlene Li; Oliver Muoto; Gabe Rivera; Ted Shelton; Rich Skrenta\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10601
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T090000
+SUMMARY:"Securing and Optimizing Web 2.0 Application Delivery" Prabakar Sundarrajan  (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13721
+DTEND;TZID=US/Pacific:20070416T095000
+DESCRIPTION:Description: Web2.0 applications are business critical\, generating a major portion or all the revenues of several companies. This talk will focus on web application delivery systems that can yield lightning fast response times\, protect against attacks and sudden traffic spikes\, and optimize the infrastructure to support a rapidly growing user base without a corresponding explosive growth of servers and bandwidth.\nSpeaker(s): Prabakar Sundarrajan; \nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13721
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T090000
+SUMMARY:"The Wonderful World of Wikis: Case Studies, Benefits, Dos and Don&#146;ts" Ken Lui  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13705
+DTEND;TZID=US/Pacific:20070416T095000
+DESCRIPTION:Description: MindTouch is the most comprehensive vendor of business wiki solutions\, hosting 45\,000 wikis for consumers\, small businesses\, schools\, research institutions\, and public agencies worldwide. Their award-winning products make collaboration easy in the enterprise and harness the people's voice by powering online wiki communities. Ken Lui will demonstrate through case studies how various users have benefited from wikis\, and discuss the dos and don'ts of using wikis.\nSpeaker(s): Ken Lui; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13705
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T090000
+SUMMARY:"Jump-start Your Startup" Sanjay Sharma Dan Roberts (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13647
+DTEND;TZID=US/Pacific:20070416T095000
+DESCRIPTION:Description: Today's burgeoning software marketplace presents incredible opportunities for forward-thinking companies and\, now\, the Sun Startup Essentials program helps get young companies off the ground. This talk will cover how to leverage groundbreaking Sun technologies to build out your next-generation web solutions -- and how to get these technologies and services either free or at such steeply discounted prices that even a startup can afford.\nSpeaker(s): Sanjay Sharma; Dan Roberts\nTrack: Products and Services\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13647
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T101000
+SUMMARY:"Power to the People Via User-centric Identity" Kaliya Hamlin  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:10573
+DTEND;TZID=US/Pacific:20070416T110000
+DESCRIPTION:Description: User-centric identity starts with the individual\, and his or her needs and relationships with other people\, companies\, and organizations. Hamlin will give an overview of the identity landscape focusing on the core elements that have led to the current developments and help orient those who want to implement the emerging open standards into Web 2.0 tools.\nSpeaker(s): Kaliya Hamlin; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10573
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T101000
+SUMMARY:"Rich Internet Applications with Apollo" Mike Chambers  (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:10865
+DTEND;TZID=US/Pacific:20070416T110000
+DESCRIPTION:Description: As needs and expectations grow\, so does demand for richer\, more engaging content. Mike Chambers will demonstrate Adobe's Apollo project\, uncover how existing web development skills can be leveraged to build and deploy desktop-based RIAs\, and reveal a new application model for content delivery and collaboration across platforms and devices.\nSpeaker(s): Mike Chambers; \nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10865
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T101000
+SUMMARY:"Marketing Analytics for Web 2.0" Brett Crosby  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:11790
+DTEND;TZID=US/Pacific:20070416T110000
+DESCRIPTION:Description: Google helps Web 2.0 companies achieve success and have a large impact on the business at the enterprise level using a variety of Web 2.0 tools. These tools are a new breed of enterprise software services that empower businesses to make smarter business decisions in the online and offline worlds.  Many of these products are free and can help Web 2.0 sites go beyond today&#146;s traditional approach that separates online from offline marketing.\nSpeaker(s): Brett Crosby; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11790
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T101000
+SUMMARY:"Embracing the Chaos: Designing For and With Community" Mike Beltzner  (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11828
+DTEND;TZID=US/Pacific:20070416T110000
+DESCRIPTION:Description: A big part of The Web Arts is community. But community inherently reduces the control you have over your content\, your brand\, and other elements that were once the dominion of top-down hierarchies. How can you open up your design process to be more inclusive of community feedback without feeling overwhelmed or indignant about the criticism you get? \nSpeaker(s): Mike Beltzner; \nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11828
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T101000
+SUMMARY:"The Lost Remote:  The Internet Video Revolution" Liz Gannes Jay Adelson; Erik Hachenburg; Howard Lindzon; Marc Siry; Dirk-Willem van Gulik (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:11250
+DTEND;TZID=US/Pacific:20070416T110000
+DESCRIPTION:Description: As the major TV networks continue to deal with ratings loss and falling advertising revenue\, internet video has established itself as a viable web property for billion-dollar companies like Google\, and original content producers alike. This panel made up of analysts\, pioneering online advertisers\, and content producers will examine new trends in IPTV market reach\, explaining how to get the most bang for your buck.\nSpeaker(s): Liz Gannes; Jay Adelson; Erik Hachenburg; Howard Lindzon; Marc Siry; Dirk-Willem van Gulik\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11250
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T101000
+SUMMARY:"Profit from the Long Tail by Tapping the Invisible Crowd" Jack Jia  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13707
+DTEND;TZID=US/Pacific:20070416T110000
+DESCRIPTION:Description: Learn how to get content and product recommendations for web sites based on the wisdom of crowds and like-minded peers. Breakthrough content-guidance technology bridges social science with engineering and enables companies to harvest the highly profitable online business segments along the "Long Tail." The results are stunning -- sites see over 24% increase in revenue and online lead generation.\nSpeaker(s): Jack Jia; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13707
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T101000
+SUMMARY:"Building Web 2.0: Next-generation Web Platforms" Alistair Croll Hooman Beheshti; Mike Culver; James Hamilton (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13298
+DTEND;TZID=US/Pacific:20070416T110000
+DESCRIPTION:Description: Today's web platforms can be completely virtualized\, using third-party infrastructure and robust services; or they can run client-side in browsers with only minimal hardware at the core. This session looks at the advantages and shortcomings of web platforms\, from turnkey services and virtual appliances to storage containers and old-school racks. \nSpeaker(s): Alistair Croll; Hooman Beheshti; Mike Culver; James Hamilton\nTrack: Web Operations\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13298
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T111500
+SUMMARY:"User-Generated Content and Privacy" Lauren Gelman  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:10545
+DTEND;TZID=US/Pacific:20070416T120500
+DESCRIPTION:Description: Web 2.0 is all about user-generated content. But what is your responsibility to your users once they post their personal information on your site? The goal of this talk is to make the business case for prioritizing user privacy protections when building any system that relies on user-generated content. It will highlight some of the laws that affect your users' content\, and will also suggest ideas for how you can design a system from the beginning to build privacy protection in.\nSpeaker(s): Lauren Gelman; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10545
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T111500
+SUMMARY:"Vulnerabilities 2.0 in Web 2.0: Next Generation Web Apps from a Hacker's Perspective" Alex Stamos  (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:10704
+DTEND;TZID=US/Pacific:20070416T120500
+DESCRIPTION:Description: This talk will explore the dark side of new AJAX technologies and demonstrate to the audience how attackers have utilized the innovations in Web 2.0 applications to invigorate attacks such as Cross-Site Scripting\, Cross-Site Request Forgery\, parameter tampering\, and serialization attacks.  We will also discuss the relative security precautions present in five of the most popular AJAX frameworks. \nSpeaker(s): Alex Stamos; \nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10704
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T111500
+SUMMARY:"Click the Big Red Button : Tips & Techniques for Optimizing Conversion and A/B Testing"" Avinash Kaushik  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:14310
+DTEND;TZID=US/Pacific:20070416T120500
+DESCRIPTION:Description: \nSpeaker(s): Avinash Kaushik; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/14310
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T111500
+SUMMARY:"Placelessness and the Advance of Micropublishing" Alex Faaborg  (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11829
+DTEND;TZID=US/Pacific:20070416T120500
+DESCRIPTION:Description: Publishing to the Web has changed dramatically. In Web 2.0\, information is broken up into "microcontent" units that can be distributed over dozens of domains\, and the "intended" context for your content may only be one of a myriad of places where it ends up.  Web 2.0 designers must learn to think beyond sites and towards experiences\, finding ways to brand content when context cannot be assumed. This session will cover trends in micropublishing\, and explore new approaches to design that take advantage of the nature of the social web.\nSpeaker(s): Alex Faaborg; \nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11829
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T111500
+SUMMARY:"Open Source Business Models for Web 2.0" John Roberts  (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:14183
+DTEND;TZID=US/Pacific:20070416T120500
+DESCRIPTION:Description: Sure\, you might have a great Web 2.0 application or service\, but how do you monetize that? John Roberts will discuss how he co-built a strong Web 2.0 platform and harnessed open source software for SugarCRM.\nSpeaker(s): John Roberts; \nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/14183
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T111500
+SUMMARY:"Mashing Up Business Value with Web 2.0" Rod Smith  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13899
+DTEND;TZID=US/Pacific:20070416T120500
+DESCRIPTION:Description: Web 2.0 is one of the hottest things on the consumer Web\, but where does it fit in the enterprise?  What's the business value?  And how can developers ignite new Web 2.0 development projects for their companies? You'll hear all of this and more from Rod Smith\, IBM Fellow and vice president of the IBM Emerging Internet Technologies group. \nSpeaker(s): Rod Smith; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13899
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T111500
+SUMMARY:"Bridging the Gap Between Desktop and Web" Kevin Lawver Gregory Cypes (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13902
+DTEND;TZID=US/Pacific:20070416T120500
+DESCRIPTION:Description: Migrating traditional client applications to the Web has yet to be perfected. How are API providers and web standards making your life easier? What are some of the limitations and what are some of the successful examples? Check out how AOL is bridging this divide and how the Mashup world can facilitate getting client applications on the Web and vice versa.\nSpeaker(s): Kevin Lawver; Gregory Cypes\nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13902
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T111500
+SUMMARY:"From Software to Webware: How Web-based Applications Will Shake the Software Industry" Paul McNamara Ismael Ghalimi; John Seely Brown; Vishal Sikka; Martin Wegenstein (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13905
+DTEND;TZID=US/Pacific:20070416T120500
+DESCRIPTION:Description: A new generation of applications\, called webware\, offering significant new capabilities and power are supplanting traditional software models. The panel of industry experts\, including John Seely Brown\, Vishal Sikka\, Martin Wegenstein\, and Ismael Ghalimi\, will discuss the impact of webware\, the democratization of information\, and business opportunities the new era of webware will create.\nSpeaker(s): Paul McNamara; Ismael Ghalimi; John Seely Brown; Vishal Sikka; Martin Wegenstein\nTrack: Products and Services\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13905
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T133000
+SUMMARY:"Tagging that Works" Thomas Vander Wal  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:11190
+DTEND;TZID=US/Pacific:20070416T142000
+DESCRIPTION:Description: Thomas Vander Wal will provide an overview of tagging services and highlight the value in tagging\, providing insights on when to use tagging\, who tags\, a tagcloud's value when used properly\, various interactive interfaces\, and how to create value from tagging to improve the sites and services we build.\nSpeaker(s): Thomas Vander Wal; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11190
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T133000
+SUMMARY:"The Story Behind Facebook's APIs: From REST to FQL" Adam D'Angelo Dave Fetterman (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:13944
+DTEND;TZID=US/Pacific:20070416T142000
+DESCRIPTION:Description: Members of Facebook's platform team discuss how they made the initial decision to be the first large social network to offer an API\, what data to show\, and how they constructed it. The team will also explain what trends they were seeing that triggered them to create FQL (a new SQL-like API to Facebook). \nSpeaker(s): Adam D'Angelo; Dave Fetterman\nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13944
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T133000
+SUMMARY:"Local Search Marketing: Let's Get Small" LeeAnn Prescott Jennifer Black; Perry Evans; Kendall Fargo; Frazier Miller (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:11389
+DTEND;TZID=US/Pacific:20070416T142000
+DESCRIPTION:Description: Research shows that consumers typically spend about 80 percent of their income within 50 miles of their homes\, and that about 30 percent of all internet searches are commercial in nature. In fact\, fully one quarter of all searches on the Internet are for both local and commercial content. This session will look at how Web 2.0 can impact this lucrative market of buyers and sellers.\nSpeaker(s): LeeAnn Prescott; Jennifer Black; Perry Evans; Kendall Fargo; Frazier Miller\nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11389
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T133000
+SUMMARY:"The Arrival of Web 2.0: The State of the Union on Browser Technology" Rael Dornfest Brendan Eich; Chris Wetherell; Chris Wilson (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11830
+DTEND;TZID=US/Pacific:20070416T143000
+DESCRIPTION:Description: \nSpeaker(s): Rael Dornfest; Brendan Eich; Chris Wetherell; Chris Wilson\nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11830
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T133000
+SUMMARY:"Venture Capital 2.0: Bright Future or Broken Forever?" Michael Arrington Jeff Clavier; Michael Eisenberg; David Hornik; Josh Kopelman; Chris Moore (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:10597
+DTEND;TZID=US/Pacific:20070416T142000
+DESCRIPTION:Description: The Dot Com Nuclear Winter is over\, and funding for Web 2.0 startups has never been better. But traditional VCs are now being challenged by a variety of changes to the startup economy. Lower startup capital costs\, alternate financing strategies by angels and entrepreneurs\, and early takeouts by mergers and acquisitions--hungry platform companies like Yahoo!\, Google\, and eBay have changed the way the game is being played by startups in the 21st century. So are later-stage VCs toast\, or do they still have a relevant role in the startup economy?  Who will be the new winners and losers on Sand Hill Road\, and around the world? \nSpeaker(s): Michael Arrington; Jeff Clavier; Michael Eisenberg; David Hornik; Josh Kopelman; Chris Moore\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10597
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T133000
+SUMMARY:"Going Beyond Mobile Web Browsing with Web Run-Time" Ganesh Sivaraman Craig Cumberland (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13477
+DTEND;TZID=US/Pacific:20070416T143000
+DESCRIPTION:Description: S60\, the world's leading smartphone platform\, was the first in the world to bring full HTML desktop-like browsing experience to millions of mobile devices. So\, what's next? Learn how leveraging the same feature rich\, robust\, open source web tech components used by the Web Browser\, S60 smartphone platform will enable the web community to go mobile.\nSpeaker(s): Ganesh Sivaraman; Craig Cumberland\nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13477
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T133000
+SUMMARY:"Web 20-20: Architectural Patterns and Models for the New Internet" Duane Nickull  (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13910
+DTEND;TZID=US/Pacific:20070416T142000
+DESCRIPTION:Description: This session examines the core model for the Internet as a platform of interconnected devices and delves into changes in each of the core areas\, examining some of the technology and business pattern evolution that is more commonly known as the Web 2.0. The talk will be ideal for entrepreneurs wishing to reuse the established patterns for new marriages of technology and business models\, as well as developers and architects.\nSpeaker(s): Duane Nickull; \nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13910
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T133000
+SUMMARY:"Beyond the Filesystem: Designing Large-Scale File Storage and Serving" Cal Henderson  (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:10876
+DTEND;TZID=US/Pacific:20070416T142000
+DESCRIPTION:Description: Flickr stores over a billion photo files\, serving around five billion image impressions every week. In this session\, Flickr Architect Cal Henderson will talk about the challenges faced designing and building affordable storage systems for large scale file serving operations. The session will focus on the various problems\, possible solutions\, available hardware and software technologies\, and some real-life case studies.\nSpeaker(s): Cal Henderson; \nTrack: Web Operations\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10876
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T144500
+SUMMARY:"Conference Welcome" Tim O'Reilly  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13932
+DTEND;TZID=US/Pacific:20070416T150000
+DESCRIPTION:Description: \nSpeaker(s): Tim O'Reilly; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13932
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T150000
+SUMMARY:"A Conversation with Jeff Bezos" Jeffrey P. Bezos  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13248
+DTEND;TZID=US/Pacific:20070416T153000
+DESCRIPTION:Description: \nSpeaker(s): Jeffrey P. Bezos; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13248
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T153000
+SUMMARY:"Built to Last or Built to Sell:  Is There a Difference?" John Battelle Jay Adelson; Joe Kraus; Mena Trott (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:12929
+DTEND;TZID=US/Pacific:20070416T160000
+DESCRIPTION:Description: \nSpeaker(s): John Battelle; Jay Adelson; Joe Kraus; Mena Trott\nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12929
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T160000
+SUMMARY:"High Order Bit:  Introducing Apollo" Kevin Lynch  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13333
+DTEND;TZID=US/Pacific:20070416T161000
+DESCRIPTION:Description: \nSpeaker(s): Kevin Lynch; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13333
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T161000
+SUMMARY:"Launch Pad" David Knight Jay Bhatti (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13250
+DTEND;TZID=US/Pacific:20070416T163000
+DESCRIPTION:Description: \nSpeaker(s): David Knight; Jay Bhatti\nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13250
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T173000
+SUMMARY:"Expo Hall Booth Crawl"   (Room: )
+LOCATION:         
+DTSTAMP:19010101T010101Z
+UID:14080
+DTEND;TZID=US/Pacific:20070416T190000
+DESCRIPTION:Description: Quench your thirst with vendor-hosted libations and snacks while you check out all the cool stuff on the show floor. This event is open to all attendees.\nSpeaker(s): ; \nTrack: \nRoom: 
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/14080
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T193000
+SUMMARY:"Birds of a Feather Sessions (BoFs)"   (Room: )
+LOCATION:         
+DTSTAMP:19010101T010101Z
+UID:13231
+DTEND;TZID=US/Pacific:20070416T213000
+DESCRIPTION:Description: Following the planned sessions during the day\, it's time for Web 2.0 Expo participants to take the floor. Open to all attendees\, BoFs are informal conversations that you and other participants plan. Sign up to lead a BoF of your own. \nSpeaker(s): ; \nTrack: \nRoom: 
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13231
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T193000
+SUMMARY:"Web 2.0 Patents"   (Room: Alpha)
+LOCATION:Alpha         
+DTSTAMP:19010101T010101Z
+UID:11867
+DTEND;TZID=US/Pacific:20070416T203000
+DESCRIPTION:Description: \nSpeaker(s): ; \nTrack: \nRoom: Alpha
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11867
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T193000
+SUMMARY:"Building web 2.0 product prototype in one day with AJAX, mapping and mash-ups"   (Room: Beta)
+LOCATION:Beta         
+DTSTAMP:19010101T010101Z
+UID:12092
+DTEND;TZID=US/Pacific:20070416T203000
+DESCRIPTION:Description: \nSpeaker(s): ; \nTrack: \nRoom: Beta
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12092
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T193000
+SUMMARY:"Putting Web 2.0 and Vertical Search to work for B2B"   (Room: Gamma)
+LOCATION:Gamma         
+DTSTAMP:19010101T010101Z
+UID:12144
+DTEND;TZID=US/Pacific:20070416T203000
+DESCRIPTION:Description: \nSpeaker(s): ; \nTrack: \nRoom: Gamma
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12144
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070416T203000
+SUMMARY:"Empowering Business Processes with Emergent Structures"   (Room: Beta)
+LOCATION:Beta         
+DTSTAMP:19010101T010101Z
+UID:12093
+DTEND;TZID=US/Pacific:20070416T213000
+DESCRIPTION:Description: \nSpeaker(s): ; \nTrack: \nRoom: Beta
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12093
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T083000
+SUMMARY:"Accessibility 2.0: A Modern Approach to Enabling Users" Matt May  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:12186
+DTEND;TZID=US/Pacific:20070417T092000
+DESCRIPTION:Description: The field of accessible design has come a long way: once condemned as out of touch with cutting-edge design\, today's accessibility advocates are pushing the envelope with CSS\, JavaScript -- and yes\, even AJAX and Flash. This session will cover the barriers encountered by users with disabilities on the Web of today\, up-to-date techniques to aid in removing those barriers\, and help in choosing tools that will support modern assistive technology hardware and software.\nSpeaker(s): Matt May; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12186
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T083000
+SUMMARY:"Writing Voice Mashups with Mechanical Turks and Maps" Thomas Howe  (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:13911
+DTEND;TZID=US/Pacific:20070417T092000
+DESCRIPTION:Description: A few short years ago\, communications applications required millions of dollars\, teams of highly skilled engineers\, access to networks\, and many months of time. In this workshop\, led by 2007 O'Reilly Mashup Winner Thomas Howe\, we look at how telephony mashups rewrite that equation\, and at the implementation details in depth. The attendees will leave with a good understanding of the technology and effort required to write their own compelling application.\nSpeaker(s): Thomas Howe; \nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13911
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T083000
+SUMMARY:"Blogging for Business" Jeanette K. Gibson  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10588
+DTEND;TZID=US/Pacific:20070417T092000
+DESCRIPTION:Description: Blogs... they aren't just for cat lovers anymore. Companies like Cisco\, Southwest Airlines\, and even WalMart are using blogs\, podcasts\, and videos to reach customers\, employees\, and shareholders -- sometimes with excellent results\, other times not so much. Find out how businesses can use blogs and other forms of online communication to reach out and inform their customers\, connect with their employees and their community\, and create conversations and relationships that last.\nSpeaker(s): Jeanette K. Gibson; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10588
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T083000
+SUMMARY:"Flooding the Social Networks: The State of the Union on SNS Tech" Lev Grossman  (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11833
+DTEND;TZID=US/Pacific:20070417T092000
+DESCRIPTION:Description: There not only seems to be a new social network popping up everyday\, but you or your friends are probably already on them. Given the new opportunities that these vast social networks provide\, how can you design services for social networks? If you're designing a social network or social web site\, what trends\, best practices\, or ideas are important and worth following? Which are worth avoiding like the common cold?\nSpeaker(s): Lev Grossman; \nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11833
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T083000
+SUMMARY:"The Future of e-Commerce" Eric Billingsley  (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:11321
+DTEND;TZID=US/Pacific:20070417T092000
+DESCRIPTION:Description: What is the future of e-commerce? This talk will expose what lies on the horizon in the areas of search\, social networking\, and online trust/reputation management\, and provide insight into how the internet community and third-party web developers can come together to tap into next generation internet platforms to help define and profit from what's next in e-commerce.\nSpeaker(s): Eric Billingsley; \nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11321
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T083000
+SUMMARY:"Mobilizing the Web 2.0" Ari Virtanen  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13476
+DTEND;TZID=US/Pacific:20070417T092000
+DESCRIPTION:Description: The Internet is changing. Bigger and bigger portions of internet services are used by mobile devices. Ari Virtanen\, vice president of Convergence Products business of Nokia Multimedia\, will explore the role of mobile devices in the new customer value proposition\, and examine the new Nokia N800 Internet Tablet and its place in the changing market of mobile convergence devices.\nSpeaker(s): Ari Virtanen; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13476
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T083000
+SUMMARY:"SMBx: The Revolution of the SMB Application Marketplace" Joel Dreyfuss Don Campbell; Danny Kolke; Jonathan Rochelle; Raju Vegesna (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13877
+DTEND;TZID=US/Pacific:20070417T092000
+DESCRIPTION:Description: Small business drives the economy's growth and the small-medium-business app market is up for grabs. How will Web 2.0 play out for this marketplace? Who has what it takes? What are Microsoft and Google really up to and what opportunities still exist? Who will win the battle for the small and mid-size business marketplace? Are we ready for a revolution?\nSpeaker(s): Joel Dreyfuss; Don Campbell; Danny Kolke; Jonathan Rochelle; Raju Vegesna\nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13877
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T083000
+SUMMARY:"Geographic Distribution for Global Web Application Performance" Jacob Rosenberg  (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:11043
+DTEND;TZID=US/Pacific:20070417T092000
+DESCRIPTION:Description: Many of the slickest web products seem a lot less appealing when used half a world away. This talk will discuss the challenges of scaling advanced web applications to work globally to provide proven recommendations based on AOL's geographic distribution program.\nSpeaker(s): Jacob Rosenberg; \nTrack: Web Operations\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11043
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T093000
+SUMMARY:"Launch Pad" Luke Sontag Dmitry Dimov; Mike McCue; Brian Mulloy (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13261
+DTEND;TZID=US/Pacific:20070417T100000
+DESCRIPTION:Description: Participants: Vidoop\, Luke Sontag; Swivel\, Brian Mulloy; Tellme\, Mike McCue\nSpeaker(s): Luke Sontag; Dmitry Dimov; Mike McCue; Brian Mulloy\nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13261
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T100000
+SUMMARY:"Mobile 2.0" Martin Varsavsky Mike McCue; Ilkka Raiskinen; Paola Tonelli (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13257
+DTEND;TZID=US/Pacific:20070417T103000
+DESCRIPTION:Description: \nSpeaker(s): Martin Varsavsky; Mike McCue; Ilkka Raiskinen; Paola Tonelli\nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13257
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T103000
+SUMMARY:"High Order Bit: Architecture for Humanity" James Baty  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13648
+DTEND;TZID=US/Pacific:20070417T104500
+DESCRIPTION:Description: Architecture for Humanity (AFH) is an online community that actively embraces the tenets of open source to generate innovative and sustainable designs that improve living standards. Sun built a solution based on Solaris 10\, Apache Web server\, MySQL database\, and PHP (SAMP)\, that allows architects and community leaders to download and upload copyright-free designs\, building plans and blueprints\, and case studies of successful projects. This open\, collaborative forum is helping AFH reach out to its community--comprised mainly of designers\, builders\, architects\, donors\, and volunteers--to improve living conditions for those in need across the world.\nSpeaker(s): James Baty; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13648
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T104500
+SUMMARY:"State of the Web 2.0: Measuring the Participatory Web" Bill Tancer  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:10707
+DTEND;TZID=US/Pacific:20070417T110000
+DESCRIPTION:Description: In a Web 2.0 Expo exclusive\, Bill Tancer\, general manager of global research for Hitwise\, will provide insight into the current "State of the Web" for popular and growing Web 2.0 sites\, as well as appropriate methods for measuring Web 2.0 site growth. Using the Hitwise sample of over ten million U.S. internet users\, Tancer will also reveal results of a recent research study on demographic and psychographic differences between "traditional" and Web 2.0 internet users. \nSpeaker(s): Bill Tancer; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10707
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T110000
+SUMMARY:"High Order Bit" David L. Sifry  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13937
+DTEND;TZID=US/Pacific:20070417T111500
+DESCRIPTION:Description: \nSpeaker(s): David L. Sifry; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13937
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T111500
+SUMMARY:"HIgh Order Bit:  Kathy Sierra" Kathy Sierra  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13255
+DTEND;TZID=US/Pacific:20070417T113000
+DESCRIPTION:Description: \nSpeaker(s): Kathy Sierra; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13255
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T113000
+SUMMARY:"Eric Schmidt in Conversation with John Battelle" Eric Schmidt John Battelle (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:11810
+DTEND;TZID=US/Pacific:20070417T120000
+DESCRIPTION:Description: \nSpeaker(s): Eric Schmidt; John Battelle\nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11810
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T130000
+SUMMARY:"Web2.Open"   (Room: Alpha)
+LOCATION:Alpha         
+DTSTAMP:19010101T010101Z
+UID:13232
+DTEND;TZID=US/Pacific:20070417T170000
+DESCRIPTION:Description: The Web2.Open\, conceived with FooCamp/BarCamp in mind\, is part of the Web2.0 Expo\, open to anyone who would like to attend. The event will consist of four major elements: open grid sessions\, pre-scheduled speaker sessions\, BoFs\, and Mashroom.\nSpeaker(s): ; \nTrack: \nRoom: Alpha
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13232
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T133000
+SUMMARY:"An Overview of Badges and Widgets: The Fast Rise of Viral Web Parts" Dion Hinchcliffe  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:13699
+DTEND;TZID=US/Pacific:20070417T142000
+DESCRIPTION:Description: Web parts known as badges\, widgets\, and gadgets are gaining popularity as the Do-In-Yourself phenomenon grows on the Web. This session explores the state-of-the-art in badges and widgets\, what the industry leaders are doing\, the different ways they can be built including key design characteristics for mass distribution and uptake. Attendees should have a basic understanding web protocols and standards. \nSpeaker(s): Dion Hinchcliffe; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13699
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T133000
+SUMMARY:"Super Ninja Privacy Techniques for Web App Developers" Marc Hedlund Brad Greenlee (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:11865
+DTEND;TZID=US/Pacific:20070417T142000
+DESCRIPTION:Description: There's plenty of information on the Web about how an individual can protect their own privacy on the Net\, but little about how to architect a web app to help protect your users' privacy. We'll look at some techniques to make a web app that cares about its users' privacy.\nSpeaker(s): Marc Hedlund; Brad Greenlee\nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11865
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T133000
+SUMMARY:"Social Networking Winners & Losers: The Good, the Bad, and the Ugly" Charlene Li Gina Bianchini; Matt Cohler; Reid Hoffman; Mike Speiser (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10590
+DTEND;TZID=US/Pacific:20070417T142000
+DESCRIPTION:Description: What is the secret to building successful social networking services? How did sites like Flickr\, YouTube\, and MySpace become so popular other large web portals had to acquire them? And why did others like Friendster and Orkut miss the mark? This session will discuss the winners (and losers) in social networking\, and how social networking techniques are now being applied to online communities in news\, finance\, sports\, and other categories.\nSpeaker(s): Charlene Li; Gina Bianchini; Matt Cohler; Reid Hoffman; Mike Speiser\nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10590
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T133000
+SUMMARY:"Microformats, Much More Than Just Promise" John Allsopp  (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11831
+DTEND;TZID=US/Pacific:20070417T142000
+DESCRIPTION:Description: Microformats are community-generated standards for identifying types of data in normal web pages. How do these rapidly spreading conventions make it easier to design interactions for the Web? How can you create scripts or stylesheets to leverage these simple formats\, and what new applications exist that haven't been explored?\nSpeaker(s): John Allsopp; \nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11831
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T133000
+SUMMARY:"Web 2.0 for Small Business, or Running Fast & Light at Starbucks with a Browser and Some Java" Rafe Needleman Satish Dharmaraj; Ismael Ghalimi; Om Malik; Rajen Sheth (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:10594
+DTEND;TZID=US/Pacific:20070417T142000
+DESCRIPTION:Description: Millions of small businesses operate out of corner coffee shops using just a notebook and wireless access (and a LOT of espresso). How are new Web 2.0 applications and services making it better (or worse) for small business owners to operate online? Has the browser really become the operating system? And where can I find a good $2 espresso? These and other burning Web 2.0 questions will be answered by our esteemed panel of wireless web warriors.\nSpeaker(s): Rafe Needleman; Satish Dharmaraj; Ismael Ghalimi; Om Malik; Rajen Sheth\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10594
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T133000
+SUMMARY:"Enhancing the User Experience Through Networking" Chris Komatas  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13709
+DTEND;TZID=US/Pacific:20070417T142000
+DESCRIPTION:Description: Applications and content running in the datacenter must be delivered to a growing number of user devices. Formerly\, a"cloud" of internet connectivity was assumed\, with unpredictable delivery accepted as normal. But new apps and increasing user expectations are demanding much more. This presentation will focus on how your network and security infrastructure affect the end user experience and your business operations.\nSpeaker(s): Chris Komatas; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13709
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T133000
+SUMMARY:"Entrepreneurship and the Web as a Platform" Greg Ruff Robert Fanini; Danny Kolke; Kyle Mashima; Jeffrey McManus (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13878
+DTEND;TZID=US/Pacific:20070417T142000
+DESCRIPTION:Description: The Web is a platform and it is enabling a new generation of entrepreneurs. What does today's technology enable for this new generation of creative business minds that wasn't previously available and what ideas are worth pursuing? How does the platform enable new ideas and new paths and what are today's business minds doing with them? Each of these panelists have successfully started and funded numerous businesses and will share their visions.\nSpeaker(s): Greg Ruff; Robert Fanini; Danny Kolke; Kyle Mashima; Jeffrey McManus\nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13878
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T133000
+SUMMARY:"Case Study:  Digging into the Technology Behind the Development of Digg" Owen Byrne  (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:11136
+DTEND;TZID=US/Pacific:20070417T142000
+DESCRIPTION:Description: A case study of Digg's technical origins and how the concept was executed on a minimal budget. The presentation will feature interesting anecdotes from Digg's senior software engineer and co-founder\, Owen Byrne\, as well as successful practices that can be implemented by other startup companies.\nSpeaker(s): Owen Byrne; \nTrack: Web Operations\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11136
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T144000
+SUMMARY:"Adding Location to Web 2.0 Apps" Andrew Turner  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:10610
+DTEND;TZID=US/Pacific:20070417T153000
+DESCRIPTION:Description: This talk will cover the many mapping tools shaping cartography in Web 2.0 and explain the relevancy of location\, different types of location-based APIs and tools\, how to use these on your site\, deconstruction of a couple\, and point attendees to various resources. \nSpeaker(s): Andrew Turner; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10610
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T144000
+SUMMARY:"Rich Internet Application Platforms" Ryan Stewart Ben Galbraith; Jeff Mancuso; Chris P. Saari; Dirk-Willem van Gulik (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:13292
+DTEND;TZID=US/Pacific:20070417T153000
+DESCRIPTION:Description: There is an exciting new class of application that incorporates great design and an outside-the-browser experience to appeal to end users. Rich Internet Applications (RIA) take many forms and RIAs on the desktop include exciting technologies like Adobe's Apollo and Windows Presentation Foundation. Come listen to developers talk about why they went beyond the browser and how it helps them attract and keep users.\nSpeaker(s): Ryan Stewart; Ben Galbraith; Jeff Mancuso; Chris P. Saari; Dirk-Willem van Gulik\nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13292
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T144000
+SUMMARY:"Using Widget Syndication for Online Marketing and Measurement" Ed Anuff  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:12172
+DTEND;TZID=US/Pacific:20070417T153000
+DESCRIPTION:Description: Will 2007 really be the "Year of the Widget?" It's too early to tell\, but one thing is for certain\, any marketer looking to leverage the Internet needs to know about widgets. This talk will frame the latest information about widget syndication\, measurement\, and use as an innovative promotional delivery platform and will feature real-life examples. \nSpeaker(s): Ed Anuff; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12172
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T144000
+SUMMARY:"Moving from 1.0 to 2.0:  Philosophies and Structures for Change" Scott Hirsch Matt D. Jones; Lionel Menchaca; Jeremiah Owyang; Jeffrey Veen (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11836
+DTEND;TZID=US/Pacific:20070417T153000
+DESCRIPTION:Description: The 2.0 web world is more than just embedded technology -- it is a philosophy. Companies who embrace this thinking are more flexible\, agile\, and innovative in their strategy and approach. Are you a design firm\, individual freelancer\, or corporation trying to migrate past "old-school" thinking and move yourself\, management\, or team into a more progressive era? Hear the challenges companies like Yahoo! have faced\, and how they successfully migrated from the 1.0 to the 2.0 world.\nSpeaker(s): Scott Hirsch; Matt D. Jones; Lionel Menchaca; Jeremiah Owyang; Jeffrey Veen\nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11836
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T144000
+SUMMARY:"Building Awesome Web Sites & Services Using the Power of Happy Users" Ted Rheingold Stewart Butterfield; Joshua Schachter; Biz Stone (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:11759
+DTEND;TZID=US/Pacific:20070417T153000
+DESCRIPTION:Description: Middlespace development is when you include your service users as key team members. It's extremely cost effective and better ensures your product is going to be what the users actually want. Moderated by Ted Rheingold\, this panel discussion is comprised of people who have deployed middlespace techniques in their web sites. \nSpeaker(s): Ted Rheingold; Stewart Butterfield; Joshua Schachter; Biz Stone\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11759
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T144000
+SUMMARY:"Extending your Web Service to Include Editing Office Documents" TJ Kang  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13909
+DTEND;TZID=US/Pacific:20070417T153000
+DESCRIPTION:Description: ThinkFree APIs provide the Microsoft Office compatible editing capabilities available in the ThinkFree Online office productivity suite to web companies wishing to expand their feature set by adding new editing and publishing functionality. This presentation offers examples and technical details of how ThinkFree APIs embedded in web sites\, blogs\, and web services create a rich environment for user interaction.\nSpeaker(s): TJ Kang; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13909
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T144000
+SUMMARY:"Oh, The Places You&#146;ll Go, with Web 2.0 and Etelos" Jonathan Rochelle Michael Jones; David Munden; Surojit Niyogi; Joel Penner (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13879
+DTEND;TZID=US/Pacific:20070417T153000
+DESCRIPTION:Description: Welcome indeed to all the apps that you need.  From CRM\, Web-to-print\, ERP\, and BPMS; all the apps are customized SaaS. Integration\, customization\, and automation it's true; see what Etelos apps can do -- they even have CRM for IGoogle too. Work where you want\, do what you do\, and come explore the world of web point 2.\nSpeaker(s): Jonathan Rochelle; Michael Jones; David Munden; Surojit Niyogi; Joel Penner\nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13879
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T144000
+SUMMARY:"Commodity Data Center Design" James Hamilton  (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13295
+DTEND;TZID=US/Pacific:20070417T153000
+DESCRIPTION:Description: As an industry\, we're successfully building robust\, internet-scale services upon a fabric of unreliable\, low-cost\, commodity systems. These servers are unreliable compared to their big system ancestors\, yet we house them similarly: in highly redundant and expensive data centers. This talk describes a commoditized data center design using standard shipping containers as the core building block.\nSpeaker(s): James Hamilton; \nTrack: Web Operations\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13295
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T154500
+SUMMARY:"API and Mashup Best Practices" John Musser  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:10574
+DTEND;TZID=US/Pacific:20070417T163500
+DESCRIPTION:Description: Good mashups need good APIs. Why do some APIs succeed in gaining traction\, attracting developers\, and expanding markets while others languish on the vine? Providing an API means contending with a host of issues: technical\, design\, business\, legal\, security\, and more. In this session\, we'll take a look at the state of the API market and how companies are dealing with these questions.\nSpeaker(s): John Musser; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10574
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T154500
+SUMMARY:"Panel: Comparing Web Application Frameworks" David A. Black Avi Bryant; Adrian Holovaty; Jeremy Kemper; Dustin Whittle (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:10577
+DTEND;TZID=US/Pacific:20070417T163500
+DESCRIPTION:Description: Creators and architects of a select group of today's most modern\, successful web development frameworks will come together in this panel to answer questions from developers. \nSpeaker(s): David A. Black; Avi Bryant; Adrian Holovaty; Jeremy Kemper; Dustin Whittle\nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10577
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T154500
+SUMMARY:"Emerging Trends in Search Engine Optimization & Search Engine Marketing" David Berkowitz  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10615
+DTEND;TZID=US/Pacific:20070417T163500
+DESCRIPTION:Description: This panel session will cover the latest emerging trends and techniques in Search Engine Optimization (SEO) and Search Engine Marketing (SEM). The panel will discuss a variety of topics for optimizing search-based marketing\, such as natural search tips\, SEM and paid inclusion\, sitemap standards\, syndication via Google Base\, microformats\, tagging\, social media optimization\, long tail optimization\, blogging and blog PR\, and personalized search\, among others.\nSpeaker(s): David Berkowitz; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10615
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T154500
+SUMMARY:"The Beauty in Standards and Accessibility" Jeremy Keith  (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11834
+DTEND;TZID=US/Pacific:20070417T163500
+DESCRIPTION:Description: It's been several years since web standards were championed by designers and developers alike. If you want your content or services searched and consumed by millions of web and mobile users\, designing and developing with standards isn't an option -- it's a necessity. Learn how to implement standards across browsers\, platforms and devices\, and hear from experts on how semantics help web sites\, search engines\, and ultimately\, people.\nSpeaker(s): Jeremy Keith; \nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11834
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T154500
+SUMMARY:"The Power of P2P: Millions of Tiny Unstoppable Pieces" Ori Brafman Noah Kagan; Edward Kozel; Premal Shah (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:13719
+DTEND;TZID=US/Pacific:20070417T163500
+DESCRIPTION:Description: Over the past ten years\, peer-to-peer (P2P) networks and services have become part of the fabric of today's Internet. P2P services like BitTorrent and Joost are being used to distribute video and other media\, and even the foundations of TCP/IP and the Internet itself are based on P2P concepts and frameworks. There are also offline parallels for organizing people and systems around P2P.  Join us to find out more about the future of P2P and the unstoppable power of leaderless systems and organizations. \nSpeaker(s): Ori Brafman; Noah Kagan; Edward Kozel; Premal Shah\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13719
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T154500
+SUMMARY:"Rich with Reach" Ted Patrick  (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13708
+DTEND;TZID=US/Pacific:20070417T163500
+DESCRIPTION:Description: Technology choices are critically important in delivering rich applications to the widest possible user base. In this session\, Ted Patrick will talk about Adobe's development and deployment technologies designed to deliver "Rich with Reach." The session will cover Adobe's web and desktop runtimes and the Flash and Flex development tools. \nSpeaker(s): Ted Patrick; \nTrack: Products and Services\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13708
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T154500
+SUMMARY:"Commodization of IT and What the Future Holds" Simon Wardley James A. Duncan (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13901
+DTEND;TZID=US/Pacific:20070417T163500
+DESCRIPTION:Description: The commodization of IT and the speed of change from new and exciting to boring and ubiquitous are quickly changing the way we work and how we view our resource requirements and the cost of doing business. This presentation takes a walk into the future of commodization of IT and what lies ahead\, and looks at how products like EC2\, Salesforce.com\, and Zimki are speeding this process up.\nSpeaker(s): Simon Wardley; James A. Duncan\nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13901
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T154500
+SUMMARY:"English as a Web Platform" Casey Tompkins Cal Evans; Jerrod Strid (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13880
+DTEND;TZID=US/Pacific:20070417T163500
+DESCRIPTION:Description: An introduction to rapid development with EASE\, the English Application Scripting Engine. Imagine a world where anybody can customize a web application using conversational English. Etelos has created innovative products designed to rapidly develop and distribute applications in English. With savvy integrations of Ajax\, PHP\, .Net\, and Java\, EASE revolutionizes web development. \nSpeaker(s): Casey Tompkins; Cal Evans; Jerrod Strid\nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13880
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T165000
+SUMMARY:"Syndication" Niall Kennedy  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:10571
+DTEND;TZID=US/Pacific:20070417T174000
+DESCRIPTION:Description: Niall Kennedy will speak about Syndication in the context of common output and parsers; plugging content into endpoints you may already know about\, such as a feed reader; and many other applications you never imagined. He'll talk about some of the common and less common uses of RSS and Atom syndication\, including its use by government\, industrial\, and B2B sectors.\nSpeaker(s): Niall Kennedy; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10571
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T165000
+SUMMARY:"Creating Offline Web Applications Within the Browser" Brad Neuberg  (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:12169
+DTEND;TZID=US/Pacific:20070417T174000
+DESCRIPTION:Description: Learn how to make your web applications work offline! Brad Neuberg has been working on offline access and storage for web applications for years and will share strengths and weaknesses of different approaches\, including the Dojo Offline Toolkit.\nSpeaker(s): Brad Neuberg; \nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12169
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T165000
+SUMMARY:"What I Learned from Syphilis: Epidemiology & Viral Marketing" David Hornik  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10589
+DTEND;TZID=US/Pacific:20070417T174000
+DESCRIPTION:Description: What can be learned about the digital world of viral marketing from the real world of epidemiology? This session -- not for the faint of heart -- will take an in-depth look at successful viral techniques found in meat space\, and consider how they can be used to improve the online medium.  (Note: Entrepreneurs under the age of 18 must be accompanied by an adult.)\nSpeaker(s): David Hornik; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10589
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T165000
+SUMMARY:"Corporate Makeover, Web 2.0 Edition" Greg Narain Tom Hobbs; Nadav Savio (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:13301
+DTEND;TZID=US/Pacific:20070417T174000
+DESCRIPTION:Description: When will the corporate world catch on to Web 2.0? A little Ajax on the homepage doesn't count. We've invited five well-known designers to take a crack at some large corporate web sites and show us what they've done to make them over\, from a design\, feature\, and user experience standpoint. Get inspiration for your own work and for next year; in 2008 we'll make this a competition open to all attendees!\nSpeaker(s): Greg Narain; Tom Hobbs; Nadav Savio\nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13301
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T165000
+SUMMARY:"Mission Possible: A Web 2.0 Company with a Revenue Model" John Witchel  (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:11129
+DTEND;TZID=US/Pacific:20070417T174000
+DESCRIPTION:Description: Chris Larsen\, co-founder and CEO of Web 1.0 company E-LOAN and now Web 2.0 company Prosper\, shares how his new person-to-person company built a revenue model on top of a social networking philosophy. This approach has led to blazing growth and worldwide buzz because of its community element.\nSpeaker(s): John Witchel; \nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11129
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T165000
+SUMMARY:"The Future of Web Apps: Use Your Application in Thin Air" Danny Kolke Casey Tompkins (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13881
+DTEND;TZID=US/Pacific:20070417T174000
+DESCRIPTION:Description: Announcing a whole new generation of web apps. Etelos will unveil a new addition to the Etelos Application Server platform that will allow users to utilize every function of their web-based application without a connection to the Web. Come see what the buzz is about at a demo of this and other applications built in the Etelos Ecosystem. \nSpeaker(s): Danny Kolke; Casey Tompkins\nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13881
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T165000
+SUMMARY:"Coghead: An Introduction to Do-it-yourself Web Applications" Greg Olsen  (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13906
+DTEND;TZID=US/Pacific:20070417T174000
+DESCRIPTION:Description: Businesses are faced with a software conundrum -- packaged software often can't meet their specific needs\, but custom development is far too expensive and slow. Greg Olsen\, Coghead's CTO\, will introduce a new way to get software that works the way your business works by building a rich and diverse set of applications with Coghead's do-it-yourself application creation service.\nSpeaker(s): Greg Olsen; \nTrack: Products and Services\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13906
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T165000
+SUMMARY:"Ensuring Mass Market Success for New Services" Birju Patel  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13876
+DTEND;TZID=US/Pacific:20070417T174000
+DESCRIPTION:Description: Independent Software Vendors (ISVs) of Web 2.0 services face many challenges getting their products to market. For ISVs\, a more assured path is to work directly with Broadband Service Providers (BSPs) as a distribution channel to the broader consumer market. Drawing upon in-market customer case studies\, Radialpoint will demonstrate how it leverages its managed service delivery expertise to work with ISVs to effectively deliver services with the BSP to a broad consumer audience.\nSpeaker(s): Birju Patel; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13876
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T180000
+SUMMARY:"Official Web 2.0 Expo Conference Attendee Party (sponsored by Nokia)"   (Room: )
+LOCATION:         
+DTSTAMP:19010101T010101Z
+UID:14018
+DTEND;TZID=US/Pacific:20070417T193000
+DESCRIPTION:Description: Eat\, drink and mingle at this event &#151; exclusive to Web 2.0 Expo conference attendees. This will be a great opportunity to unwind and network with other conference goers.\nSpeaker(s): ; \nTrack: \nRoom: 
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/14018
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T193000
+SUMMARY:"Birds of a Feather Sessions (BoFs)"   (Room: )
+LOCATION:         
+DTSTAMP:19010101T010101Z
+UID:13230
+DTEND;TZID=US/Pacific:20070417T213000
+DESCRIPTION:Description: Following the planned sessions during the day\, it's time for Web 2.0 Expo participants to take the floor. Open to all attendees\, BoFs are informal conversations that you and other participants plan. Sign up to lead a BoF of your own. \nSpeaker(s): ; \nTrack: \nRoom: 
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13230
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T193000
+SUMMARY:"Social Casual Gaming &#150; The next, biggest, and most natural of all online social platforms"   (Room: Alpha)
+LOCATION:Alpha         
+DTSTAMP:19010101T010101Z
+UID:11897
+DTEND;TZID=US/Pacific:20070417T203000
+DESCRIPTION:Description: \nSpeaker(s): ; \nTrack: \nRoom: Alpha
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11897
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T203000
+SUMMARY:"How to Boost the Responsiveness of Your Web 2.0 App: Client-side Caching Strategies"   (Room: Beta)
+LOCATION:Beta         
+DTSTAMP:19010101T010101Z
+UID:12094
+DTEND;TZID=US/Pacific:20070417T213000
+DESCRIPTION:Description: \nSpeaker(s): ; \nTrack: \nRoom: Beta
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12094
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070417T203000
+SUMMARY:"Web 2.0 in K12 Education"   (Room: Alpha)
+LOCATION:Alpha         
+DTSTAMP:19010101T010101Z
+UID:14283
+DTEND;TZID=US/Pacific:20070417T213000
+DESCRIPTION:Description: \nSpeaker(s): ; \nTrack: \nRoom: Alpha
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/14283
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T083000
+SUMMARY:"Welcome" Tim O'Reilly  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13938
+DTEND;TZID=US/Pacific:20070418T084500
+DESCRIPTION:Description: \nSpeaker(s): Tim O'Reilly; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13938
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T084500
+SUMMARY:"Jeff Weiner in Conversation with John Battelle" Jeff Weiner  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13256
+DTEND;TZID=US/Pacific:20070418T091500
+DESCRIPTION:Description: \nSpeaker(s): Jeff Weiner; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13256
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T091500
+SUMMARY:"High Order Bit:  The Other Local" Rich Skrenta  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13939
+DTEND;TZID=US/Pacific:20070418T093000
+DESCRIPTION:Description: \nSpeaker(s): Rich Skrenta; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13939
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T094000
+SUMMARY:"Web 2.0 for the Enterprise: Is It Soup Yet?" Dan Farber Satish Dharmaraj; Ross Mayfield (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:10596
+DTEND;TZID=US/Pacific:20070418T101000
+DESCRIPTION:Description: The user experience is more critical today with the emergence of Web 2.0 during the past few years. Today wikis\, blogs\, and widgets are a part of the daily nomenclature in the work environment\, but there are many questions around how this Web 2.0 world moves into the Enterprise world. This panel will provide color commentary about the Web and Enterprise 2.0 worlds and what is ready for prime time.\nSpeaker(s): Dan Farber; Satish Dharmaraj; Ross Mayfield\nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10596
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T100000
+SUMMARY:"High Order Bit:  Joost: P2P Television" Dirk-Willem van Gulik  (Room: Third Floor)
+LOCATION:Third Floor         
+DTSTAMP:19010101T010101Z
+UID:13259
+DTEND;TZID=US/Pacific:20070418T101000
+DESCRIPTION:Description: \nSpeaker(s): Dirk-Willem van Gulik; \nTrack: Keynotes\nRoom: Third Floor
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13259
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T104500
+SUMMARY:"Understanding Customer Behavior at Scale" Andy Edmonds  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:12285
+DTEND;TZID=US/Pacific:20070418T113500
+DESCRIPTION:Description: How do you convert gigabytes\, or terabytes\, of user data into insights? This session will explore triangulation to richer but sparser data like that from the usability lab\, surveys\, and feedback forms. From the methodology of task analysis to the techniques of markov modeling\, you'll go both wide and deep on the state of the art in assessing your customers' experience at internet scale.\nSpeaker(s): Andy Edmonds; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12285
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T104500
+SUMMARY:"Panel: Examining AJAX Frameworks" Simon Willison John Resig; Alex Russell; Matt Sweeney; Bret Taylor (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:10576
+DTEND;TZID=US/Pacific:20070418T113500
+DESCRIPTION:Description: AJAX is becoming a part of almost every web application. Users expect this and are increasingly disappointed when page refreshes occur for trivial updates. An AJAX framework can help you create or update your application using the best techniques available. This panel will explore problem areas and the way frameworks solve them -- things like event handling\, animation\, and drag and drop. \nSpeaker(s): Simon Willison; John Resig; Alex Russell; Matt Sweeney; Bret Taylor\nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10576
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T104500
+SUMMARY:"Top 5 Dos and Don'ts for Measuring Web 2.0" Akin Arikan  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10863
+DTEND;TZID=US/Pacific:20070418T113500
+DESCRIPTION:Description: Web 2.0 has recently become one of the most talked about new phrases of the year garnishing attention from leading industry analysts\, experts\, and thought leaders. Marketers are now reaching their audience through new mediums and channels such as podcasts\, RSS\, and mobile marketing. Using customer case studies\, this presentation will focus on how marketers can optimize their use of these new mediums by leveraging web analytics information to improve their ROI.\nSpeaker(s): Akin Arikan; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10863
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T104500
+SUMMARY:"From Desktop to Device: Designing the Ubiquitous Mobile Experience" Kelly Goto Brian Fling; John SanGiovanni; George Williams (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11839
+DTEND;TZID=US/Pacific:20070418T113500
+DESCRIPTION:Description: Experiences with web-based products and services are no longer limited to the desktop. Flickr\, Twitter\, Google Maps\, and Gmail are paving the way for cross-device ubiquity whether flying\, chatting\, checking email or a map. Learn how to strategize\, define\, structure\, and deploy interactive experiences on mobile and handheld devices. Gain clearer insight into the process of moving from desktop to device in the most seamless manner possible and integrating the two experiences -- at home\, school\, the office\, or on-the-go.\nSpeaker(s): Kelly Goto; Brian Fling; John SanGiovanni; George Williams\nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11839
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T104500
+SUMMARY:"Business Mashups for Fun and Profit" Adam Gross Stefan Andreasen; Oren Michels (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:11181
+DTEND;TZID=US/Pacific:20070418T113500
+DESCRIPTION:Description: With the shift to on demand and utility computing models\, new mashups based on their consumer counterparts are changing the apps business people use\, the way those apps are built\, and the way companies profit from supplying them. Using demos\, code examples\, and case studies in this session\, the technology and business models behind these new mashups will be presented.\nSpeaker(s): Adam Gross; Stefan Andreasen; Oren Michels\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11181
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T104500
+SUMMARY:"Web Applications are Getting Interesting!" Martin Plaehn  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13903
+DTEND;TZID=US/Pacific:20070418T113500
+DESCRIPTION:Description: Today's developers must navigate intense challenges including multiweb service access; state\, data and display management; rich Ajax interactivity; developer collaboration and component reuse; application extensibility and revision; provisioning infrastructure; and end-user delivery. At this session\, Bungee Labs demonstrates and discusses its integrated service approach and cuts a clear path through these challenges for small and medium businesses.\nSpeaker(s): Martin Plaehn; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13903
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T104500
+SUMMARY:"Web 2.0:  Monetizing and Enabling Customer Centric Product Platforms" G. Oliver Young Frank Gutierrez; Gerald Huff; Bill Maimone; Dharmesh Mistry; Kim Polese (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:14146
+DTEND;TZID=US/Pacific:20070418T113500
+DESCRIPTION:Description: \nSpeaker(s): G. Oliver Young; Frank Gutierrez; Gerald Huff; Bill Maimone; Dharmesh Mistry; Kim Polese\nTrack: Products and Services\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/14146
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"Web2.Open"   (Room: Beta)
+LOCATION:Beta         
+DTSTAMP:19010101T010101Z
+UID:13233
+DTEND;TZID=US/Pacific:20070418T170000
+DESCRIPTION:Description: The Web2.Open is a part of the Web 2.0 Expo\, open to anyone who would like to attend. The Web2.Open was conceived with FooCamp/BarCamp in mind\, blending some pre-scheduled content with an open grid where the attendees fill in the sessions they either want to discuss or present themselves. The Web2.Open will consist of four major elements: open grid sessions\, pre-scheduled speaker sessions\, BoFs\, and Mashroom. \nSpeaker(s): ; \nTrack: \nRoom: Beta
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13233
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"Making Cents of Yens and Euros: Web 2.0 Internationalization" Achim Ruopp  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:11203
+DTEND;TZID=US/Pacific:20070418T135000
+DESCRIPTION:Description: One thing hasn't changed in Web 2.0: users can be from many different countries\, speaking many different languages. This session will show how to design internationalized SOAP and REST web services\, how to deal with multiple languages in syndication\, and how to make all of this work in Ajax. \nSpeaker(s): Achim Ruopp; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11203
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"Implementing OpenID" David Recordon Brian Ellin (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:12164
+DTEND;TZID=US/Pacific:20070418T135000
+DESCRIPTION:Description: Heard about OpenID but not sure where to get started? Used OpenID but want to learn more about integrating it into your groovy Web 2.0 application?  We'll give a brief history of OpenID\, how it grew from a grass-roots community at Six Apart to being supported by major vendors such as VeriSign\, Symantec\, Microsoft\, and AOL\, and then dig into multiple code examples. \nSpeaker(s): David Recordon; Brian Ellin\nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/12164
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"The Need for Feeds: Understanding RSS & Blog Marketing" Niall Kennedy Bill Flitter; Don Loeb; Stephan M. Spencer (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:11178
+DTEND;TZID=US/Pacific:20070418T135000
+DESCRIPTION:Description: This session will cover how to use blogs and RSS feeds as user-driven marketing platforms to enhance and improve content publishing and syndication. Learn the best tips\, tools\, and techniques to optimize content delivery via blogs and RSS for maximum reach and effectiveness\, and find out how RSS marketing can be used to increase organic search opportunities\, and how blogs and feed metrics are collected and analyzed. \nSpeaker(s): Niall Kennedy; Bill Flitter; Don Loeb; Stephan M. Spencer\nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11178
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"The Challenge of Agile Development: Avoiding Half-Baked Design" Alex Chaffee Leslie Chicoine (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11838
+DTEND;TZID=US/Pacific:20070418T135000
+DESCRIPTION:Description: With today's web-based applications "re-launching" every few weeks rather than several months\, something has to be done in order to "control the chaos." This session will cover the "agile" behind the process and why today's 2.0 community embraces SCRUM and other extreme programming methodologies as part of their development process; battle waterfall methods and cowboy coding; and how incorporation of agile methodologies leads to success. \nSpeaker(s): Alex Chaffee; Leslie Chicoine\nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11838
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"Web 2.0: Show Me the Money" Jeremy Liew  (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:11173
+DTEND;TZID=US/Pacific:20070418T135000
+DESCRIPTION:Description: For recent Web 2.0 startups there has been too much reliance on the advertising business model. This is rarely enough to build a sustainable big business. What are the new online behaviors that are mapped to offline\, and how can companies leverage that to monetize their offerings? This session speaks to issues and challenges surrounding consumer behavior\, digitization of the content\, and most importantly\, where the real money is in the Web 2.0 race. \nSpeaker(s): Jeremy Liew; \nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11173
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"Web 2.0++: Why We Got Here and What's Next" Rolf Skyberg  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13804
+DTEND;TZID=US/Pacific:20070418T135000
+DESCRIPTION:Description: The Web is full of lists describing the "what&" of Web 2.0\, but where is the list of the reasons "why?" Through an examination of the past\, learn why Web 2.0 was a pre-destined consequence of social psychology\, military dollars\, and determined hackers and entrepreneurs. Come explore with us where the Web will be tomorrow and beyond by extending the same rich patterns which tie all these events and locations together.\nSpeaker(s): Rolf Skyberg; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13804
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"Beyond Search Engines: Building Truly Social Experience Engines" Yathish Sarathy Kapil Apshankar (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13908
+DTEND;TZID=US/Pacific:20070418T135000
+DESCRIPTION:Description: The search tools of today are all about smart ways to gather\, index\, and disseminate information. Organic technology revolutions like Web 2.0 have already reminded us that the Web is very much about people and the myriads of ways in which we connect with each other. Join us as we explore ways of bringing these social connections to the forefront -- bringing the Originators and the Seekers together\, right at the moment where search begins.\nSpeaker(s): Yathish Sarathy; Kapil Apshankar\nTrack: Products and Services\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13908
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T130000
+SUMMARY:"Mashing Up with User-centric Identity" John Panzer Praveen Alavilli (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13825
+DTEND;TZID=US/Pacific:20070418T135000
+DESCRIPTION:Description: In a Web 2.0 world\, users combine services from many providers. Having a common identity across providers eliminates a barrier to entry and adopting a user-centric identity system puts the user in control of how their information is combined. This session is about the opportunities and issues involved specifically with adopting open protocols\, the solutions they provide\, and open issues that remain to be solved.\nSpeaker(s): John Panzer; Praveen Alavilli\nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13825
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T141000
+SUMMARY:"Licensing User-Generated Content" Fred von Lohmann  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:13690
+DTEND;TZID=US/Pacific:20070418T150000
+DESCRIPTION:Description: Letting users create\, upload\, manipulate\, and reuse content is a hallmark of many "Web 2.0" businesses. Unfortunately\, copyright law is not always as flexible as web developers wish it were\, which means that certain design decisions are informed (dictated?) by the copyright and contract law. We'll take a look at YouTube\, Wikipedia\, and Flickr with an eye toward uncovering how these guys handle the uncertainties.\nSpeaker(s): Fred von Lohmann; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13690
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T141000
+SUMMARY:"From Pages to People: Behavioral Targeting" Bill Gossman  (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10853
+DTEND;TZID=US/Pacific:20070418T150000
+DESCRIPTION:Description: Google's ad success is based on ranking pages--but pages remain a proxy for people. Behavioral targeting enables marketers to engage people directly. This presentation will explain how behavioral targeting complements search and connects marketers directly with their target audiences\, while delivering a richer online experience.\nSpeaker(s): Bill Gossman; \nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10853
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T141000
+SUMMARY:"Immersive Experiences: Lessons from Game Designers" Ben Cerveny Raph Koster (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11832
+DTEND;TZID=US/Pacific:20070418T150000
+DESCRIPTION:Description: Game design has dealt with a lot of the interaction issues that designer-developers are just beginning to face today. Ideas like flow\, easter eggs\, and feature discovery have been used and refined for years by game designers to achieve some of the same user experiences web designers are pursuing now. This session looks to games and other related fields for both inspiration and practical strategies for improving web design.\nSpeaker(s): Ben Cerveny; Raph Koster\nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11832
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T141000
+SUMMARY:"Ten Ways to Run a Startup Like Genghis Khan" Kevin Hale  (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:11256
+DTEND;TZID=US/Pacific:20070418T150000
+DESCRIPTION:Description: In twenty-five years\, the Mongol army subjugated more lands and people than the Romans had conquered in four hundred years\, and Genghis Khan conquered more than twice as much as any other man in history--and he did it all with an army that was nearly always outnumbered 3 to 1 on the battlefield. While every Mongol trick doesn't always translate well\, we'll show you ten that work great in a startup.\nSpeaker(s): Kevin Hale; \nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11256
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T141000
+SUMMARY:"Unleash the Power of Us Within the Enterprise" Carol Jones  (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:13900
+DTEND;TZID=US/Pacific:20070418T150000
+DESCRIPTION:Description: Web 2.0 and social networking software are changing the design and application of collaboration tools in the enterprise. Carol Jones will discuss and demonstrate the Web 2.0 design aspects of a set of integrated community collaboration services\, IBM Lotus Connections\, that uncover the collective expertise of organizations by dynamically uncovering relationships between people\, the information they know\, and the tasks they work on.\nSpeaker(s): Carol Jones; \nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13900
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T141000
+SUMMARY:"Web-scale Computing:  Building Low-cost, Scalable Apps with Web Services" Mike Culver Don MacAskill; Chad Walters (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13471
+DTEND;TZID=US/Pacific:20070418T150000
+DESCRIPTION:Description: Amazon.com spent ten years and over $1 billion developing a world-class technology and content platform that powers Amazon web sites for millions of customers every day. Today\, Amazon Web Services exposes this technology\, through 10 open APIs\, allowing developers to build applications leveraging the same robust\, scalable\, and reliable technology that powers Amazon's business. This session will help the audience understand the need to build scalable web applications and how to scale it out using Amazon EC2\, on-demand compute capacity. \nSpeaker(s): Mike Culver; Don MacAskill; Chad Walters\nTrack: Web Operations\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13471
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T152000
+SUMMARY:"Mobile Web 2.0" Ajit Jaokar Tony Fish (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:11055
+DTEND;TZID=US/Pacific:20070418T161000
+DESCRIPTION:Description: Mobile Web 2.0 discusses how the seven principles of Web 2.0 extend to Mobile devices. It addresses the pitfalls and opportunities in developing Mobile Web applications and in leveraging user-generated content relating to Mobile devices.\nSpeaker(s): Ajit Jaokar; Tony Fish\nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11055
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T152000
+SUMMARY:"Bringing Applications from the Web Browser to the Desktop" Alan Lewis  (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:11038
+DTEND;TZID=US/Pacific:20070418T161000
+DESCRIPTION:Description: Rich Desktop Applications are the way of the future. Thanks to AJAX and other technologies\, web developers can easily bring full-blown applications straight to the desktop. In this session\, you'll see an application that expands the eBay marketplace from the Web to the desktop and discuss what's next for the industry as emerging platforms like Microsoft WPF and Adobe Apollo make building desktop applications easier than ever. Learn what lives in the space where the desktop and the Internet meet. \nSpeaker(s): Alan Lewis; \nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11038
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T152000
+SUMMARY:"PR 2.0: Dead as a Doornail, or Still Alive & Kicking?" Brian Solis Tom Biro; Jeremy Pepper; Michael Pranikoff; Donna Sokolsky (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:10591
+DTEND;TZID=US/Pacific:20070418T161000
+DESCRIPTION:Description: In the online world\, PR has lately been viewed as out of fashion -- blogs and social networks are "it\," and press releases are pass&eacute;... or are they? Are dead wood media and reporters no longer relevant\, or do they still have reach? How does PR operate today\, in a world full of direct communication with customers via web sites\, email\, blogs\, and video? Find out how PR 2.0 combines both old world techniques and new.\nSpeaker(s): Brian Solis; Tom Biro; Jeremy Pepper; Michael Pranikoff; Donna Sokolsky\nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10591
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T152000
+SUMMARY:"Designing for Web 2.0: The Visual Ecosystem" Luke Wroblewski  (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:11835
+DTEND;TZID=US/Pacific:20070418T161000
+DESCRIPTION:Description: How can visual design enhance user experience when your audience might be coming from a browser\, an RSS feed\, or a widget? In this two-part session\, we'll show real-world strategies and techniques for designing your visual ecosystem through two case studies: one focusing on a redesign of an existing site; the other\, a startup with a ground-up new UI and user experience design.\nSpeaker(s): Luke Wroblewski; \nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11835
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T152000
+SUMMARY:"Reality Bites: The Future of Gaming + Virtual Worlds 2.0" Susan Wu Joichi Ito; Raph Koster; Lane Merrifield; Craig Sherman; Ginsu Yoon (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:11218
+DTEND;TZID=US/Pacific:20070418T161000
+DESCRIPTION:Description: What comes next\, after Web 2.0? The future of the Web lies at the intersection of massively multiplayer online games like World of Warcraft and social networks like MySpace. \nSpeaker(s): Susan Wu; Joichi Ito; Raph Koster; Lane Merrifield; Craig Sherman; Ginsu Yoon\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11218
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T152000
+SUMMARY:"Web 2.0 for the Enterprise: What Corporations Really Want and Use" Rob Rueckert Michael Lenz; Ross Mayfield; David Meyer (Room: 2018)
+LOCATION:2018         
+DTSTAMP:19010101T010101Z
+UID:13904
+DTEND;TZID=US/Pacific:20070418T161000
+DESCRIPTION:Description: Web 2.0 has penetrated the large corporation forming Enterprise 2.0. In this session\, hear from a panel about what new technologies companies are using (such as Office 2.0\, blogs\, wikis\, podcasting\, etc.).   They will explain how Web 2.0 has made an impact on how business is changing\, what applications are being used\, and where there are needs for new solutions.\nSpeaker(s): Rob Rueckert; Michael Lenz; Ross Mayfield; David Meyer\nTrack: Products and Services\nRoom: 2018
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13904
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T152000
+SUMMARY:"Authoring Web 2.0 ... Introducing Web 2.1" William Mobley  (Room: 2016)
+LOCATION:2016         
+DTSTAMP:19010101T010101Z
+UID:13907
+DTEND;TZID=US/Pacific:20070418T161000
+DESCRIPTION:Description: Ning.com and Yahoo! Pipes make news for allowing users to aggregate content from other sites. This session explores the implications for Web 2.0 users who want easier web browsing\, hyperlocal content\, and targeted interest media. New Web 2.1 entrants like YouGetIt.com exploit opportunities that aggregating the Internet presents. Will early adopters leapfrog to the next level of the Web?\nSpeaker(s): William Mobley; \nTrack: Products and Services\nRoom: 2016
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13907
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T163000
+SUMMARY:"Microformats for Web Services and Portable Content" Kevin Lawver  (Room: 2008)
+LOCATION:2008         
+DTSTAMP:19010101T010101Z
+UID:11377
+DTEND;TZID=US/Pacific:20070418T172000
+DESCRIPTION:Description: Microformats are all the rage\, but what are the practical applications?  This presentation will show some examples of web services and how to share content easily using microformats. We'll show how microformats are "born\," how to implement them\, and how to build web services and products around them.\nSpeaker(s): Kevin Lawver; \nTrack: Web 2.0 Fundamentals\nRoom: 2008
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11377
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T163000
+SUMMARY:"Scripting and the Java Platform: Productivity and Performance" Roberto Chinnici  (Room: 2022)
+LOCATION:2022         
+DTSTAMP:19010101T010101Z
+UID:11164
+DTEND;TZID=US/Pacific:20070418T172000
+DESCRIPTION:Description: In this talk we show how the combination of scripting languages and the Java platform provides a development and deployment environment for web applications that is vastly superior to either one of its components.\nSpeaker(s): Roberto Chinnici; \nTrack: Web 2.0 Services and Platforms\nRoom: 2022
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/11164
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T163000
+SUMMARY:"The Social Media Revolution: You Oughta Be in Pictures (and Podcasting, and Vlogging)" Jeremiah Owyang Thomas Hawk; Chris Pirillo; Robert Scoble (Room: 2002)
+LOCATION:2002         
+DTSTAMP:19010101T010101Z
+UID:13331
+DTEND;TZID=US/Pacific:20070418T172000
+DESCRIPTION:Description: Hear from some of the social media experts in our industry why online sharing is important. For those working in small businesses with limited budgets and time\, maximizing your ablity to be heard and seen online is critical in the competitive Web 2.0 space.   \nSpeaker(s): Jeremiah Owyang; Thomas Hawk; Chris Pirillo; Robert Scoble\nTrack: Marketing and Community\nRoom: 2002
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13331
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T163000
+SUMMARY:"Embracing the Swirl:  Ecommerce in the 2.0 Era" Kip Voytek  (Room: 2003)
+LOCATION:2003         
+DTSTAMP:19010101T010101Z
+UID:10722
+DTEND;TZID=US/Pacific:20070418T172000
+DESCRIPTION:Description: People shop in increasingly complex\, unique\, uncontrollable\, and unpredictable ways. Marketing and sales must work less like a hook and more like Velcro&#151;with thousands of (equally important) contact points. We must remodel how people shop and then rethink how we design interactive experiences. The swirl is a model of consumer behavior that fuses these new realities with the accountability demanded by marketing and sales groups. \nSpeaker(s): Kip Voytek; \nTrack: Design and User Experience\nRoom: 2003
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/10722
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T163000
+SUMMARY:"Web 2.0 for Government and Non-Profits" Dion Hinchcliffe Dan Newman (Room: 2009)
+LOCATION:2009         
+DTSTAMP:19010101T010101Z
+UID:13371
+DTEND;TZID=US/Pacific:20070418T172000
+DESCRIPTION:Description: \nSpeaker(s): Dion Hinchcliffe; Dan Newman\nTrack: Strategy and Business Models\nRoom: 2009
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/13371
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20070418T163000
+SUMMARY:"Building On-demand Business Applications" Adam Gross  (Room: 2014)
+LOCATION:2014         
+DTSTAMP:19010101T010101Z
+UID:14088
+DTEND;TZID=US/Pacific:20070418T172000
+DESCRIPTION:Description: This session provides an overview of a new kind of Internet service&#151;the on-demand platform&#151;and how it can be used to quickly build and bring to market business applications for almost any use case or industry. Learn how Apex\, the technology behind salesforce.com's leading "enterprise" Web 2.0 service\, can be used to create virtually any kind of on-demand application. \nSpeaker(s): Adam Gross; \nTrack: Products and Services\nRoom: 2014
+URL:http://www.web2expo.com/cs/et2007/view/e_sess/14088
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,9 @@
+<h1>Search for: <%= @q %></h1>
+
+You searched for "<%= @q %>" and we found <%= @talks.size %> results.
+
+
+
+<%= render :partial => 'talk/list', :locals => {:talks => @talks} %>
+
+

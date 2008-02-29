@@ -1,0 +1,6 @@
+<h1 style="display: inline;"><%= @user.login %></h1>
+<% if @user.url %>
+ (<%= link_to @user.url, @user.url %>)
+<% end %>
+
+<%= render :partial => 'talk/list', :locals => {:talks => @talks} %>

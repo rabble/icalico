@@ -1,0 +1,121 @@
+  #grid {
+   font-size: 8pt;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+width:90%;
+text-align:center;
+}
+div#grid table{
+border:0;
+border-collapse:collapse;
+text-align:center;
+}
+
+
+
+#grid  a{
+color:#000;
+}
+
+#grid table tr td:hover {
+background-color: #fff;
+font-weight:normal;
+}
+
+#grid table tr td:hover a {
+color:#00387D;
+
+}
+
+div#grid td.Break:hover,
+div#grid td.nohighlight:hover{
+background-color: #eee;
+}
+
+
+
+#grid  td,
+#grid th{
+border:1px #000 solid;
+padding: 4px;
+margin:0;
+
+   text-align: left;
+   vertical-align: top;
+   font-size: 8pt;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+#grid th {
+background-color: #00387D;
+text-align:center;
+color: #ACDFEE;
+}
+
+
+div.tracknav {
+
+   text-align: center;
+}
+
+#grid th.dayheader {
+
+  background-color:  #ED3E36;
+  color: white;
+  text-align: center;
+font-size: 1.3em;
+font-weight: normal;
+text-transform:uppercase;
+text-align:center;
+letter-spacing: .4em;
+}
+
+div.verticalspace {
+  padding-top: 2em;
+}
+
+.JavaScript_Ajax { background-color: #8080f0; }
+.Keynote { background-color: #80b0b0; }
+.Emerging_Topics { background-color: #80b0e0; }
+.Linux_Kernel_for_SysAdmins { background-color: #80d0b0; }
+.Linux_for_Programmers { background-color: #80f0a0; }
+.Linux { background-color: #80f0a0; }
+.Java { background-color: #80f080; }
+.Perl { background-color: #b0e080; }
+.Python { background-color: #d0c080; }
+.Business { background-color: #d080f0; }
+.Databases { background-color: #f08080; }
+.Event { background-color: #f0b0b0; }
+.PHP { background-color: #f0a080; }
+.Products_and_Services { background-color: #f0f060; }
+.Security { background-color: #ff4040; }
+.Ruby { background-color: #ffc060; }
+.Web_Apps { background-color: #d0b0b0; }
+.Programming { background-color: #f0e080; }
+.Windows { background-color: #b040b0; }
+.Desktop_Apps { background-color: #408080; }
+
+.Break { background-color: #eee; }
+
+
+
+td.nohighlight {
+   color: #808080;
+   font-size: 8pt;
+   font-family: times, arial;
+background-color: #eee;
+}
+
+td.highlight {
+font-weight:bold;
+   font-size: 9pt;
+   background-color: #d0a0c0;
+   font-family: garamond, times, arial;
+}
+
+
+
+ 
+
+
+ 
+

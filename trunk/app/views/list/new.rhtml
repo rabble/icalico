@@ -1,0 +1,7 @@
+<%= error_messages_for @list %>
+
+
+<%= start_form_tag %>
+  Name: <%= text_field 'list', 'name' %>
+    <%= submit_tag 'Create' %>
+<%= end_form_tag %>

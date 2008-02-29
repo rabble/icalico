@@ -1,0 +1,18 @@
+first:
+  user_id: 1
+  talk_id: 2
+second:
+  user_id: 2
+  talk_id: 1
+third: 
+  user_id: 2
+  talk_id: 3
+fourth:
+  user_id: 3
+  talk_id: 4
+a:
+  user_id: 1
+  talk_id: 3
+b:
+  user_id: 2
+  talk_id: 4

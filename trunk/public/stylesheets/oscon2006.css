@@ -1,0 +1,434 @@
+          /*********************
+html elements
+********************/      
+BODY {
+font-size: 12px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+margin: 0;
+}
+
+
+
+P, td {
+ font-size: 12px;
+line-height: 16px; 
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+FORM  p, form table *{
+   font-size:1em;
+}
+
+h2{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: normal;
+letter-spacing: .1em;
+color: #00397F;
+}
+
+h3{
+color: #00397F;
+}
+
+
+a  {
+color: #F87700;
+
+}
+a:link  {
+color: #EA3E36;
+
+}
+
+a:visited  {
+
+color: #EA3E36;
+}
+
+a:hover{
+color:#FCBC2F;
+text-decoration:none;
+}
+
+hr {
+height: 1px;
+color:  #CCD7E5;
+border: 0px;
+background-color: #CCD7E5;
+}
+
+pre {
+    clear:both;
+    overflow:auto;
+    background-color:#efefef;
+    width: 90%;
+    
+
+  
+    padding-bottom:0 !important;
+    padding-bottom:1.5em; /* for IE which doesn't make room at the bottom of the pre for a horizontal scrollbar */
+}
+
+
+
+
+/*********************
+class/id elements
+********************/ 
+
+.left {
+   float:left;
+   margin:0 1em 1em 0;
+}
+
+.right {
+   float:right;
+   margin:0 0 1em 1em;
+}
+
+   
+
+.main-content {
+   margin: 20px 20px 20px 20px;
+   font-family:Verdana, Arial, Helvetica, sans-serif;
+   font-size: 1em;
+   line-height: 1.5em;
+}
+
+.main-content li{
+margin: .7em 0;
+}
+
+.main-content div table{
+width: 95%;
+}
+
+
+#leftnav {
+   width: 171px;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 1em;
+   font-weight: bold;
+   padding-top: 20px;
+   padding-bottom: 30px;
+
+}
+
+#leftnav ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+#leftnav li {
+   border-bottom: 1px solid #F5A09C;
+   margin-left: 15px;
+   margin-right: 15px;
+}
+
+#leftnav a {
+   display: block;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+#leftnav a:hover {
+color: #FBC158; text-decoration: none;
+}
+
+#leftnav .offsite a {
+color: #FBC158;
+}
+/*
+#leftnav .offsite a:hover {
+color: #fff;
+}
+*/
+
+
+.spkr_sidebar{
+border: 1px solid #000;
+width: 150px;
+padding: 5px;
+padding-top:0px;
+background-color: #00397F;
+margin: 9px 0px;
+color: #fff;
+text-align:left;
+font-weight:bold;
+}
+
+.spkr_sidebar a,
+.spkr_sidebar a:link{
+color:#ACDFEE;
+     }
+.spkr_sidebar a:hover{
+color:#fff;
+} 
+
+div.spkr_sidebar ul{
+list-style-type:none;
+margin:0;
+padding: 0px 5px;
+text-align:right;
+font-weight:normal;
+}
+
+div.spkr_sidebar ul li{
+margin: 4px;
+}
+
+
+
+
+
+div.sponsors {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: .95em;
+   padding: 10px 5px 20px 25px;
+   border-left: 1px solid #CCD7E5;
+border-bottom: 1px solid #CCD7E5;
+
+height: 100%;
+min-height: 100%; 
+}
+
+h3.sponsorHeading{
+color: #fff;
+background:#00397F url(/images/os2006/sponsor_heading_bg.gif) no-repeat ;
+padding: 7px;
+padding-top: 4px;
+font-weight:normal;
+text-align:center;
+width:190px;
+font-size: 1.2em;
+}
+
+
+.sponsors img{
+margin: 0px;
+margin-bottom:5px;
+margin-top: 5px;
+}
+
+
+#rightCol{
+
+height: 100%;
+min-height: 100%; 
+}
+
+
+.date-header{
+background-color: #ED3E36;
+color: #ffffff;
+font-weight:bold;
+padding:4px;
+
+
+}
+
+
+
+
+
+
+.box-copy  {
+color: #ffffff;
+font-size: 12px;
+line-height: 16px; 
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.tinylist {
+font-size: 10px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+margin-bottom: 4px;                                                                                                                             margin-top: 0px;
+}
+
+
+
+
+
+
+
+.border {
+ background-color:  #00397F;
+}
+
+
+.main_content{
+padding: 15px;
+width: 95%;         
+padding-top: 0px;       
+}
+
+.call_to_action
+{
+/*
+width:90%
+background-color: #00397F;
+font-size: .9em;
+line-height: 1.3em;
+font-weight:bold;
+border: 1px solid #ADDB00;
+#border: 1px dashed #fff;
+padding: 4px;
+color: #fff;
+text-transform: none;
+*/
+width:90%;
+
+color: #518B00;
+text-transform: uppercase;
+ font-weight:normal;
+ letter-spacing: .1em;
+font-size: 1em;
+padding: 3px;
+border: 1px solid #eee;
+;
+
+
+}
+
+.photo{
+border: 1px solid  #CCD7E5;
+
+padding: 1px;
+margin: 5px;
+}
+
+.ltgray {
+color: #D8D9DB;
+}                          
+
+.ltgray_border {
+border: 1px solid #D8D9DB;
+}
+.ltgray_back {
+background-color: #eee;
+} 
+
+
+.flickrstrip {
+   /*
+border: 1px solid #cccccc;
+    #background-color: #eeeeee;
+*/
+}
+
+
+.flickr_badge_image img  {
+   border-width: 1px;
+   border-color: #EA4036;
+padding: 1px;;
+}
+
+.flickr_badge_image a:link img {
+border-color: #EA4036
+}
+
+.flickr_badge_image a:hover img {
+border-color: #FBC158;
+}
+
+.leftCol{
+background-image:url(/images/oscon2006/nav_bg.gif);
+background-color: #EA4036;
+background-repeat:repeat-y;
+width: 171px;
+}
+
+
+
+
+
+
+.sponsor-listing{
+border-bottom: 1px solid #CCD7E5;  
+width: 95%;
+}
+
+.sponsor-blurb{
+clear:both;
+padding: 0px 0px 25px 0px;
+}
+
+.sponsor-blurb a{
+font-weight:bold;}
+
+
+.sponsor-blurb img {
+margin: 0em 4px 4px 4px;
+}
+
+
+
+
+.footer{
+background-color:#39A4CF;
+background-color: #eee;
+ color: #00397F;
+
+ text-align: center;
+margin: 10px;
+padding: 10px;
+font-size: 10px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+border-top: 1px solid #00397F;
+}
+
+.footer a:link{
+color: #00397F;
+}                                                                                                                                                                                                                                                               
+
+.footer a:link{
+color: #00397F;
+}
+.footer a:visited{
+color: #00397F;
+}
+
+.special-note{
+border: 1px solid #000;
+      background-color: #ccc;
+     background-color: #CCD7E5; 
+
+padding:3px;
+        font-style:italic;
+}
+
+.special-note:before{
+content: "Note:";
+         font-weight: bold;
+/*text-decoration: underline;*/
+margin:0px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

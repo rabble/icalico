@@ -1,0 +1,10 @@
+<% current_date = nil %>
+<% @talks.each do |talk| %>
+    <% unless current_date and current_date == talk.start_date %>
+        <h3><%= talk.start.strftime("%A, %B %d, %Y") %></h3>
+        <% current_date = talk.start_date %>
+    <% end %>
+<%= talk.start_time %> - <%= talk.end_time %> -
+    <%= talk.summary %>
+    (<%= talk.location %>)<br />    
+<% end %>

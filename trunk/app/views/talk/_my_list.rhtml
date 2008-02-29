@@ -1,0 +1,38 @@
+<div id="sidebar" class="my_list">
+
+	<h2>Search</h2>
+	<p>
+	<%= start_form_tag( {:controller => 'search', :action => 'results' }) %>
+	<%= text_field_tag( 'q', @q, {:size => 15})%>
+	<%= submit_tag 'Go' %>
+	<%= end_form_tag %>
+	</p>
+	<hr />
+	<% if logged_in? %>
+        <%= link_to image_tag('calendar.gif', :alt => 'my calendar.ics', :border => 0),
+    	    {:controller => 'ical', :action => 'my_schedule', :id => current_user.login},
+    	    {:style => 'float: right; padding: 4px 4px 0 0'}
+    	%>
+    	<a href="/m/<%= current_user.login  %>" style="float: right; padding: 4px 4px 0 0;">
+    	    <%= image_tag('phone.gif', :title => 'my schedule on the phone', :border => 0) %></a>
+	<% end %>
+	
+	
+	
+	    <% if logged_in? %>
+	        <h2><%= link_to_person(current_user, 'My Schedule') %></h2>
+	    <% else %>
+	        <h2 >My Schedule</h2>
+	    <% end %>
+	<% if logged_in? %>
+		
+		<%= render :partial => 'talk/list', :locals => {:talks => current_user.talks, :sidebar => true} %>
+
+	
+	<% else %>
+		<p>You need to be logged in to keep a list of talks and sessions you are interested in attending.</p>
+		<p><%= link_to "login", :controller => 'account', :action => 'login' %> |
+			<%= link_to "sign up", :controller => 'account', :action => 'signup'%>
+		</p>
+	<% end %>
+</div>

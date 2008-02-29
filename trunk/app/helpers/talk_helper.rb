@@ -1,0 +1,2 @@
+module TalkHelper
+end

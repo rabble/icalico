@@ -1,0 +1,132 @@
+ruby: 
+  name: ruby
+  id: "1"
+  conference_id: 
+python: 
+  name: python
+  id: "2"
+  conference_id: 
+java: 
+  name: java
+  id: "3"
+  conference_id: 
+webapps: 
+  name: web apps
+  id: "4"
+  conference_id: 
+rubyonrails: 
+  name: rubyonrails
+  id: "5"
+  conference_id: 
+securty: 
+  name: security
+  id: "6"
+  conference_id: 
+python: 
+  name: python
+  id: "7"
+  conference_id: 
+programming: 
+  name: programming
+  id: "8"
+  conference_id: 
+php: 
+  name: php
+  id: "9"
+  conference_id: 
+perl: 
+  name: perl
+  id: "10"
+  conference_id: 
+windows: 
+  name: windows
+  id: "11"
+  conference_id: 
+linux: 
+  name: linux
+  id: "12"
+  conference_id: 
+emerging: 
+  name: emerging topics
+  id: "13"
+  conference_id: 
+databases: 
+  name: databases
+  id: "14"
+  conference_id: 
+desktop: 
+  name: desktop apps
+  id: "15"
+  conference_id: 
+products: 
+  name: products and services
+  id: "16"
+  conference_id: 
+subversion: 
+  name: subversion
+  id: "17"
+  conference_id: 
+rails: 
+  name: rails
+  id: "18"
+  conference_id: 
+vim: 
+  name: vim
+  id: "19"
+  conference_id: 
+web2: 
+  name: Web 2.0 Fundamentals
+  id: "20"
+  conference_id: 
+web2_services: 
+  name: Web 2.0 Services and Platforms
+  id: "21"
+  conference_id: 
+comunity: 
+  name: Community
+  id: "22"
+  conference_id: 
+marketing: 
+  name: Marketing and Community
+  id: "23"
+  conference_id: 
+design: 
+  name: Design and User Experience
+  id: "24"
+  conference_id: 
+strategy: 
+  name: Strategy and Business Models
+  id: "25"
+  conference_id: 
+opperations: 
+  name: Web Operations
+  id: "26"
+  conference_id: 
+wiki: 
+  name: wiki
+  id: "27"
+  conference_id: 
+tagging: 
+  name: tagging
+  id: "28"
+  conference_id: 
+keynotes: 
+  name: Keynotes
+  id: "29"
+  conference_id: 
+syndication: 
+  name: syndication
+  id: "30"
+  conference_id: 
+microformats: 
+  name: microformats
+  id: "31"
+  conference_id: 
+blog: 
+  name: blog
+  id: "32"
+  conference_id: 
+ajax: 
+  name: Ajax
+  id: "33"
+  conference_id: 

@@ -1,0 +1,19 @@
+<h1><%= @user.login %>'s Friends</h1>
+
+<% if current_user && false%>
+<% if current_user.friends.include? @user %>
+	<p><%= @user.login %> is your <i>friend</i>, or at least you are following what s/he is doing.
+		[<%= link_to ""%>]
+	</p>
+<% end %>
+<% end %>
+
+
+<ul>
+<% @friends.each do |friend| %>
+<li><%= link_to friend.login, :controller => 'list', :login => friend.login %></li>
+<% end %>
+</ul
+
+
+<h1>Friends Talks</h1>

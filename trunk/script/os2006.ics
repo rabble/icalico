@@ -1,0 +1,3369 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE;VALUE=TEXT:US/Pacific
+METHOD:EXPORT
+PRODID:-//Apple Computer\, Inc//iCal 1.0//EN
+X-WR-CALNAME;VALUE=TEXT:O'Reilly Open Source Convention 2006
+X-WR-RELCALID;VALUE=TEXT:OS2006
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:US/Pacific
+LAST-MODIFIED:20060803T074125Z
+BEGIN:DAYLIGHT
+DTSTART:20060403T100000
+TZOFFSETTO:-0700
+TZOFFSETFROM:+0000
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20061030T020000
+TZOFFSETTO:-0800
+TZOFFSETFROM:-0700
+TZNAME:PST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"Maximum Velocity MySQL" Jay Pipes  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8700
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: Performance is of the highest concern for web application developers using MySQL. In this talk\, you'll learn how to master your SQL coding technique\, analyze and implement an effective indexing strategy for your database\, and tune essential server parameters to get your database performing at maximum velocity.Speaker(s): Jay Pipes; Track: DatabasesRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8700
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"The 7 Principles of Better API Design" Damian Conway  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9071
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: This course presents a minimalist approach to interface design that can produce smaller\, better focused\, more usable module APIs.Speaker(s): Damian Conway; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9071
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"Adding Version Control to Your Application with Subversion" Garrett Rooney  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8400
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: One of the features of the Subversion version control system is that it's built on top of a collection of libraries that implement its core functionality.  With a little effort\, these libraries can be reused. Learn to use the Subversion APIs for C\, Perl\, Python\, and Ruby to solve real world problems in your own applications.Speaker(s): Garrett Rooney; Track: ProgrammingRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8400
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"Object-oriented Scripting" Avi Kak  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8786
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: If you are not writing a throw-away script these days\, you are most likely writing it in the object-oriented style. This tutorial will review how OO works in Perl and Python. Speaker(s): Avi Kak; Track: ProgrammingRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8786
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"Django: Web Development with Journalists' Deadlines" Jacob Kaplan-Moss  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9155
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: Django is a high-level web development framework for rapid development of database-backed web sites and applications.  This session will introduce Django\, explain the philosophies behind it\, and explain all the steps in taking a site from concept through deployment.Speaker(s): Jacob Kaplan-Moss; Track: PythonRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9155
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"The Ruby Guidebook" Dave Thomas Mike Clark (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8768
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: This is your conference guidebook to Ruby. This tutorial will set you up for all the Ruby-related talks at OSCON (and after). You'll come away knowing what people are talking about\, and get more out of the conference. This tutorial is given by Dave Thomas and Mike Clark\, who wrote the books on Ruby and Rails.Speaker(s): Dave Thomas; Mike ClarkTrack: RubyRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8768
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"Scalable Internet Architectures" Theo Schlossnagle  (Room: Portland 253)
+LOCATION:Portland 253         
+DTSTAMP:19010101T010101Z
+UID:8378
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: This tutorial delves into the key practices vital to building and operating a missions critical\, large-scale internet architecture. Case studies demonstrate the classic dos and don'ts of building large systems.Speaker(s): Theo Schlossnagle; Track: Web AppsRoom: Portland 253
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8378
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"JavaScript Boot Camp" Amy Hoy  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8933
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: JavaScript not up to snuff? Drowning in Ajax frameworks\, or feeling like you're trying to grasp something slippery and insubstantial? You might need to brush up on JavaScript\, the language itself. Learn advanced JavaScript techniques\, why JavaScript hurts people's brains\, and how to test and debug the wily front-end language.Speaker(s): Amy Hoy; Track: JavaScript/AjaxRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8933
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T083000
+SUMMARY:"Businesses Partnering with Open Source Communities: Opportunities, Perils, and Pitfalls" James Howison  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:9230
+DTEND;TZID=US/Pacific:20060824T120000
+DESCRIPTION:Description: Open source software provides opportunities for companies to cut costs\, escape vendor lock-in\, or build on top of quality\, reliable software. But open source communities are not like software vendors. Learn from experience and research just how diverse open source communities are--their organization\, their motivation\, how not to annoy them\, and how to spend a budget effectively.Speaker(s): James Howison; Track: BusinessRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9230
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"MySQL 5.1 In-Depth" Brian Aker  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8828
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: We will take an in-depth look into the features of the 5.1 release of the MySQL server. All new features will be covered\, including how to best exploit each of them. New features include the new event-based triggers\, a new replicate\, optimizations for storage engines\, and partitioning.Speaker(s): Brian Aker; Track: DatabasesRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8828
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Face 2 Face: Processes for OS Communities" Kaliya Hamlin  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8895
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: So your open source community is meeting face to face. What should you do? This workshop is designed to provide insight and experience into the art of how to lead participatory processes. Covered are a range of face-to-face processes\, use of web tools\, and some of the difficult communication patterns that can arise and ways to deal with them.Speaker(s): Kaliya Hamlin; Track: Emerging TopicsRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8895
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Asterisk Inside and Out" Brian Capouch  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8936
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: The Asterisk Open Source Telephony server has enjoyed increasing interest as Voice over IP technology enters the mainstream. This tutorial provides an introduction to Asterisk\, shows how to configure it for some common use cases\, and gives a glimpse into the benefits computer-telephony integration will bring.Speaker(s): Brian Capouch; Track: Emerging TopicsRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8936
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Write A Real, Working Linux Driver" Greg Kroah-Hartman  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8388
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: This tutorial will teach attendees how to write a working Linux kernel driver for a real device. Each person will be given a device at the start of class\, and by the end they will have created a kernel driver that controls the device that will be acceptable for inclusion in the main Linux kernel tree.Speaker(s): Greg Kroah-Hartman; Track: LinuxRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8388
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Higher-Order Perl" Mark-Jason Dominus  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:9295
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: One of the most powerful techniques available to Perl programmers is writing functions that can manufacture or modify other functions. Instead of writing ten similar functions that must be maintained separately\, you can write a single function  that will create the others as needed.  This class will teach you how.Speaker(s): Mark-Jason Dominus; Track: PerlRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9295
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Power PHP Testing" Chris Shiflett Geoffrey Young (Room: Portland 253)
+LOCATION:Portland 253         
+DTSTAMP:19010101T010101Z
+UID:8715
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: This tutorial demonstrates several of the existing PHP testing tools\, including PHPUnit\, Simple-Test\, phpt\, and Apache-Test. You'll leave this tutorial with some real-world testing skills that you will find immediately applicable to your day-to-day PHP work.Speaker(s): Chris Shiflett; Geoffrey YoungTrack: PHPRoom: Portland 253
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8715
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Mastering vim" Damian Conway  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9072
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: This tutorial explores some of the lesser-known but amazingly useful features to be found in the 90% of the vim editor that you never use.Speaker(s): Damian Conway; Track: ProgrammingRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9072
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Python Optimization" Brian Quinlan  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:8633
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: This tutorial will teach practical techniques for optimizing Python applications. Using a simple script as an example\, it will demonstrate the &#147;best practices&#148; approach to optimization: finding performance problems using Python's built-in performance measurement tools\, evaluating various optimization options\, and\, finally\, turning to external technologies for otherwise intractable problems.Speaker(s): Brian Quinlan; Track: PythonRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8633
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Rails Guidebook" Mike Clark Dave Thomas (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8767
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: You wouldn't want to visit a new destination without a guidebook. Well\, this is your conference guidebook to Rails. We&#146;ll show you the structure\, terminology\, and all the key points you'll need to make the most of Rails. This tutorial is given by Mike Clark and Dave Thomas who wrote the books on Ruby and Rails.Speaker(s): Mike Clark; Dave ThomasTrack: RubyRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8767
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T133000
+SUMMARY:"Introduction to the Apache Web Server" Rich Bowen  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8469
+DTEND;TZID=US/Pacific:20060824T170000
+DESCRIPTION:Description: Geared to the Apache Server administrator who is just getting started or has been doing this for a while but needs to get a comprehensive overview\, this tutorial begins at acquiring and installing Apache\, and goes through configuration\, security\, dynamic content\, authentication\, and performance. Covers Apache 1.3\, 2.0\, and 2.2.Speaker(s): Rich Bowen; Track: JavaScript/AjaxRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8469
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T190000
+SUMMARY:"Open Source in Healthcare"   (Room: Portland 253)
+LOCATION:Portland 253         
+DTSTAMP:19010101T010101Z
+UID:9504
+DTEND;TZID=US/Pacific:20060824T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: Portland 253
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9504
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T190000
+SUMMARY:"Perl Trainers"   (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:9380
+DTEND;TZID=US/Pacific:20060824T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9380
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060824T213000
+SUMMARY:"Werewolf" Artur Bergman  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9319
+DTEND;TZID=US/Pacific:20060824T233000
+DESCRIPTION:Description: Speaker(s): Artur Bergman; Track: Room: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9319
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Introduction to PostgreSQL" A. Elein Mustain  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:8629
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: Do you need a kick-start on PostgreSQL basics? This is an open invitation to learn about the most technologically advanced open source database\, PostgreSQL. We will cover the basic features\, configuration\, and how to effectively use PostgreSQL.Speaker(s): A. Elein Mustain; Track: DatabasesRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8629
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Just Enough Intellectual Property Law to Manage an Open Source Project" Cliff Schmidt  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8908
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: This tutorial is designed for managers and open source contributors interested in understanding the intellectual property issues applicable to open source projects. Attendees will leave with an understanding of the laws\, licenses\, and case studies relevant to the proper acceptance\, management\, and distribution of open source code contributions.Speaker(s): Cliff Schmidt; Track: Emerging TopicsRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8908
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Welcome and Opening Remarks:  Open Source 2.0" Tim O'Reilly  (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9465
+DTEND;TZID=US/Pacific:20060825T084500
+DESCRIPTION:Description: Speaker(s): Tim O'Reilly; Track: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9465
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Advanced Perl DBI" Tim Bunce  (Room: Portland 253)
+LOCATION:Portland 253         
+DTSTAMP:19010101T010101Z
+UID:8740
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: This year\, Bunce has updated his popular tutorial again to include more coverage of recently added DBI features. Learn how the DBI works and how to get the best out of it\, including how to maximize speed\, safety\, reliability\, and portability.Speaker(s): Tim Bunce; Track: PerlRoom: Portland 253
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8740
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Introduction to Object-oriented Programming with PHP" Marcus B&ouml;rger  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8411
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: PHP has become an extremely powerful web development platform and\, since PHP 5\, it supports a pretty good and capable object model. This tutorial will teach you everything you must know to develop your own cutting-edge object-oriented components and applications.Speaker(s): Marcus B&ouml;rger; Track: PHPRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8411
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"High Performance PHP" George Schlossnagle  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8900
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: As PHP becomes deployed for larger and more mission-critical tasks\, it becomes ever more critical for applications built with it to scale. In this tutorial we will look at both how to design better applications and improve the performance of legacy codebases.Speaker(s): George Schlossnagle; Track: PHPRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8900
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Introduction to Haskell" Adam Turoff  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8898
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: The book\, The Pragmatic Programmer\, recommends professional programmers learn a new programming language every year to learn new skills. Many programmers want to learn Haskell\, but never find the time. This tutorial provides a quick roadmap to learning and using Haskell\, and applies lessons learned to other languages.Speaker(s): Adam Turoff; Track: ProgrammingRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8898
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"An Introduction to wxPython" Robin Dunn  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8584
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: wxPython is a successful cross-platform GUI toolkit based on the popular wxWidgets system. This tutorial provides a practical introduction to wxPython.Speaker(s): Robin Dunn; Track: PythonRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8584
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Ajax on Rails" Stuart Halloway  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8520
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: Ruby on Rails is a great environment for building Ajax applications. This presentation will cover the latest and greatest in Rails&#146; Ajax support. Be warned: if you attend the talk more than half an hour after reading the abstract\, we may be covering new features that don&#146;t exist yet.Speaker(s): Stuart Halloway; Track: RubyRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8520
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Large Scale Webapps: Managing Releases and DevTeam Infrastructure" Jonathan Oxer  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8363
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: PHP\, Perl\, and Python are all being used for some very large-scale projects involving many developers collaborating on common codebases. Learn how to set up systems and tools to help your development team collaborate on large projects and streamline the release process. Examples can be applied to a wide variety of projects but are specifically aimed at teams working on PHP\, Python\, and Perl web applications.Speaker(s): Jonathan Oxer; Track: Web AppsRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8363
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T083000
+SUMMARY:"Real World Web Services" Scott Davis  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8803
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: In this talk\, we'll survey the web services exposed by leading web sites (Google\, Yahoo!\, Amazon\, eBay) and discuss how they are driving the Ajax revolution. You'll see working examples of RESTful\, SOAP\, and XML-RPC web services\, as well as the strengths and weaknesses of each.Speaker(s): Scott Davis; Track: JavaScript/AjaxRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8803
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T084500
+SUMMARY:"The Ghost in the Machine:  The Impact of Open Source on Web 2.0" Tim O'Reilly Jim Buckmaster; Chris DiBona; Jeremy D. Zawodny (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9454
+DTEND;TZID=US/Pacific:20060825T093000
+DESCRIPTION:Description: Everyone knows that Google\, Yahoo!\, and many other "Web 2.0" companies are built on top of open source\, but how exactly do they use it?  What's more\, how do they apply principles from open source to other aspects of their business?   How does a Web 2.0 business differ from a traditional software business? In this conversation with Chris DiBona\, Open Source Program Manager for Google\, Jeremy Zawodny\, open source point man in Developer Relations for Yahoo!\, and Jim Buckmaster\, CEO of Craigslist\, we'll explore these topics and more.  We'll also put them in the hot seat:  how do they give back to open source projects when source code alone isn't enough for people to recreate the application?  Speaker(s): Tim O'Reilly; Jim Buckmaster; Chris DiBona; Jeremy D. ZawodnyTrack: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9454
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T093000
+SUMMARY:"What&#146;s Microsoft Doing with Open Source?" Bill Hilf Danese Cooper (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9457
+DTEND;TZID=US/Pacific:20060825T100000
+DESCRIPTION:Description: Steve Ballmer recently opined that the more open source commercializes\, the less worried he is about it.  That&#146;s open source as a competitor to Microsoft\, but what is Microsoft doing to embrace open source internally?  This session will take a look at how open source is increasingly pervading Microsoft:  the Linux lab\, the Sourceforge projects\, the Shared Source licenses\, etc.  A birds-eye view into how the industry&#146;s biggest software company is embracing open source.Speaker(s): Bill Hilf; Danese CooperTrack: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9457
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T103000
+SUMMARY:"Asymmetric Competition:  A Conversation with Jim Buckmaster, CEO of CraigsList" Jim Buckmaster  (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9565
+DTEND;TZID=US/Pacific:20060825T104500
+DESCRIPTION:Description: Speaker(s): Jim Buckmaster; Track: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9565
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T104500
+SUMMARY:"Deployment, Not Just Development:  A Conversation with Ian Wilkes, Database Architect of Second Life" Ian Wilkes  (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9564
+DTEND;TZID=US/Pacific:20060825T110000
+DESCRIPTION:Description: Web 2.0 applications aren't software artifacts; they are software services.  In software as a service\, deployment and management issues can be as important as development.   Ian Wilkes shares insights from the front lines about what tools applications like Second Life need from their open source vendors.Speaker(s): Ian Wilkes; Track: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9564
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T110000
+SUMMARY:"Operations as Advantage:  A Conversation with Brian Behlendorf, Co-founder of Apache and CTO of Collab.Net" Brian Behlendorf  (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9566
+DTEND;TZID=US/Pacific:20060825T111500
+DESCRIPTION:Description: Speaker(s): Brian Behlendorf; Track: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9566
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T111500
+SUMMARY:"Hot Seat:  Open Source, Asymmetric Competition, and Web 2.0" Tim O'Reilly David R. Skok; Michael Tiemann; Paul Weinstein (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9453
+DTEND;TZID=US/Pacific:20060825T120000
+DESCRIPTION:Description: Speaker(s): Tim O'Reilly; David R. Skok; Michael Tiemann; Paul WeinsteinTrack: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9453
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T130000
+SUMMARY:"Spotlight:  Who&#146;s on the O&#146;Reilly Open Source Radar?" Tim O'Reilly Avi Bryant; Kevin Cochrane; Adrian Holovaty; Dave Rosenberg; Javier Soltero; Mark Spencer; Jeff Waugh; Scott Yara (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9455
+DTEND;TZID=US/Pacific:20060825T143000
+DESCRIPTION:Description: Speaker(s): Tim O'Reilly; Avi Bryant; Kevin Cochrane; Adrian Holovaty; Dave Rosenberg; Javier Soltero; Mark Spencer; Jeff Waugh; Scott YaraTrack: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9455
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"Rolling Your Own Google Maps" Scott Davis  (Room: Portland 253)
+LOCATION:Portland 253         
+DTSTAMP:19010101T010101Z
+UID:8807
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: Based on the book Pragmatic GIS\, this talk demonstrates how you can build your own Google Maps in-house\, using nothing but open source software including PostgreSQL\, PostGIS\, and GeoServer. Also discussed is integrating free\, public domain data from sources like the U.S. Census Bureau and the USGS.Speaker(s): Scott Davis; Track: Emerging TopicsRoom: Portland 253
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8807
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"More Perl Best Practices" Damian Conway  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:9069
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: This session continues from last year's "Perl Best Practices" class\, exploring still more coding practices that can help you produce robust\, maintainable\, and efficient Perl programs.Speaker(s): Damian Conway; Track: PerlRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9069
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"Essential PHP Security" Chris Shiflett  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8717
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: This tutorial teaches you how to develop secure web applications with PHP. You'll see attacks such as Cross-Site Scripting (XSS) and SQL Injection demonstrated\, and you'll learn effective safeguards that you can use to prevent such attacks.Speaker(s): Chris Shiflett; Track: PHPRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8717
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"Building an Asynchronous Multiuser Web App for Fun ... and Maybe Profit" Luke Welling Laura Thomson (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8750
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: There are plenty of dry Web 2.0 examples that you could hone your skills on\, but in this tutorial we will work on a fun one -- a multiplayer online poker game. Using PHP\, Ajax\, JavaScript\, XHTML\, CSS\, and a little MySQL\, we will build a system that needs a dynamic user interface and multiuser interaction.Speaker(s): Luke Welling; Laura ThomsonTrack: PHPRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8750
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"Secure Your Web Apps: OWASP Top 10 2007" Andrew van der Stock  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8745
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: In 1996\, "we use SSL" was about the only line of defense against nasty attackers. In 2006\, this is no longer enough. This tutorial teaches the top ten proactive web application security topics from the new OWASP Guide 2.1.  Learn how to design or fix your apps once\, for all time ... at least until the next new attack method.Speaker(s): Andrew van der Stock; Track: SecurityRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8745
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"Rock-solid Web Development: Testing Web Apps" John Paul Ashenfelter  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8704
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: Whether you've adopted test-driven development\, pledged allegiance to the Agile Manifesto\, or endured a spectacular post-release failure of an application\, you probably know that you "should" be testing your application. Learn how to implement web-specific open source tools for functional\, regression\, and performance testing to help ensure that your web applications are "not" broken.Speaker(s): John Paul Ashenfelter; Track: Web AppsRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8704
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"Extending and Embracing RT" Robert Spier Jesse Vincent (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8725
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: RT (Request Tracker) is one of those products that makes addicts out of normally staid sysadmins and developers. It is a powerful tool for organizing yourself and your company. This tutorial takes you on a roller coaster ride through many of RT's nooks and crannies\, showing you how you can extend and embrace it--whatever your needs may be.Speaker(s): Robert Spier; Jesse VincentTrack: Web AppsRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8725
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"Leveraging Mono for Cross-platform Development" Kevin Shockey Joseph Hill (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:8754
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: Mono is a comprehensive open source development platform based on the .NET framework that allows developers to build cross-platform applications with unprecedented productivity. This tutorial will provide an introduction to application development with Mono. The tutorial will introduce everything participants need to explore new opportunities in cross-platform development. Speaker(s): Kevin Shockey; Joseph HillTrack: WindowsRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8754
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T133000
+SUMMARY:"Open Source Clue Training: How to Market to People Who Hate Marketing" Doc Searls  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9317
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: Speaker(s): Doc Searls; Track: BusinessRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9317
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T143000
+SUMMARY:"Technology Trendspotting with the O'Reilly Research Data Mart" Roger Magoulas  (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9567
+DTEND;TZID=US/Pacific:20060825T144500
+DESCRIPTION:Description: Speaker(s): Roger Magoulas; Track: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9567
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T151500
+SUMMARY:"The World is Light:  The Rising Tide of Intellectual Property and the Need for a New Marketplace for Rights" Irwin Gross  (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9452
+DTEND;TZID=US/Pacific:20060825T154500
+DESCRIPTION:Description: Speaker(s): Irwin Gross; Track: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9452
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T154500
+SUMMARY:"Open Data" Tim O'Reilly Chad Dickerson (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9569
+DTEND;TZID=US/Pacific:20060825T161500
+DESCRIPTION:Description: Speaker(s): Tim O'Reilly; Chad DickersonTrack: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9569
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T161500
+SUMMARY:"Google's Ajax Web Services Interface" Mark Lucovsky  (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9571
+DTEND;TZID=US/Pacific:20060825T163000
+DESCRIPTION:Description: Speaker(s): Mark Lucovsky; Track: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9571
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T163000
+SUMMARY:"Firefox as a Platform:  A Conversation with Mike Schroepfer, VP of Engineering for Mozilla" Mike Schroepfer  (Room: E146)
+LOCATION:E146         
+DTSTAMP:19010101T010101Z
+UID:9572
+DTEND;TZID=US/Pacific:20060825T170000
+DESCRIPTION:Description: Speaker(s): Mike Schroepfer; Track: O'Reilly Radar: The Executive BriefingRoom: E146
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9572
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T190000
+SUMMARY:"2006 Google - O'Reilly Open Source Award" Chris DiBona Nathan Torkington (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9521
+DTEND;TZID=US/Pacific:20060825T191500
+DESCRIPTION:Description: Speaker(s): Chris DiBona; Nathan TorkingtonTrack: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9521
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T191500
+SUMMARY:"State of the Onion" Larry Wall  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9540
+DTEND;TZID=US/Pacific:20060825T194500
+DESCRIPTION:Description: Larry will give his annual entertaining talk on the state of the Perl world. Don't miss this rare opportunity to hear the creator of Perl\, patch\, and share his insights.Speaker(s): Larry Wall; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9540
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T194500
+SUMMARY:"White Camel Awards" David H. Adler  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9541
+DTEND;TZID=US/Pacific:20060825T200000
+DESCRIPTION:Description: In the lands where the camel roams\, the white (albino) camel is a rare and revered individual. The White Camel Awards recognize the many significant contributions made by the unsung heros of the Perl community. The efforts of these volunteers collectively make the Perl language and the Perl community better for all of us.Speaker(s): David H. Adler; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9541
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T200000
+SUMMARY:"TBD"   (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9542
+DTEND;TZID=US/Pacific:20060825T203000
+DESCRIPTION:Description: Speaker(s): ; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9542
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060825T203000
+SUMMARY:"The Da Vinci Codebase" Damian Conway  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9414
+DTEND;TZID=US/Pacific:20060825T213000
+DESCRIPTION:Description: When a dying operating system scrawls his name across its corrupted boot volume\, Dr. Damian Conway\, an unassuming college professor\, is plunged into a deadly race against time to solve a series of impossible riddles. What is the mysterious "Priory of Bios?" And who are their deadly nemeses "Opus Arai?" On the run from the law and stalked by a ghostly pale killer\, will he unravel the subtle clues hidden in Leonardo's most famous source code and reveal to the world the incredible secret encrypted in...the Da Vinci Codebase?Speaker(s): Damian Conway; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9414
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T084500
+SUMMARY:"Welcome!" Nathan Torkington  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9450
+DTEND;TZID=US/Pacific:20060826T090000
+DESCRIPTION:Description: Speaker(s): Nathan Torkington; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9450
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T090000
+SUMMARY:"O'Reilly Radar" Tim O'Reilly  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9451
+DTEND;TZID=US/Pacific:20060826T091500
+DESCRIPTION:Description: Speaker(s): Tim O'Reilly; Track: Emerging TopicsRoom: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9451
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T091500
+SUMMARY:"School of Rock" Scott Yara  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9511
+DTEND;TZID=US/Pacific:20060826T093000
+DESCRIPTION:Description: Speaker(s): Scott Yara; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9511
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T093000
+SUMMARY:"Trying to Suck Less: Making Web 2.0 Mean Something" Anil Dash  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9526
+DTEND;TZID=US/Pacific:20060826T094500
+DESCRIPTION:Description: Most Web 2.0 services are really open with your data and their APIs -- so why aren't they open source as well? Six Apart's Anil Dash will talk about what we can do better with our applications\, including how to make sure we're making stuff that actually matters. You'll walk out with all the free (beer and speech!) code you need to build an Internet-scale infrastructure for your web service\, along with some good advice on what's actually worth doing.Speaker(s): Anil Dash; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9526
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T094500
+SUMMARY:"Keynote - TBD"   (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9529
+DTEND;TZID=US/Pacific:20060826T100000
+DESCRIPTION:Description: Speaker(s): ; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9529
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T100000
+SUMMARY:"Q & A"   (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9528
+DTEND;TZID=US/Pacific:20060826T101500
+DESCRIPTION:Description: Speaker(s): ; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9528
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Big Bad PostgreSQL: A Case Study" Theo Schlossnagle  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8379
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: This talk details a case study of a multiterabyte\, mission-critical Oracle to PostgreSQL migration. Techniques for migrating\, adaptation of database features\, and the embrace of PostgreSQL mentality will be enjoyed by all.Speaker(s): Theo Schlossnagle; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8379
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Open Source, APIs, and the Summer of Code at Google" Chris DiBona  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8373
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: In this talk\, Chris DiBona will give a brief overview of the last year's worth of open source fun at Google\, including an update on the 2006 Summer of Code project\, which connects open source and students worldwide.Speaker(s): Chris DiBona; Track: Emerging TopicsRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8373
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Open Technology Development: Open Source and the U.S. Government" John Scott  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8578
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: The Department of Defense is examining how to deploy new technology development methodologies to increase the fielding rate of software and related technology-based systems. Learn how DoD is focusing on Open Technology Development (OTD) to help ease the looming shortage of available programmers needed for the rapid generation of accurate\, reliable software in a cost effective manner.Speaker(s): John Scott; Track: Emerging TopicsRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8578
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Journalism via Computer Programming" Adrian Holovaty  (Room: D133)
+LOCATION:D133         
+DTSTAMP:19010101T010101Z
+UID:9558
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: In this talk\, Adrian Holovaty of washingtonpost.com and chicagocrime.org will present several examples of "journalism via computer programming" -- automating information retrieval\, making public data easily browsable for the public\, and presenting news in formats that go beyond the bland format of the newspaper story.Speaker(s): Adrian Holovaty; Track: Emerging TopicsRoom: D133
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9558
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Beyond the Stock Kernel:  Patching and Building a Kernel for Security and Speed" Steve Suehring  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8399
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: This talk examines the reasons why an administrator might want to compile a custom kernel instead of using the stock distribution kernel. The presentation features discussion of monolithic versus modular kernels and the drawbacks to compiling a custom kernel\, and the kernel compile process is shown along with tips for troubleshooting.Speaker(s): Steve Suehring; Track: LinuxRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8399
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"What's New with Perl DBI?" Tim Bunce  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8742
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: Have you been using Perl DBI for a few years and think you know it well? You might be surprised. Are you new to Perl DBI and want to learn a few tricks? Come and take a look.Speaker(s): Tim Bunce; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8742
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Parsers, Perl 6 Rules, and the Parrot Grammar Engine" Patrick Michaud  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8902
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: Speaker(s): Patrick Michaud; Track: PerlRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8902
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Test-driven Development Meets Design-by-Contract" Jim Weirich  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8699
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: What are the limits to Test-driven Design? Is there a better way to specify program behavior? This talk will look at a Ruby-based Domain Specific Language oriented at specifying program behavior via Contracts and examples instead of tests\, and how it affects the agile experience.Speaker(s): Jim Weirich; Track: RubyRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8699
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Using Ruby on Rails and Ajax to Make a Massive Multiplayer Game" Michael Buffington  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8390
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: The rapid development capabilities\, combined with built-in Ajax technologies\, make Ruby on Rails a ripe platform for building immersive and highly engaging applications without using proprietary technology\, including multiplayer games.Speaker(s): Michael Buffington; Track: Web AppsRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8390
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Handling Cross-domain XMLHttpRequests" Premshree Pillai  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8365
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: With open APIs for various services\, applications are talking to various web services. XMLHTTP Request objects suffer from making cross-domain HTTP requests. This presentation talks about available solutions.Speaker(s): Premshree Pillai; Track: JavaScript/AjaxRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8365
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Making Sales While Making Friends: Lessons Learned from Open Source Businesses" Matt Asay  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9449
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: Since 2000\, Matt Asay has been selling free software:  Lineo\, Novell\, and Alfresco.  In this presentation he debunks some of the myths associated with open source (Write great software\, millions will download it\, and tens of thousands will buy!) and highlights key principles for a successful open source business.Speaker(s): Matt Asay; Track: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9449
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Metaprogramming Java with HiveMind and Javassist" Howard Lewis Ship  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8588
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: Something for (almost) nothing: Extend the utility of your Java applications while decreasing the amount of code by combining annotations with a lightweight container (HiveMind) and a library for creating Java code at runtime (Javassist).Speaker(s): Howard Lewis Ship; Track: Room: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8588
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Data Warehousing and Business Intelligence Using PostgreSQL" Luke Lonergan  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9517
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: Speaker(s): Luke Lonergan; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9517
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T104500
+SUMMARY:"Enterprise Open-source Adoption" Raven Zachary  (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9579
+DTEND;TZID=US/Pacific:20060826T113000
+DESCRIPTION:Description: Speaker(s): Raven Zachary; Track: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9579
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Extending MySQL Made Easy: Plugin API" Sergei Golubchik  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8494
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: MySQL 5.1 supports a powerful and robust mechanism for adding extensions to the serves&#151;so called "plugins". Ease of use\, security\, extensibility\, user-friendliness&#151;these are just a few highlights of the new interface. This talk will describe the Plugin API\, how to use it\, and what plugin types are supported.Speaker(s): Sergei Golubchik; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8494
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Embedding a Database in The Browser" David Van Couvering  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9093
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: Web applications are popular because they are highly accessible and easy-to-use. However\, there is no simple\, robust and secure way to store sensitive content on the local client device\, i.e.\, the desktop. We will show how a database system can be integrated within a web browser to empower a new breed of dynamic on-line applications.Speaker(s): David Van Couvering; Track: DatabasesRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9093
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Current State of the Linux Kernel" Greg Kroah-Hartman  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8387
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: This presentation covers the current status of the Linux kernel development process\, including how the development process is changing\, and the new and upcoming features that are going to be added soon. Other topics are how the "no development tree" situation is working out and who is doing all of the kernel development work.Speaker(s): Greg Kroah-Hartman; Track: LinuxRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8387
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Mind Like Water: The Path to Perl Bliss" Peter Scott  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8875
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: Expanding upon themes in his books Perl Medic and Perl Debugged\, Peter Scott describes the mindset of a successful Perl developer and how to avoid common pitfalls that impede the pace of a developer or development team.Speaker(s): Peter Scott; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8875
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Dirty Secrets of PHP 5's Ext/SOAP Extension" Adam Trachtenberg  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8655
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: PHP 5's ext/SOAP extension is an excellent web services client. However\, while the easy things are easy\, lack of documentation means the hard things can appear downright impossible. Starting with SOAPClient basics and building upwards\, learn the hidden secrets necessary to conquer even the strangest WSDL.Speaker(s): Adam Trachtenberg; Track: PHPRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8655
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"A Closed Source Project Becomes Open Source: How We Succeeded" Lars Thalmann  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8844
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: Want to know how to transition from closed source to open source?  In this talk\, Lars Thalmann shares his experiences in moving from a closed-source telecom company to MySQL.Speaker(s): Lars Thalmann; Track: ProgrammingRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8844
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Easy AI with Python" Raymond Hettinger  (Room: D133)
+LOCATION:D133         
+DTSTAMP:19010101T010101Z
+UID:9577
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: Survey several basic AI techniques implemented with short\, open-source Python code recipes.  Appropriate for educators and programmers who want to experiment with AI and apply the recipes to their own problem domains.  For each technique\, learn the basic operating principle\, discuss an approach using Python\, and review a worked out-example.Speaker(s): Raymond Hettinger; Track: PythonRoom: D133
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9577
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Maximum Netfilter" Michael Rash  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8423
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: Netfilter in the Linux kernel is an extremely full-featured stateful firewall\, but many security administrators do not leverage it to its fullest potential. This talk will show how Netfilter can be used to enhance the security of a network by doing everything from providing a source of intrusion detection data all the way through providing authentication services.Speaker(s): Michael Rash; Track: SecurityRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8423
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Deploying Rails Apps with Capistrano" Mike Clark  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8396
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: Capistrano (formerly called SwitchTower) is a push-button deployment utility that makes it equally easy (and consistent!)\, to deploy your Rails app to one machine or a whole cluster. This session will demonstrate how to put Capistrano to work for you deploying new versions of your Rails application\, and rolling them back when trouble strikes.Speaker(s): Mike Clark; Track: RubyRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8396
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Painless Web Proxying with Apache mod_proxy" Justin Erenkrantz  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8403
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: One of the most interesting modules in the Apache HTTPD has always been mod_proxy\, and in recent versions it&#146;s become even more useful\, going far beyond the ability to simply proxy HTTP traffic. Learn how to take advantage of all of its newfound capabilities and write your own mod_proxy back end.Speaker(s): Justin Erenkrantz; Track: Web AppsRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8403
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Ajax Optimization Techniques: Working with Large Ajax Applications" Kevin Henrikson  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8736
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: The explosion of Ajax in the past year has brought JavaScript\, DHTML\, and rich web applications to the fore front. This talk will explore the challenges and solutions for scaling both the user experience and the service as Ajax applications grow in size and complexity.Speaker(s): Kevin Henrikson; Track: JavaScript/AjaxRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8736
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Opening Up the News:  A Case Study on How One Organization Went Open Source, and How Yours Can, Too" Curtis D. Edge Terry Barbounis; Russ Danner (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9439
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: Speaker(s): Curtis D. Edge; Terry Barbounis; Russ DannerTrack: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9439
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T113500
+SUMMARY:"Google AJAX Search API" Mark Lucovsky  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9514
+DTEND;TZID=US/Pacific:20060826T122000
+DESCRIPTION:Description: Speaker(s): Mark Lucovsky; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9514
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Building "Sane" Query Interfaces to Databases" Mark Newsome  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8507
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Users often have a difficult time finding information through web-based query interfaces. It's frustrating to have to guess what to type in the empty blanks. In the talk we will demonstrate how to design a "friendly" browser-based query interface and generate the SQL needed to support it.Speaker(s): Mark Newsome; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8507
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Nothing But (Ingy d&ouml;t) Net" Brian Ingerson  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8529
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: COPY COMINGSpeaker(s): Brian Ingerson; Track: Emerging TopicsRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8529
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"A Simple Guide to Linux File Systems" Val Henson  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9110
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Learn how to choose and tune the best Linux file system for your workload.  For sysadmins\, hobbyists\, and people needing the most performance from their file system.  Covers some file system design basics as well.Speaker(s): Val Henson; Track: LinuxRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9110
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Rock Your Testing World with Devel::Cover" Geoffrey Young  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8635
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: So great\, you've elevated your Perl game to a new level by using Test::More\, prove\, and automated testing. Do you know what percentage of your code your tests actually exercise? This talk will introduce Devel::Cover\, a code coverage tool\, and explain how to use it effectively using simple code examples from the real world.Speaker(s): Geoffrey Young; Track: PerlRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8635
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"PHP Lightning Talks" George Schlossnagle  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:9157
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Lightning talks are a collection of 5-minute talks given by you\, members of the PHP community. A mainstay of the Perl side of the convention\, lightning talks are an exciting format and an excellent place to showcase new ideas\, ask questions\, or rant. Lightning talks are a great place for both novice and experienced speakers; a place where you can hone your speaking skills and condense subjects to their most essential bits. They're a great place to ask questions\, talk about lessons you've learned\, showcase new techniques or introduce new projects.Speaker(s): George Schlossnagle; Track: PHPRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9157
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"The Madness of Ajax" Andrew van der Stock  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8744
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: This presentation will help you learn about common Ajax security mistakes\, and provide robust Ajax security patterns which will help you secure your Ajax applications.Speaker(s): Andrew van der Stock; Track: SecurityRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8744
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Driving Rails Deep Into the Back Office" Obie Fernandez  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8674
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Increased adoption of Agile development\, open source\, and domain-specific languages are gradually converging within the enterprise\, creating opportunities for using Ruby on Rails to enhance and replace old and crotchety back office systems. This talk includes real world benchmarking results from Ruby systems deployed on enterprise-class hardware.Speaker(s): Obie Fernandez; Track: RubyRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8674
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Jifty: Nifty Applications in a Jiffy" Jesse Vincent  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8661
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Jifty is a new full-stack web framework. It comes with built in Continuations\, Halos\, AJAX/AHAH support\, data model and database management\, and a Pony.Speaker(s): Jesse Vincent; Track: Web AppsRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8661
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"dimdim - The World's Free Web Conference" Prakash Khot DD Ganguly (Room: D133)
+LOCATION:D133         
+DTSTAMP:19010101T010101Z
+UID:9427
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Speaker(s): Prakash Khot; DD GangulyTrack: Web AppsRoom: D133
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9427
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"The Atom Publishing Protocol as Universal Web Glue" Tim Bray  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:9568
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Speaker(s): Tim Bray; Track: Web AppsRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9568
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Prototype" Stuart Halloway  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8521
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Prototype deserves its fame for Ajax support\, and for easy integration with the Rail platform. But there's more! Prototype is\, well\, prototypical of modern JavaScript development\, working to the strengths of the language rather than pretending to be something else.Speaker(s): Stuart Halloway; Track: JavaScript/AjaxRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8521
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"So, You Want to Build an Open Source Community: Learning from Apache" J Aaron Farr  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8489
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: To assist building open source communities\, the Apache Software Foundation established the Apache Incubator.  The Incubator serves as gatekeeper to new projects entering the ASF\, ensuring projects that join Apache have healthy\, vibrant communities.  This talk will review the Apache Incubator project\, its policies and procedures\, and share lessons learned.Speaker(s): J Aaron Farr; Track: BusinessRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8489
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Measuring Open Source Popularity" Luke Welling  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:8751
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Speaker(s): Luke Welling; Track: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8751
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Case In Point: OpenLaszlo and Open Source" Adam Wolff  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9507
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: In the fall of 2004\, Laszlo Systems announced that its proprietary server software\, Laszlo Presentation Server\, was available as open source. Renamed OpenLaszlo\, the technology has since become the leading open source platform for building and deploying advanced Ajax applications.  In this session\, Laszlo&#146;s Chief Software Architect\, Adam Wolff\, will provide an overview of the platform\, giving insight around community adoption and contribution\, the basics of getting started\, as well as examples of customer case studies.Speaker(s): Adam Wolff; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9507
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T134500
+SUMMARY:"Stump the Band" Ben Trott Artur Bergman; Tatsuhiko Miyagawa (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9588
+DTEND;TZID=US/Pacific:20060826T143000
+DESCRIPTION:Description: Bring your most intractable Web 2.0 scaling problems to Ben Trott\, aka\, Valleywag&#146;s &#147;Hottest Man in Silicon Valley\,&#148; Artur Bergman and Tatsuhiko Miyagawa.  If we can&#146;t point you towards a solution\, you get &#147;schwag.&#148; Speaker(s): Ben Trott; Artur Bergman; Tatsuhiko MiyagawaTrack: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9588
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Developing Berkeley DB Java Edition: Internals and War Stories" Charles Lamb  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8580
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Berkeley DB Java Edition (JE) is an open source\, pure Java\, embedded\, transactional datastore intended to be deployed in multithreaded\, high-concurrency environments as a transactional engine. This talk is intended for advanced Java programmers and looks at JE internals and some of the issues encountered during its development.Speaker(s): Charles Lamb; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8580
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"The Semasiology of Open Source (Part III)" Robert "r0ml" Lefkowitz  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8611
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: This is the third and final talk in the Semasiology series (thesis\, antithesis\, synthesis). Semasiology is the study of the development of meaning. Thesis (Part I) proposed that open source wasn't about the source code. Antithesis (Part II) argued that open source was about the source code. Synthesis (Part III) concludes that open source is a synonym for Semasiology.Speaker(s): Robert "r0ml" Lefkowitz; Track: Emerging TopicsRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8611
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Getting Started in Linux Kernel Development" Randy Dunlap  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9111
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: This talk introduces several aspects of the Linux kernel development culture and discusses how to develop code within the Linux kernel software development process. This is primarily about social engineering and not technical recipes for Linux kernel code.Speaker(s): Randy Dunlap; Track: LinuxRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9111
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Plagger: Pluggable RSS/Atom Aggregation" Tatsuhiko Miyagawa  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8993
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Plagger (http://plagger.org/) is a pluggable RSS/Atom feed aggregator written in Perl\, and comes with various plugin hooks that third party plugins can extend. This talk covers how to setup Plagger\, how powerful it is\, and includes a demonstration on how to write your own plugin to remix your favorite RSS/Atom feeds.Speaker(s): Tatsuhiko Miyagawa; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8993
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Programming the Kernel for Web 2.0" Audrey Tang  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:9485
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Speaker(s): Audrey Tang; Track: PerlRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9485
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Painless maintenance of local changes to fast-moving software" Bryan O'Sullivan  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:9370
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Managing local changes to fast-changing software is hard: you have to track what you've changed\, save your changes\, and manually fix it all up every time you download a new version.  Mercurial Queues makes light work of the job\, and scales from tiny projects to entire Linux distributions.Speaker(s): Bryan O'Sullivan; Track: ProgrammingRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9370
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Ruby and .NET" John Lam  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8552
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: This talk examines the RubyCLR bridge\, an extremely fast open source bridge between Ruby and the Common Language Runtime. It lets Ruby programs call and receive callbacks from .NET objects. You will see how the bridge was implemented\, and the key design decisions that made it fast and robust.Speaker(s): John Lam; Track: RubyRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8552
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Streamlined" Stuart Halloway  (Room: D133)
+LOCATION:D133         
+DTSTAMP:19010101T010101Z
+UID:9535
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Streamlined is an open source framework for quickly creating data-centric applications with Ruby on Rails. We want to take the redundancy out of building apps and let us (and you) focus on the things that make our apps different.Speaker(s): Stuart Halloway; Track: RubyRoom: D133
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9535
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Open Source QA with Selenium" Patrick Lightbody  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:9083
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Selenium\, part of the OpenQA community of open source QA tools\, is unique in that it builds upon AJAX techniques not to improve a web application's UI\, but instead to help test web applications in a unique cross-browser\, cross-operating system style. In this presentation we will look at the world of OpenQA and Selenium and see how they are building up a new breed of open source QA tools.Speaker(s): Patrick Lightbody; Track: Web AppsRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9083
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Cross-site Ajax: Challenges and Techniques for Building Rich Web 2.0 Mashups" Joseph Smarr  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8923
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: The trend towards rich Ajax web applications and light-weight APIs for creating mashups has great potential\, but many of the standard techniques don't work across web sites on different domains\, due to security restrictions. This talk discusses these challenges in detail\, and presents some new solutions for rich cross-site communication.Speaker(s): Joseph Smarr; Track: JavaScript/AjaxRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8923
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Lessons Learned in Taking a Closed Source Product Open" Neelan Choksi  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:8981
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: This unique case study will highlight the experiences of taking a portion of code from the closed source BEA Kodo product and contributing it to the open source community as a new project called Open JPA.Speaker(s): Neelan Choksi; Track: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8981
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"Building Java Web Applications with Tapestry" Howard Lewis Ship  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8904
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Tapestry is a unique and innovative Java web application framework that automates and simplifies all aspect of web application development. Come see why so many developers get hooked on Tapestry.Speaker(s): Howard Lewis Ship; Track: Room: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8904
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T143500
+SUMMARY:"The Challenge: Digital Media and OSS" John Terpstra  (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9484
+DTEND;TZID=US/Pacific:20060826T152000
+DESCRIPTION:Description: Speaker(s): John Terpstra; Track: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9484
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"So You've Inherited a MySQL Instance on Unix" Sheeri Kritzer  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8437
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: This talk will enable you to dive headlong into administering a MySQL instance in a Unix environment\, without any knowledge of the system setup. Learn how to gather information non-intrusively about a MySQL instance\, and how to avoid others doing the same. Speaker(s): Sheeri Kritzer; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8437
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Puppet: An Operating System Abstraction and Automation Framework" Luke Kanies  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:8640
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: Puppet is a system automation framework that functions as a high-level interface to operating systems.  It provides the first system administration language focused on service construction and code reusability\, abstracting implementation details like file contents and running processes to portable elements like users and services.Speaker(s): Luke Kanies; Track: Emerging TopicsRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8640
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"The Best and Worst of Open Source Business Tactics" Cliff Schmidt  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8938
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: This talk recounts specific actions that have led to either beneficial or costly results for several different companies using open source within their business strategy. Attendees of this talk will leave with a long list of tactics and an understanding of why they succeeded or failed for a particular context.Speaker(s): Cliff Schmidt; Track: Emerging TopicsRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8938
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Lightning States of" Josh Berkus Donnie Berkholz; Craig Russell; Corey Shields; Louis Suarez-Potts; David Van Couvering; Jeff Waugh (Room: D133)
+LOCATION:D133         
+DTSTAMP:19010101T010101Z
+UID:9443
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: Java Data Objects: Craig Russell (Sun Microsystems) will explain what's  going on with JDO development and object-oriented DB access for Java.  Planet: Jeff Waugh gives us the Planet project's provocative programming  plans\, and why Planet is perfect for your OSS project blog.  PostgreSQL: Josh Berkus (Sun Microsystems) lets us know where PostgreSQL  has been in the last year and what the likely features are for PostgreSQL  8.2.  Gentoo: Donnie Berkolz (Gentoo) updates people on the state of Gentoo  today and where the project could be in a year.  OpenOffice.org: Louis Suarez-Potts (CollabNet) brings news from the  leading full-featured open source office suite.  Derby: David Van Couvering (Sun Microsystems) introduces the Derby  embedded database and talks a little about plans for the next year.  Linux Kernel in Less Than Five Minutes: Starting with one deep breath\, Greg  KH gives us the full and complete Linux Kernel development status in five  minutes or less. &nbsp;Bring your stopwatch! Speaker(s): Josh Berkus; Donnie Berkholz; Craig Russell; Corey Shields; Louis Suarez-Potts; David Van Couvering; Jeff WaughTrack: Emerging TopicsRoom: D133
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9443
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Using Xen and Crucible for Automated Testing of Inkscape and Cairo" Bryce Harrington  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9516
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: Speaker(s): Bryce Harrington; Track: LinuxRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9516
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Perl Lightning Talks" Mark-Jason Dominus  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9222
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: Lightning Talks are sixteen five-minute talks in a ninety-minute time slot.  Come early\, it'll be fun!Speaker(s): Mark-Jason Dominus; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9222
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"PHP 6 & Unicode: The Tower of Babel, Next Generation" Andrei Zmievski  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8639
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: One of the aspects of being competitive these days means creating applications for worldwide consumption. PHP\, the paragon of web development languages\, is acquiring much-needed Unicode and i18n features in its next version. This talk will cover these features and illustrate their application in building internationalized software.Speaker(s): Andrei Zmievski; Track: PHPRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8639
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Python in the Enterprise" Alex Martelli  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8951
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: Python is highly suitable for integration in Enterprise applications: once you've integrated it with legacy code\, the possibilities are endless\, from enhancing that code with rich tests and new functionality\, to helping platform migration. This talk discusses strategies and tactics for introducing and exploiting Python in your organization.Speaker(s): Alex Martelli; Track: PythonRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8951
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"The Truth about XSS" Chris Shiflett  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8712
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: Cross-Site Scripting (XSS) persists as one of the most common web application security vulnerabilities\, yet many web developers still don't appreciate the danger. This talk demonstrates real-world XSS attacks as well as simple techniques and practices that prevent them.Speaker(s): Chris Shiflett; Track: SecurityRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8712
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Ruby for Java Programmers" Ugo Cei  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8636
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: The session will show\, with a hands-on approach and plenty of samples\, how to make the worlds of Ruby and Java coexist\, either by having Ruby code call Java code\, or vice-versa\, in-process or inter-process. Bridging\, running Ruby on the JVM\, and remoting approaches will be introduced and their respective merits and shortcomings discussed.Speaker(s): Ugo Cei; Track: RubyRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8636
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Django: Web Development with Journalists' Deadlines" Jacob Kaplan-Moss  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:9153
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: Django is a high-level web development framework for rapid development of database-backed web sites and applications.  This presentation will introduce Django\, explain the philosophies behind it\, and walk through the steps involved in quickly building a web application with Django.Speaker(s): Jacob Kaplan-Moss; Track: Web AppsRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9153
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"0 to 60 in 45 Minutes: A Down and Dirty Ajax Design Patterns Fire Drill" Terry Chay  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8946
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: Let's see how many design patterns we can cram into a 45-minute talk. Included are Web 2.0 patterns (in HTML\, JavaScript\, or CSS) that were actually used to solve real problems of real web sites.Speaker(s): Terry Chay; Track: JavaScript/AjaxRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8946
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"The Shale Framework" Craig McClanahan  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9343
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: This session introduces Shale\, a framework for building web applications based on JavaServer Faces.  Shale leverages extension points in the underlying framework to add functionality or improve ease of use.Speaker(s): Craig McClanahan; Track: Room: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9343
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Implementing the LAMP Stack" Jim Jagielski  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9477
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: The LAMP Stack (for Linux/Apache/MySQL/PHP-Perl-Python) represents a major reconsideration of how to design and implement a high-availability\, Enterprise-grade web infrastructure. Using best-of-breed open source technology\, companies and organizations are able to design\, implement\, and administer cost-effective\, robust environments that meet and exceed more proprietary solutions.Speaker(s): Jim Jagielski; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9477
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T163000
+SUMMARY:"Content in the Web 2.0 World" Mike Hendrickson  (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9512
+DTEND;TZID=US/Pacific:20060826T171500
+DESCRIPTION:Description: In this session Mike will discuss how O'Reilly Media is delivering content and some of our plans to deliver content in a Web 2.0 world.  This is intended to be both informative and interactive.Speaker(s): Mike Hendrickson; Track: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9512
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"Open Source Voting" Arthur Keller David Mertz (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8606
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: This talk describes the issues involved in the design and implementation of an open source electronic voting system that includes paper ballots with electronic audit trails; ballot verification by the visually and reading impaired; and secure\, reliable\, and auditable tabulation systems. Also discussed is the developed of a prototype in-precinct system and open source central tabulation system.Speaker(s): Arthur Keller; David MertzTrack: Emerging TopicsRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8606
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"Lightning States of (con't)" Josh Berkus  (Room: D133)
+LOCATION:D133         
+DTSTAMP:19010101T010101Z
+UID:9559
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: Speaker(s): Josh Berkus; Track: Emerging TopicsRoom: D133
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9559
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"Perl Lightning Talks (con't)" Mark-Jason Dominus  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9560
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: Speaker(s): Mark-Jason Dominus; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9560
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"PDO: PHP Data Objects" Wez Furlong  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8685
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: In this session we'll look at the new data access layer for PHP\, PDO\, and learn how to use it to write powerful data-driven PHP applications that take advantage of prepared statements\, transactions\, and LOBs.Speaker(s): Wez Furlong; Track: PHPRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8685
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"How Open Source Projects Survive Poisonous People (And You Can Too)" Ben Collins-Sussman Brian W. Fitzpatrick (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8673
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: The success of an open source project depends a great deal on its social atmosphere. Learn how to identify troublemakers (and defuse them) before they poison your community's culture.Speaker(s): Ben Collins-Sussman; Brian W. FitzpatrickTrack: ProgrammingRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8673
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"Coding Wizard, Savvy Trader: Applying Your Expertise to the Stock Market" Kartik Subbarao  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8755
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: Open source developers are among the best in the world at manipulating\, transforming\, and assimilating information in its many forms and guises. How can they put these skills to work in the stock market? This session will explore several ways to capitalize on expertise gained on programming projects.Speaker(s): Kartik Subbarao; Track: ProgrammingRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8755
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"Contribute Tests to Your Favorite Open Source Project" Dayne Medlyn  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8932
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: Know of a project that could become the coolest? Want to contribute? Want to improve the quality of your contributions?  The basic skills of software testing can help anyone make a crucial contribution to a project. Come improve your ability to test open source and make it better.Speaker(s): Dayne Medlyn; Track: ProgrammingRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8932
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"Data Mining Using Orange and Python" Mitchell Smith Matt Drew (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8816
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: Orange is an open source data mining package that is written in C++\, but best accessed through Python. This talk will cover the basics of Orange and detail its usage through real-world examples. Topics include creating predictive models\, model validation\, model preprocessing\, and creating your own learner and classifiers.Speaker(s): Mitchell Smith; Matt DrewTrack: PythonRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8816
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"wxPython in a Nutshell" Robin Dunn  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8964
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: wxPython is a huge class library for creating GUI applications with Python\, and can often be overwhelming and scary for new users. This presentation will start with a brief overview of wxPython and end with the creation of a simple GUI application.Speaker(s): Robin Dunn; Track: PythonRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8964
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"Extending Ruby with C" Garrett Rooney  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8402
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: The Ruby programming language provides an easy to learn\, powerful object-oriented environment suitable for projects ranging from simple scripts to powerful applications\, but one of its least well-known features is the ease with which it can be extended. Learn how to write your own Ruby extensions in C\, first manually and then with systems like SWIG and RubyInline.Speaker(s): Garrett Rooney; Track: RubyRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8402
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"No Flash Required: Interactive Browser Graphics" Gavin Doughtie  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8692
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: Until recently\, rich web-based applications have had to resort to Flash or other proprietary plugins to adequately control presentation. This session shows how to create interactive graphics\, animations\, and GUIs using only the client-side capabilities of today's browsers.Speaker(s): Gavin Doughtie; Track: JavaScript/AjaxRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8692
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T172000
+SUMMARY:"Virtualization and Linux: Anything but Traditional" Kevin Noreen  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9478
+DTEND;TZID=US/Pacific:20060826T180500
+DESCRIPTION:Description: Virtualization is challenging traditional models of computing. From the desktop to the data center\, users are realizing the potential of virtual environments to tackle complex business challenges around simplifying operations\, improving utilization\, and cost-effectively scaling. Open industry standards in enterprise and client computing will extend the role of Linux in the marketplace.Speaker(s): Kevin Noreen; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9478
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T180500
+SUMMARY:"Exhibit Hall Reception"   (Room: )
+LOCATION:         
+DTSTAMP:19010101T010101Z
+UID:9321
+DTEND;TZID=US/Pacific:20060826T193000
+DESCRIPTION:Description: Speaker(s): ; Track: Room: 
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9321
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"FOSCON II: The Ruby Rodeo"   (Room: <a href="http://freegeek.org/">Free Geek</a>)
+LOCATION:<a href="http://freegeek.org/">Free Geek</a>         
+DTSTAMP:19010101T010101Z
+UID:9594
+DTEND;TZID=US/Pacific:20060826T220000
+DESCRIPTION:Description: Speaker(s): ; Track: Room: <a href="http://freegeek.org/">Free Geek</a>
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9594
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"Something Interesting Dominus is Working On"   (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9341
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9341
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"Maven in the Wild"   (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:9372
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9372
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"The Summer of Code 2006 Community Gathering"   (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:9498
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9498
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"OpenSolaris Virtualization"   (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:9525
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9525
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"PHP Security Hoedown"   (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9527
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9527
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"Service Component Architecture in Practice: The Apache Tuscany Project"   (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9532
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9532
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"New Features of Apache Geronimo 1.1 (including new plug-in capability)"   (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9556
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9556
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"Django Meet-n-Greet"   (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9562
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9562
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"The Chandler, Cosmo, and Scooby Projects at OSAF"   (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:9580
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9580
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"The Mozilla Foundation"   (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:9586
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9586
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T193000
+SUMMARY:"OSGeo - Open Source Geospatial Foundation"   (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:9587
+DTEND;TZID=US/Pacific:20060826T203000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9587
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T200000
+SUMMARY:"Firefox Flicks Screening"   (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9410
+DTEND;TZID=US/Pacific:20060826T220000
+DESCRIPTION:Description: Speaker(s): ; Track: Emerging TopicsRoom: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9410
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"What You Need to Know for Open Source Higher Education"   (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:9340
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9340
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"Open for Business Project"   (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9407
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9407
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"What is Python?"   (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:9468
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9468
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"JasperReports"   (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9503
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9503
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"Apache Derby"   (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9520
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9520
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"Free Software in Embedded Systems"   (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9550
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9550
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"Komodo and the Web"   (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:9555
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9555
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"HyperScope - Advanced Linking and Viewing For the Web"   (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9584
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9584
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T203000
+SUMMARY:"Memcached For Fun and Profit"   (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:9596
+DTEND;TZID=US/Pacific:20060826T213000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9596
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060826T213000
+SUMMARY:"BI For Everyone: JasperSoft's Tim Cloonan Talks About JasperForge.org"   (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9597
+DTEND;TZID=US/Pacific:20060826T223000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9597
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T084500
+SUMMARY:"The Zen of Free" Simon Phipps  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9483
+DTEND;TZID=US/Pacific:20060827T090000
+DESCRIPTION:Description: When people say "open source is fine but how do you make money?" you know they haven't grokked the Zen of Free. This keynote describes the 'virtuous cycle' model of open source. It explores which licenses and business models work and which don't\, what the 'signature triangle' of an open source community looks like and why open source advocates aren't communists.Speaker(s): Simon Phipps; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9483
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T090000
+SUMMARY:""Opening" the Possibilities: APIs and Open Source Code" Gary Lang  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9181
+DTEND;TZID=US/Pacific:20060827T091500
+DESCRIPTION:Description: Speaker(s): Gary Lang; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9181
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T091500
+SUMMARY:"5 A Day" Robert "r0ml" Lefkowitz  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9499
+DTEND;TZID=US/Pacific:20060827T093000
+DESCRIPTION:Description: A brief exhortation on the importance of\, and challenges relating to\, the Quantification of Open Source.Speaker(s): Robert "r0ml" Lefkowitz; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9499
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T093000
+SUMMARY:"Developers: You've Got the Power - Now What?" Stephen O'Grady  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9523
+DTEND;TZID=US/Pacific:20060827T094500
+DESCRIPTION:Description: Speaker(s): Stephen O'Grady; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9523
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T094500
+SUMMARY:"Making Tech Documentaries: How and Why" Jason Scott  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9522
+DTEND;TZID=US/Pacific:20060827T100000
+DESCRIPTION:Description: For four years\, Jason Scott shot a documentary about dial-up Bulletin Board Systems (BBSes)\, interviewed hundreds of people\, and produced a 3-DVD set about them. Now\, as he starts filming his next two films simultaneously\, he'll talk about his motivations\, approach to these projects\, and show some footage from both his finished and current works.Speaker(s): Jason Scott; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9522
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T100000
+SUMMARY:"Q & A"   (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9537
+DTEND;TZID=US/Pacific:20060827T101500
+DESCRIPTION:Description: Speaker(s): ; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9537
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Building Rich Clients Using Eclipse RCP" Wayne Beaton  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8756
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Eclipse Rich Client Platform (RCP) is a runtime platform for delivering your Java applications on multiple platforms. Learn how you can use the Eclipse Rich Client Platform (RCP) to build applications that are modular\, extensible\, and updatable.Speaker(s): Wayne Beaton; Track: Desktop AppsRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8756
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"How Database Engines Work" D. Richard Hipp  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:9472
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: If you understand how a system works you can generally use it more effectively.  This talk describes how SQL RDBMSes works in general and also provides specific examples of the details of operation of MySQL\, PostgreSQL\, and SQLite.Speaker(s): D. Richard Hipp; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9472
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"The (Surprising) History of Copyright, and What It Means for Open Source" Karl Fogel  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8509
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: The historical origins of copyright turn out to be surprising\, and very relevant to the spread of open source practices today. This talk will outline copyright's history (with references to further resources)\, and discuss what it means for the open source movement.Speaker(s): Karl Fogel; Track: Emerging TopicsRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8509
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Real World Security Response" Mark Cox  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8785
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Every open source project has its own process and procedures on how to deal with vulnerabilities found in their code. This talk will take a look at how groups such as the Apache Software Foundation and OpenSSL project have set up security response processes and show when the process has worked and when it has gone horribly wrong.  Speaker(s): Mark Cox; Track: Room: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8785
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Mason Components for Ajax" David Bushong  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8418
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: The Mason application server lets you build Perl-based dynamic web applications. Its clever component system is a natural fit for Ajax integration. This talk will cover how to design for current or future Ajax functionality or easily retrofit an existing application.Speaker(s): David Bushong; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8418
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Porting Mac::Carbon to Intel" Chris Nandor  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8506
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Speaker(s): Chris Nandor; Track: PerlRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8506
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"PHP and Web 2.0" Rasmus Lerdorf  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8808
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: PHP has become amazingly popular due to its simple pragmatic approach to solving the web problem.  As the web problem has evolved\, PHP has evolved. This talk explores how to use PHP 5 to build a modern rich web applicationSpeaker(s): Rasmus Lerdorf; Track: PHPRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8808
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Subversion Best Practices" Ben Collins-Sussman Brian W. Fitzpatrick (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8671
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Get past the basic mechanics of Subversion usage\, and learn about "best practices" for deploying Subversion to your team. We'll talk about tradeoffs in repository layout\, strategies for emails\, backups\, as well as policies for commit-access\, branching and releasing\, and other important topics.Speaker(s): Ben Collins-Sussman; Brian W. FitzpatrickTrack: ProgrammingRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8671
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Building Extensible Desktop Applications with the Zope 3 Project" Nathan Yergler  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8752
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Zope 3 provides a rich set of infrastructure components such as interfaces\, adapters and event dispatch. This talk will cover ways in which these tools can be used to implement loosely coupled\, extensible desktop applications.Speaker(s): Nathan Yergler; Track: PythonRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8752
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Python in Mozilla" Mark Hammond  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:9432
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Speaker(s): Mark Hammond; Track: PythonRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9432
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Building Rails to Legacy Applications" Robert Treat  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8663
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: By now everyone has heard of Ruby on Rails\, but once you get past the first 10 minutes\, how do you go about getting your old legacy systems into a new rails framework? In this talk we'll show you several different tricks and techniques\, expand your object model\, and clean up your code. Speaker(s): Robert Treat; Track: RubyRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8663
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"What Happens When the Money Comes?" Danese Cooper Mitchell Baker; Joichi Ito; Geir Magnusson; David Recordon; Susan Wu (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9378
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Recent high-profile acquisitions of several FOSS codebases and moves to adopt business-friendly practices have some FOSS advocates wrestling with how to keep the "free" and "open" in FOSS. Listen to voices at the forefront of this issue\, including Mitchell Baker (Mozilla)\, Tim O'Reilly\, Geir Magnussen (Gluecode)\, Joi Ito (VC investor in SixApart) and Dave Recordon (LiveJournal).Speaker(s): Danese Cooper; Mitchell Baker; Joichi Ito; Geir Magnusson; David Recordon; Susan WuTrack: Room: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9378
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"Proven and Robust OLTP Storage Engine Goes Open Source--Solid Information Technology, solidDB for MySQL" Murat Demiroglu  (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9492
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Murat Demiroglu will discuss Solid&#146;s open source strategy\, its strategic partnership with MySQL and its new product for the open source community &#150; solidDB Storage Engine for MySQL.  Demiroglu will outline the features of Solid&#146;s open source version of its highly available\, scalable and fast transactional database storage engine. Speaker(s): Murat Demiroglu; Track: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9492
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T104500
+SUMMARY:"OSGeo: Mapping and Geospatial Tools & Support" Jo Walsh Mark Lucas; Aaron Racicot (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9557
+DTEND;TZID=US/Pacific:20060827T113000
+DESCRIPTION:Description: Speaker(s): Jo Walsh; Mark Lucas; Aaron RacicotTrack: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9557
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"TimeTravel Tables in PostgreSQL" A. Elein Mustain  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8627
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Have you ever wanted to know what your data looked like last Thursday at 2:05pm? How many widgets were in stock yesterday at 4:00pm? This talk will show you how to construct TimeTravel tables in PostgreSQL so that you can answer exactly these types of questions.Speaker(s): A. Elein Mustain; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8627
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"I'm 200, You're 200: Codependency in the Age of the Mash-up" David Sklar  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8764
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: No app is a digital island. All those RESTafarian APIs and sexy SOAP suds that have turned your Web 1.0 snoozer site into a Web 2.0 social mashup masterpiece come at a price: dependency. A refinery can't run without a pipeline\, and your mashup has nothing to mash up if all its API calls fall on deaf servers.Speaker(s): David Sklar; Track: Emerging TopicsRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8764
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"DVR Happiness: Gluing MythTV and TiVo Together with Galleon" Kees Cook  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9252
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: MythTV and TiVo are both great DVRs. Are you using them together to their fullest extent? You can easily start sharing media between your DVRs\, streaming music\, and browsing image galleries. All you need is Galleon and a few simple tricks.Speaker(s): Kees Cook; Track: Emerging TopicsRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9252
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"Low-Maintenance Perl" Perrin Harkins  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8723
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Perl is a language that gives you a lot of rope. How can you keep that power under control\, and reduce the amount of time you spend chasing mysterious bugs? This talk will show you how to choose a dialect of Perl that suits your preferred level of risk. The payoff is reduced debugging and integration time.Speaker(s): Perrin Harkins; Track: PerlRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8723
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"A Relational Object Driver That Doesn't Suck" Ben Trott  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9246
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Data::ObjectDriver is a pragmatic toolkit for building scalable database applications\, built from years' experience stuffing objects into relational stores. The module plays well with various database server software\, caches objects in your application and with memcached\, and eases partitioning for horizontal scaling.Speaker(s): Ben Trott; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9246
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"Python 3000" Guido van Rossum  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8766
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Python 3000&#151;we've heard about it for years. But what is it going to be\, and when will we be able to use it?  Python's BDFL means business.Speaker(s): Guido van Rossum; Track: PythonRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8766
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"Fun with Open Source Attack & Penetration Tools" Nitesh Dhanjani  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8782
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Open source attack & penetration tools do a lot more than their out-of-the-box functionality. We will see how to extend popular network assessment tools such as Nessus and Ettercap\, as well as how to write our own assessment tools.Speaker(s): Nitesh Dhanjani; Track: SecurityRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8782
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"haXe: A Cross-platfom Web Language" Nicolas Cannasse  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8600
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: haXe is a web programming language with a Flexible type system. Neither dynamically typed nor statically typed\, it brings the best of both worlds. haXe can be used on both server side and client side\, replacing JavaScript and boosting your overall productivity.Speaker(s): Nicolas Cannasse; Track: Web AppsRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8600
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"Microsummaries in Firefox and on the Web" Myk Melez  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:9515
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Speaker(s): Myk Melez; Track: Web AppsRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9515
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"Ajax + .NET = Atlas" Christian Wenz  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8769
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Microsoft goes Ajax\, and it is even free! Atlas is a framework on top of .NET that facilitates using Ajax and JavaScript with ASP.NET. This session will present the latest version of the framework (the final version will be part of the next version of ASP.NET).Speaker(s): Christian Wenz; Track: WindowsRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8769
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"Building Successful Commercial Open Source Projects" Jorg Janke  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:8839
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Building a successful open source project is hard enough - turning it into a commercial success is arguably much harder. Compiere is one of the industry's premier examples of a commercial open source success: profitable without sacrificing freedom or community. In this presentation\, Jorg Janke will detail the rise of Compiere\, revealing both smart and not-so-smart decisions the company made along the way.Speaker(s): Jorg Janke; Track: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8839
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"Building a High Performance XML Router with AsyncWeb and XFire" Dan Diephouse  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9065
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Despite the prevalence of web services\, they are notoriously slow and do not inherently scale well. What happens when you need to build an XML service that needs to scale to thousands of transactions a second and thousands of connections? Learn about the challenges and how to build a solution with the XFire and AsyncWeb projects.Speaker(s): Dan Diephouse; Track: JavaRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9065
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"The Future of Software is a Blend, But of What?" Robert Sutor  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9475
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: The industry is moving to a new equilibrium that mixes the use of both open source and private source in any given solution. This presentation will discuss some of the efforts being put into creating a potent open source stack for software middleware and why optimizing the blend should be part of your IT strategy.Speaker(s): Robert Sutor; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9475
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T113500
+SUMMARY:"Introduction to Windows Workflow Foundation" Jason Mauer  (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9480
+DTEND;TZID=US/Pacific:20060827T122000
+DESCRIPTION:Description: Windows Workflow Foundation is the programming model\, engine\, and tools for quickly building workflow-enabled applications on Windows. These services are freely available as part of the WinFX API. Come see how you can take advantage of these workflow services in your own applications.Speaker(s): Jason Mauer; Track: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9480
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"Songbird" Robert Lord  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:9156
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Lord will discuss Songbird\, a new "web player" built atop the Mozilla platform.Speaker(s): Robert Lord; Track: Desktop AppsRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9156
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"SQL Outer Joins for Fun and Profit" Bill Karwin  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8826
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Learn how to use outer joins to solve many types of tough SQL problems in a simple and scalable way.Speaker(s): Bill Karwin; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8826
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"Google - TBD" Greg Stein  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8824
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Speaker(s): Greg Stein; Track: Emerging TopicsRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8824
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"Perl 6 Update" Damian Conway Larry Wall (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9033
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Perl 6 is so close you can almost taste it! In this talk\, Wall and Conway will look at the final design of the language and the progress of implementing it over the past twelve months.Speaker(s): Damian Conway; Larry WallTrack: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9033
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"PHP Security Testing" Chris Shiflett  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8716
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: This talk demonstrates both manual and automatic penetration testing techniques that you can use to test your PHP applications for security vulnerabilities.Speaker(s): Chris Shiflett; Track: PHPRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8716
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"Writing Portable C Code with APR" Garrett Rooney  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8401
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Building an application that runs on a variety of operating systems continues to be a challenging task\, and doing so while taking advantage of each platform's unique abilities is even harder. Learn to use APR\, the portability runtime that powers the Apache HTTP Server and Subversion version control system\, and you\, too\, can apply the collective wisdom of the APR developers to making your application portable.Speaker(s): Garrett Rooney; Track: ProgrammingRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8401
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"vobject: iCalendar in Python" Jeffrey Harris  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8851
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Calendaring based on the standard iCalendar format has become mainstream in recent years. This talk will explore manipulating iCalendar data using vobject\, a Python library.Speaker(s): Jeffrey Harris; Track: PythonRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8851
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"Building Domain-specific Language in Ruby" Neal Ford  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8802
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Experienced developers in dynamic languages tend to model problems not by building object hierarchies but by building domain specific languages. This session discusses building DSLs in Ruby\, and shows how to build a simple DSL\, for what problems this technique is suitable\, and how Ruby makes this possible.Speaker(s): Neal Ford; Track: RubyRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8802
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"Hacking Apache HTTP Server at Yahoo!" Michael Radwin  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8646
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Learn the secrets of how Yahoo! uses the Apache HTTP Server to get maximum performance out of minimal hardware. Radwin reveals Yahoo!'s techniques for reducing bandwidth costs\, logfile rotation without interruption\, SSL acceleration\, fault isolation to prevent disruption of service\, and avoiding the dreaded MaxClients\, Max/MinSpareServers\, StartServers configuration nightmare.Speaker(s): Michael Radwin; Track: Web AppsRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8646
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"OpenLaszlo: No Flash Required!" David Temkin  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8958
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: This session will describe OpenLaszlo's transition from a Flash-specific development platform to one that provides a choice between Flash or Ajax. Attendees will see a demo of OpenLaszlo 4.0\, and will learn the challenges of bridging two of the most popular runtimes with a single XML language and framework.Speaker(s): David Temkin; Track: Web AppsRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8958
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"Leveraging Mono for Cross-platform Development" Kevin Shockey Joseph Hill (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8800
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Mono is a comprehensive open source development platform based on the .NET framework that allows developers to build cross-platform applications with unprecedented productivity. This session will provide an introduction to application development with Mono.Speaker(s): Kevin Shockey; Joseph HillTrack: WindowsRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8800
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"Marketing to Dilbert:  How to Invite Developers Into Your Project" Stephen O'Grady Dave Rosenberg (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9433
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: Ask any VC about the hardest position to recruit for in open source and they will tell you it is VP of Marketing. Transparency\, free and decentralized; three concepts that strike fear through the hearts of traditional marketers\, must be embraced in order to be successful as a company and contribute to the continuing growth and acceptance of open source. How do you market to the group that least likes marketing? That is\, to Dilbert?Speaker(s): Stephen O'Grady; Dave RosenbergTrack: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9433
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"LinuxCOE: Deploying and Supporting Linux in Global IT Operations" Craig Lamparter  (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9476
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: HP recently opensourced "LinuxCOE" -- a collection of tools and technologies used to deploy and support more than 10\,000 Linux systems within Hewlett Packard. Linux enthusiasts wishing to increase Linux and open source adoption in their own companies will learn how LinuxCOE can satisfy even the most skeptical IT managers\, making Linux a natural and inevitable choice in any IT infrastructure.Speaker(s): Craig Lamparter; Track: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9476
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T134500
+SUMMARY:"A guided Tour of HQ: The Open Source Management Platform" Doug MacEachern  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9547
+DTEND;TZID=US/Pacific:20060827T143000
+DESCRIPTION:Description: HQ is an open source platform designed for managing every layer of complext IT infrastructure. In this session\, Doug will introduce the architecture of HQ\, go into detail about its cross platform management capabilities\, and discuss the benefits of managing large environments with it.Speaker(s): Doug MacEachern; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9547
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"State of the Desktop Infrastructure" Jamey Sharp  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8966
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: Recently\, new eye-candy support for the X Window System has gotten a lot of attention. In fact\, important work is going on under the hood at every level. We'll discuss the present and future of the free desktop infrastructure: how it works\, what it does\, and how it affects you.Speaker(s): Jamey Sharp; Track: Desktop AppsRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8966
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Eight Steps to Fix Your Database Performance Problem" Christopher Browne  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8889
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: We examine eight methods to "attack" database performance problems. Frequently\, minor system configuration problems can cause performance to suffer. This session presents various classes of these problems\, with a view to addressing them without needing to modify the application.Speaker(s): Christopher Browne; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8889
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Perl 6 Compiler Status and the Parrot Compiler Toolkit" Patrick Michaud  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8911
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: This talk will describe the current status and implementation of the Perl 6 compiler. The talk will also give a detailed look into the various "compiler toolkit" components being implemented to support the development of compilers under Parrot\, including Perl 6.Speaker(s): Patrick Michaud; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8911
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Perl Program Repair Shop and Red Flags" Mark-Jason Dominus  (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:9296
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: It's hard to write great code\, but it doesn't have to be hard to write good code. "Red flags" are easy-to-see signs that you have an easy opportunity to make your code better. Dominus will show many red flags in real programs he's gathered and provide easy ways to make these programs smaller\, faster\, and easier to understand.Speaker(s): Mark-Jason Dominus; Track: PerlRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9296
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Writing Maintainable Code with PHP" Laura Thomson  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8822
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: In this talk\, you'll learn why maintaining other people's PHP code is akin to the ninth circle of hell\, and how to write your own code so as not to inflict that on others.Speaker(s): Laura Thomson; Track: PHPRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8822
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Scripting .NET with IronPython" Martin Maly Jim Hugunin (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8888
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: IronPython is a new fast implementation of the Python language for .NET. It supports interactive interpreter with fully dynamic compilation as well as static compilation into pre-compiled assemblies. It is well integrated with the .NET Framework and makes the wealth of .NET code easily available to Python programmers.Speaker(s): Martin Maly; Jim HuguninTrack: PythonRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8888
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Testing Rails Apps" Mike Clark  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8395
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: Testing has always been a bit like eating your vegetables and going to the gym: everyone knows the benefits\, but sometimes it&#146;s not easy to do. This session will show you how to start writing good unit and functional tests for your Rails apps\, and keep writing them when the pressure is on. Speaker(s): Mike Clark; Track: RubyRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8395
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"User Experience, Pain-free" Amy Hoy  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8927
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: It's smart to make your users as happy as possible&#151;and there's always room for improvement. Learn how to focus your interface\, reduce clutter\, smooth application flow\, and present information in the most effective way. These techniques will help jump start a new project or revamp an old one.Speaker(s): Amy Hoy; Track: Web AppsRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8927
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Using Google Web Toolkit" Bret Taylor Bruce Johnson (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9486
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: Bruce Johnson and Bret Taylor will demonstrate AJAX development with Google Web Toolkit\, Google's new development tool that lets you develop AJAX applications in Java.  They will demonstrate some of the most widely used features of GWT\, including browser history management\, asynchronous server communication\, and UI development.Speaker(s): Bret Taylor; Bruce JohnsonTrack: JavaScript/AjaxRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9486
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Business Models for Open Source Software Companies" Tony Wasserman  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9169
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: This session describes the forces behind the growing commercialization of open source software\, and reviews the various business models being followed by software vendors and service providers.Speaker(s): Tony Wasserman; Track: BusinessRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9169
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Failing to Succeed" Robert "r0ml" Lefkowitz  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9456
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: Speaker(s): Robert "r0ml" Lefkowitz; Track: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9456
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Working with Microsoft Excel Spreadsheets and Microsoft Access Databases in a Java Application" Sean Sullivan  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8967
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: This session will examine two Java libraries: Jakarta POI and Jackcess. Jakarta POI is a pure Java library for reading and writing Excel XLS files; the Jackcess project is a pure Java library for reading and writing Access MDB files.Speaker(s): Sean Sullivan; Track: JavaRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8967
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"The Secret Sauce of Robust Developer Communities - Presented by O'Reilly Media in Partnership with CollabNet" Denise Kalos Andrew Kelly (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9497
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: Speaker(s): Denise Kalos; Andrew KellyTrack: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9497
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T143500
+SUMMARY:"Sun's Open Source Strategy" Simon Phipps Tom Marble (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9481
+DTEND;TZID=US/Pacific:20060827T152000
+DESCRIPTION:Description: Sun is a very active participant in many open source communities.  In this session you can learn about Sun's open source strategy and get a status update on many of its current initiatives. Get the inside story on the DLJ and on Java performance in  a completely open stack.Speaker(s): Simon Phipps; Tom MarbleTrack: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9481
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Building Internet Applications with Mozilla XULRunner" Benjamin Smedberg  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:9253
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Mozilla XULRunner is a platform for developing and deploying rich-client applications using web technologies. The talk will demonstrate a range of XULRunner-based applications and deployment strategies.Speaker(s): Benjamin Smedberg; Track: Desktop AppsRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9253
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"The Future of MySQL Replication" Lars Thalmann  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8830
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Ever wanted to replicate a MySQL Cluster to a standby MySQL server running MyISAM or InnoDB? Or perhaps to another MySQL Cluster? Or do you want to know how to replicate non-deterministic constructs? Then this talk is for you. Welcome!Speaker(s): Lars Thalmann; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8830
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Software Libre: FOSS in Venezuela" Jeff Zucker  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8825
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: The Venezuelan Software Libre law\, which mandates migration of all government software to open source\, is the most far-reaching open source initiative ever attempted. Panel members have been involved directly in drafting the law\, in implementing it\, and in planning for the huge training and code-writing task ahead.Speaker(s): Jeff Zucker; Track: Emerging TopicsRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8825
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Building Search Applications With KinoSearch" Marvin Humphrey  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8733
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Speaker(s): Marvin Humphrey; Track: PerlRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8733
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Live Perl Testing" Michael G. Schwern Josh Heumann (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:8920
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Speaker(s): Michael G. Schwern; Josh HeumannTrack: PerlRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8920
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Parrot: Evolution" Chip Salzenberg  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9273
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: The Parrot virtual machine is best known as the primary target for Perl 6\, but Parrot is much more. It is a platform for all dynamic languages\, all at once: from Perl 5\, Python\, and Lisp\, to Basic and APL. Chip Salzenberg\, Parrot Architect\, will explain the architecture of Parrot\, its recent evolution\, and its future ... and how you can be part of that future.Speaker(s): Chip Salzenberg; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9273
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Understanding ZFramework" John Coggeshall  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8909
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Zend's PHP Framework (ZFramework) is a collaboration between some of the top PHP development companies in the industry to create a robust\, modular\, and authoritative PHP Framework for Enterprise applications. This talk will explore what the Framework looks like\, and how it can add immediate value to even existing applications.Speaker(s): John Coggeshall; Track: PHPRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8909
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Capturing an Audience with Laser and Snake" Robert Stephenson  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8926
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: This session shows how to control a large-screen presentation or demo by laser pointer. Possibilities include controlling the computer from the back of the room\, free-form drawing\, special effects\, and having the audience participate in multiplayer games.Speaker(s): Robert Stephenson; Track: PythonRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8926
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"When Interface Design Attacks!" Amy Hoy  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8924
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Even on projects where there's a designer\, many interface decisions are left to the developer or project overseer. And when that person doesn't think seriously about this responsibility\, bad apps prevail. This talk will help devs and others avoid common pitfalls and learn to balance feature requests with sanity.Speaker(s): Amy Hoy; Track: Web AppsRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8924
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Tips And Tricks with NHibernate" Benjamin Day  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8702
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: You know the basics of NHibernate but you want to know more. In this session\, Day will dive into some more advanced topics in NHibernate such as Hibernate Query Language (HQL)\, ILifecycle\, caching\, complex mapping techniques\, and more. Speaker(s): Benjamin Day; Track: WindowsRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8702
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Bringing Open Source Software Development Processes and Principles to the Enterprise" Brian Behlendorf  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9434
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Behlendorf will discuss how successful open source projects are teaching enterprises how to bring transparency and consensus decision-making to internal development\, how to build sustainable developer and user communities around modular code\, and how to make participation on public open source projects a regular part of their own development process.Speaker(s): Brian Behlendorf; Track: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9434
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Simplifying Service-oriented Applications with Apache Tuscany" Jeremy Boynes  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8925
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Amid all the arm waving around Service-oriented Architecture\, basic questions like "how do I actually develop an application using this?" are often overlooked. This talk provides an introduction to developing service-oriented applications using Apache Tuscany and shows how easy it can be to integrate web services into multilanguage applications written in PHP\, Java\, and C++.Speaker(s): Jeremy Boynes; Track: JavaRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8925
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Leap Ahead with New Intel Platform Innovations in 2006" Mark Skarpness  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9458
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: Intel is introducing a number of new platforms in 2006 that satisfy growing customer needs in the areas of performance\, scalability\, reliability\, security\, and manageability. Find out how these key technologies can be combined with Linux to provide compelling value to customers and learn how the Intel Software Development Products for Linux can help you maximize the performance of these new platforms.Speaker(s): Mark Skarpness; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9458
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T163000
+SUMMARY:"Onward and Upward: Faster PHP with Oracle" Christopher Jones  (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9530
+DTEND;TZID=US/Pacific:20060827T171500
+DESCRIPTION:Description: As PHP adoption grows across organizations of all sizes\, the combination of Oracle and PHP is used increasingly to deliver business-critical applications. But how do you make those applications fast and scalable? In this session\, you'll discover how to use Oracle to build and optimize PHP applications for performance\, scalability\, and high availability. Speaker(s): Christopher Jones; Track: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9530
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"Concurrency Control in Relational Databases" Arjen Lentz  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8941
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: In this session\, we will delve into how modern relational database systems handle concurrency. A guided tour of the important features in different RDBMS is provided first\, after which we should have sufficient ammunition to discuss the inevitable trade-offs that come with nearly every design aspect.Speaker(s): Arjen Lentz; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8941
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"OSS Project Press Relations" Josh Berkus  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8698
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: You can get your open source project in the news\, consistently and positively\, without a PR agency or any kind of real budget. All it takes is time\, persistence\, organization\, and a bit of writing ability.   Your work deserves to be known.Speaker(s): Josh Berkus; Track: Emerging TopicsRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8698
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"Ubuntu: Community Building for Human Beings" Jeff Waugh  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8959
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: Ubuntu brought together a team with stunning combined experience in building communities\, meeting exciting technology goals\, fast-paced project growth\, and getting things done -- the open source way. Find out how they started fresh with Ubuntu\, and learn about building communities from one of the fastest-growing projects in the world.Speaker(s): Jeff Waugh; Track: Emerging TopicsRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8959
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"The Art of Community" Dawn Foster Mitchell Baker; Zaheda Bhorat; Danese Cooper; Karl Fogel; Zak Greant; Geir Magnusson (Room: Portland 251)
+LOCATION:Portland 251         
+DTSTAMP:19010101T010101Z
+UID:9536
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: Speaker(s): Dawn Foster; Mitchell Baker; Zaheda Bhorat; Danese Cooper; Karl Fogel; Zak Greant; Geir MagnussonTrack: Emerging TopicsRoom: Portland 251
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9536
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"The Conway Channel 2006" Damian Conway  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9034
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: In this talk\, Conway will showcase some handy new (and improved) Perl modules\, hot off his fevered mind.Speaker(s): Damian Conway; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9034
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"The Underpants Gnomes Strategy Guide: An eCards Case Study" Terry Chay  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8939
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: Learn how an ecard service that actually made some money was built! Talk focuses on the interesting (to the PHP developer) stuff: Web 2.0/Ajax tricks\, REST integration with a non-PHP back-end\, and creating an open API to access Plaxo.Speaker(s): Terry Chay; Track: PHPRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8939
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"Building Immersive 3D Applications with Blender, Panda 3D, and Python" Dana Moore William Wright (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8922
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: In this talk\, we'll teach you how to apply Blender\, Panda 3D\, and Python &#150; open source tools that are easy to understand and use as both IDE and execution environments for developing immersive 3D worlds for enterprise\, educational\, and commercial environments.Speaker(s): Dana Moore; William WrightTrack: PythonRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8922
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"Web Heresies: The Seaside Framework" Avi Bryant  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8942
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: "Rails doesn't change how you view the web. Seaside does." -- Christopher Petrilli. Seaside breaks all the rules of web development: it shares state with abandon\, has the ugliest URLs you've seen\, ignores templates\, and uses a programming language a quarter-century old. Learn why the Seaside framework turns its back on best practices\, and how to revolutionize your own web development by doing the same.Speaker(s): Avi Bryant; Track: Web AppsRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8942
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"Roadmap to Free .NET Developer Tools" Lee Fisher  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:8795
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: There are a vast number of developer tools available for .NET developers. One problem is finding them all. This talk is an overview of the many free and open source tools available  for .NET developers.Speaker(s): Lee Fisher; Track: WindowsRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8795
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"Enterprises and Communities:  A Match Made in&#133;?" Rod Cope  (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:8805
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: One of the main challenges facing most enterprises using open source software is how to interact with the open source community. Come learn how to encourage companies to participate in the open source community\, as well as how we are working to bridge the gap between enterprises and the community.Speaker(s): Rod Cope; Track: BusinessRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8805
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"Troubleshooting the Java Virtual Machine and the Applications That Run Within It" Moazam Raja  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8511
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: This session aims to help attendees debug Java application level problems and their interactions with the operating system by using commonly available open source tools that are usually bundled with their OS distributions. These problems may include thread-related hangs\, out of memory errors\, and third party class library issues.Speaker(s): Moazam Raja; Track: JavaRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8511
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"MindTouch Dream: When REST is Just the Beginning" Steve Bjorg  (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9482
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: Steve Bjorg will present an open source Web 2.0 platform and SDK built on the .Net toolset. This innovative framework makes it is easy to create and run rich\, interactive web services that can generate and combine data from many sources. Now developers can write efficient\, lightweight\, highly decoupled\, REST-based web services using Mono/.Net\, creating compelling new experiences.Speaker(s): Steve Bjorg; Track: Products and ServicesRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9482
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T172000
+SUMMARY:"The PHP Collaboration Project:  Targeting PHP at Modern Web Applications" Jayson Minard  (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9505
+DTEND;TZID=US/Pacific:20060827T180500
+DESCRIPTION:Description: Speaker(s): Jayson Minard; Track: Products and ServicesRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9505
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"Powell's Technical Bookstore Open House"   (Room: Registration Area)
+LOCATION:Registration Area         
+DTSTAMP:19010101T010101Z
+UID:9549
+DTEND;TZID=US/Pacific:20060827T210000
+DESCRIPTION:Description: Speaker(s): ; Track: Room: Registration Area
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9549
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"PostgreSQL"   (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9335
+DTEND;TZID=US/Pacific:20060827T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9335
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"Developing Using the Mozilla Platform"   (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:9428
+DTEND;TZID=US/Pacific:20060827T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9428
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"Join the OpenLogic Expert Community"   (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9513
+DTEND;TZID=US/Pacific:20060827T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9513
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"Entrepreneurship For Engineers:  From Open Source to New Venture"   (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9548
+DTEND;TZID=US/Pacific:20060827T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9548
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"Consolidating Servers with OpenSolaris, ZFS and Zones"   (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9551
+DTEND;TZID=US/Pacific:20060827T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9551
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"Ubuntu"   (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9554
+DTEND;TZID=US/Pacific:20060827T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9554
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"Service Data Objects and the Apache Tuscany Project"   (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:9561
+DTEND;TZID=US/Pacific:20060827T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9561
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"OpenOffice.org Development"   (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:9582
+DTEND;TZID=US/Pacific:20060827T200000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9582
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T190000
+SUMMARY:"Open Source Initiative Public Board Meeting"   (Room: D133)
+LOCATION:D133         
+DTSTAMP:19010101T010101Z
+UID:9598
+DTEND;TZID=US/Pacific:20060827T210000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D133
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9598
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T193000
+SUMMARY:"CAMBIA BiOS Initiative Concert and Keynote" Tim O'Reilly Richard Jefferson (Room: McMenamin's Crystal Ballroom)
+LOCATION:McMenamin's Crystal Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9592
+DTEND;TZID=US/Pacific:20060827T220000
+DESCRIPTION:Description: Speaker(s): Tim O'Reilly; Richard JeffersonTrack: Room: McMenamin's Crystal Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9592
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T200000
+SUMMARY:"Scrum War Stories"   (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:9448
+DTEND;TZID=US/Pacific:20060827T210000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9448
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T200000
+SUMMARY:"Discuss Sun's Open Source Strategy, the DLJ and Java"   (Room: E141)
+LOCATION:E141         
+DTSTAMP:19010101T010101Z
+UID:9518
+DTEND;TZID=US/Pacific:20060827T210000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E141
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9518
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T200000
+SUMMARY:"Perl Package Manager (PPM) 4"   (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:9553
+DTEND;TZID=US/Pacific:20060827T210000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9553
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T200000
+SUMMARY:"MySQL"   (Room: D135)
+LOCATION:D135         
+DTSTAMP:19010101T010101Z
+UID:9590
+DTEND;TZID=US/Pacific:20060827T210000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D135
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9590
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T200000
+SUMMARY:"Microformats"   (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9591
+DTEND;TZID=US/Pacific:20060827T210000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9591
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060827T200000
+SUMMARY:"PGP/GnuPG Key Signing & CACert Assurer Gathering"   (Room: E142)
+LOCATION:E142         
+DTSTAMP:19010101T010101Z
+UID:9593
+DTEND;TZID=US/Pacific:20060827T210000
+DESCRIPTION:Description: Speaker(s): ; Track: BOFRoom: E142
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9593
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T084500
+SUMMARY:"25 years of the IBM PC" Dave Bradley  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9488
+DTEND;TZID=US/Pacific:20060828T090000
+DESCRIPTION:Description: A brief history of the origin of the IBM Personal Computer.  How and why did PCs happen? And what do these experiences mean for the Next Big Thing?Speaker(s): Dave Bradley; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9488
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T090000
+SUMMARY:"Keynote - TBD"   (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9543
+DTEND;TZID=US/Pacific:20060828T091500
+DESCRIPTION:Description: Speaker(s): ; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9543
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T091500
+SUMMARY:"Keynote - TBD"   (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9538
+DTEND;TZID=US/Pacific:20060828T093000
+DESCRIPTION:Description: Speaker(s): ; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9538
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T093000
+SUMMARY:"The Washington Bridge and Other Public Structures" Carl Malamud  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9510
+DTEND;TZID=US/Pacific:20060828T094500
+DESCRIPTION:Description: Speaker(s): Carl Malamud; Track: Emerging TopicsRoom: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9510
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T094500
+SUMMARY:"openTalk 2.0: Maximizing Non-stakeholder Buy-in by Leveraging Depatented Generic Information Transfer Protocols" Damian Conway  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:8393
+DTEND;TZID=US/Pacific:20060828T101500
+DESCRIPTION:Description: Through strategic partnering with key open software innovators\, a future world of web-enabled meta-applications based on decoupling market-driven accessible standards and demand-empowered decentralizable development will soon be realized. Conway will unveil his revolutionary emerging business model\, built on a synergistic vision of sustainable corporate uptake of open software deliverables on a levelized playing field in both vertical and diagonal markets.Speaker(s): Damian Conway; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8393
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"Object-oriented Database Design" David Wheeler  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8709
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: This session deconstructs the myth of the object/relational impedance mismatch by demonstrating how to replicate object-oriented principles directly in the database. The result is cleaner\, more maintainable application code and a robust database that maintains a high level of data integrity\, all while increasing performance.Speaker(s): David Wheeler; Track: DatabasesRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8709
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"Making Things Move: Finding Inappropriate Uses for Scripting Languages" Jonathan Oxer  (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:8362
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: Learn how to use scripting languages such as PHP\, Python\, and Perl to talk to physical devices. The audience will assist with live hardware hacking\, showing how easy it is to connect items around the home to your computer and use technology such as SMS and RFID to control them.Speaker(s): Jonathan Oxer; Track: Emerging TopicsRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8362
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"Jabber: The State of the Bulb" Peter Saint-Andre  (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8558
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: Jabber/XMPP technologies are open standards for secure XML messaging\, presence\, collaboration\, and multimedia exchange. Whether you want to use\, deploy\, or develop real-time communication systems\, this talk tells you how to get started with Jabber.Speaker(s): Peter Saint-Andre; Track: Emerging TopicsRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8558
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"Practical OpenID" David Recordon Brian Ellin (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:9024
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: Originally developed to handle authentication when commenting across different blogs\, OpenID is an extremely simple single-sign-on authentication system designed to assert your ownership of a URL. With APIs in your favorite language\, there is no reason not to implement support for OpenID. This talk will tell you how.Speaker(s): David Recordon; Brian EllinTrack: Emerging TopicsRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9024
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"Extreme Perl Makeover" Peter Scott  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:8866
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: Perl is easy to start using\, but sometimes\, being easy can get you into trouble. The many ways to program in Perl mean that code can often be cryptic\, obscure\, or muddled. This session will show how to refactor hideous lumps of legacy code into respectable\, maintainable programs.Speaker(s): Peter Scott; Track: PerlRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8866
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"Writing Your Own PHP Extensions: How & Why from A-Z" Jeremy Johnstone  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8658
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: This talk will take you step by step through writing your own PHP extensions. Learn with real code samples (like the speaker's voice synthesis and facial recognition extensions) and not just your basic "Hello World!" type tutorials you see online. If you have ever wanted to dive into the world of PHP Internals\, this is a must see talk.Speaker(s): Jeremy Johnstone; Track: PHPRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8658
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"Djinni: Approximating NP-Complete Problems, Fast" Robert Hansen Tristan Thiede (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8735
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: Most interesting computational problems are so complex that solving them is infeasible; however\, for a great many classes of problems\, approximations can be found quickly and with great precision. Djinni does just this\, using a C++ core for efficiency and Python bindings for convenience.Speaker(s): Robert Hansen; Tristan ThiedeTrack: ProgrammingRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8735
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"10 Tools Developers Need Today" Karl Fogel  (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:9039
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: The goal of this talk is to get the audience thinking about collaboration itself as first-order activity\, and one that is extremely responsive to good tools. The talk will start off with a discussion of collaboration tools that have made a big difference\, then explore some new ideas for tools and techniques that are not widespread yet\, but that could really help open source projects a lot.Speaker(s): Karl Fogel; Track: ProgrammingRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9039
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"NUnit: Cross-platform Testing for .Net" Charlie Poole  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:9023
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: Programmer-written unit tests were once taken for granted\, later fell into disfavor\, and are now generally considered a best practice. The NUnit framework is the most widely adopted unit-testing tool in the .NET world. This talk will briefly introduce NUnit for those who are new to it and will go on to cover some of the newest and coolest features.Speaker(s): Charlie Poole; Track: WindowsRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9023
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T104500
+SUMMARY:"Open Source Performance Monitoring Tools and Tricks for Java" Matt Secoske  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:8749
+DTEND;TZID=US/Pacific:20060828T113000
+DESCRIPTION:Description: Ask most developers what their target performance metrics are and they will stare back at you. This presentation will focus on bridging the gap between no performance metrics and a thought-out plan\, using the latest open source tools available to the Java developer.Speaker(s): Matt Secoske; Track: JavaRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8749
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"Free Calls, Free Software" David Bitton  (Room: Portland 252)
+LOCATION:Portland 252         
+DTSTAMP:19010101T010101Z
+UID:8798
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: Online telephony is still in its infancy\, with incompatible proprietary systems owning a major marketshare. Meanwhile\, free and open source software is gaining ground on the server and desktop. This talk will cover how Wengo used low-level GPL components to build a compelling free alternative to Skype. Also covered are Open Standards\, IM interoperability\, experiments with XUL\, and cross-platform bliss.Speaker(s): David Bitton; Track: Emerging TopicsRoom: Portland 252
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8798
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"Hacking Your House with VoIP" Brian Aker  (Room: F151)
+LOCATION:F151         
+DTSTAMP:19010101T010101Z
+UID:8835
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: It's two plus years since Aker started his experimentation integrating VoIP and IP Telephony services into his house and life. This talk starts out where last year's talk left off: how the technology has matured in the last year and the latest hardware that is now available. Practical and not so practical uses of Asterisk and ecology around it will also be discussed.Speaker(s): Brian Aker; Track: Emerging TopicsRoom: F151
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8835
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"Cosmo and Scooby: Standards-based Open Source Calendaring" brian moseley Matthew Eernisse; Bobby Rullo (Room: E143-144)
+LOCATION:E143-144         
+DTSTAMP:19010101T010101Z
+UID:9050
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: Cosmo and Scooby\, OSAF's open source calendar server projects\, help people share their calendars with each other. This talk will demonstrate interoperability with programs like Sunbird and Evolution\, and tell you how can contribute to the development of open source calendaring.Speaker(s): brian moseley; Matthew Eernisse; Bobby RulloTrack: Emerging TopicsRoom: E143-144
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9050
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"Making Tech Documentaries" Jason Scott  (Room: D139-140)
+LOCATION:D139-140         
+DTSTAMP:19010101T010101Z
+UID:9107
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: Director Jason Scott shows clips from his previous documentary on Bulletin Board Systems and a preview of his upcoming documentary on text adventures\, while talking about the peaks and pitfalls of filming computer history.Speaker(s): Jason Scott; Track: Emerging TopicsRoom: D139-140
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9107
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"Perl Hacks You Never Knew Existed"    (Room: Portland 255)
+LOCATION:Portland 255         
+DTSTAMP:19010101T010101Z
+UID:8551
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: Perl is a powerful language with many secrets. It's no wonder that we call the true masters of Perl gurus -- they have studied and discovered arcane knowledge and arcana. This talk will reveal some of the inner workings of some of these secrets\, whether practical\, interesting\, or disgusting.Speaker(s):  ; Track: PerlRoom: Portland 255
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8551
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"Practical PHP Patterns" George Schlossnagle  (Room: E145)
+LOCATION:E145         
+DTSTAMP:19010101T010101Z
+UID:8969
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: What are design patterns and why should PHP programmers care? How can I embrace patterns and still have my code look like PHP?  Which patterns are right for my problem?  Answering these questions can help improve the quality of your code.Speaker(s): George Schlossnagle; Track: PHPRoom: E145
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8969
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"Highly-technical Management of Software Development" Alex Martelli  (Room: D137-138)
+LOCATION:D137-138         
+DTSTAMP:19010101T010101Z
+UID:8694
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: Senior programmers generally don't want to be managers\, and often perform poorly when they try. But they can be "leaders\," a style of management specifically geared to highly technical guidance of brilliant software development professionals. This talk summarizes what works and what doesn't in this very special niche of management\, with practical tips on what to do and most especially what NOT to do.Speaker(s): Alex Martelli; Track: ProgrammingRoom: D137-138
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8694
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"Kamaelia: Time Traveling and Other Toys from the BBC" Michael Sparks  (Room: D136)
+LOCATION:D136         
+DTSTAMP:19010101T010101Z
+UID:8512
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: Kamaelia is a toy box\, a toolkit\, a library of components you can easily take and bolt together\, customize\, and create your own. This includes components for network systems\, backplanes\, audio/video\, presentations\, games\, timeshifting\, etc. A networked Unix pipe for the 21st century--making concurrency easy\, fun\, and reusable.Speaker(s): Michael Sparks; Track: PythonRoom: D136
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/8512
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"LiveJournal's Secret Spinoffs" Artur Bergman Brad Whitaker (Room: F150)
+LOCATION:F150         
+DTSTAMP:19010101T010101Z
+UID:9022
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: Serving millions of page views a day\, tens of thousands of concurrent users\, scaling this large open source project spawned of three well-known and commonly used technologies for scaling out. LiveJournal's Secret Spinoffs details how Perlbal\, MogileFS\, and memcached can help your site scale forever.Speaker(s): Artur Bergman; Brad WhitakerTrack: Web AppsRoom: F150
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9022
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T113500
+SUMMARY:"History of the PC" Dave Bradley  (Room: Portland 256)
+LOCATION:Portland 256         
+DTSTAMP:19010101T010101Z
+UID:9546
+DTEND;TZID=US/Pacific:20060828T122000
+DESCRIPTION:Description: This talk traces the early history of personal computers\, from the original founders of the industry through the IBM Personal Computer family of machines.  The presentation is an amusing look at the history of personal computers with enough  detail to interest the techies\, but containing social history that is of interest to everyoneSpeaker(s): Dave Bradley; Track: BusinessRoom: Portland 256
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9546
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T123000
+SUMMARY:"The Renaissance of Invention: Free Software and the Next American Century" Eben Moglen  (Room: Portland Ballroom)
+LOCATION:Portland Ballroom         
+DTSTAMP:19010101T010101Z
+UID:9539
+DTEND;TZID=US/Pacific:20060828T130000
+DESCRIPTION:Description: Speaker(s): Eben Moglen; Track: Room: Portland Ballroom
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9539
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:1
+DTSTART;TZID=US/Pacific:20060828T140000
+SUMMARY:"Portland Bridges: A Guided Tour"   (Room: )
+LOCATION:         
+DTSTAMP:19010101T010101Z
+UID:9320
+DTEND;TZID=US/Pacific:20060828T160000
+DESCRIPTION:Description: Take a walk along the Willamette River and learn about Portland's many unique bridges. Explore their history\, architecture\, and the inner workings of various bridges. You'll even see how programming is involved! This is a 2-hour tour\, nearly 2 miles; sign up on-site in the registation area\, beginning Sunday evening.Speaker(s): ; Track: Room: 
+URL:http://conferences.oreillynet.com/cs/os2006/view/e_sess/9320
+END:VEVENT
+END:VCALENDAR

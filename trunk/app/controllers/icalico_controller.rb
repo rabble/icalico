@@ -1,0 +1,2 @@
+class IcalicoController < ApplicationController
+end
