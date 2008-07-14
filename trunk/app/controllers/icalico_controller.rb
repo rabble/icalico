@@ -1,2 +1,0 @@
-class IcalicoController < ApplicationController
-end
