@@ -1,0 +1,70 @@
+<style>
+	#left_side {
+		width: 90%;
+	}
+</style>
+
+<p align="right">
+	<%= link_to "#{image_tag "sb/16x16/file.gif"} download talk ratings", reviews_page_url(:format => 'csv') %> |
+	<%= link_to "#{image_tag "sb/16x16/file.gif"} download speaker ratings", speaker_ratings_url(:format => 'csv') %>
+</p>
+<table class="ratings">
+	<tr>
+		<td>
+			<%= link_to_reviews_sort('Summary', 'summary') %>
+		</td>
+		<td>
+			<%= link_to_reviews_sort('Rating', 'rating') %>
+		</td>
+		<td>
+			<%= link_to_reviews_sort('Num. of Reviews', 'comments') %>
+		</td>
+		<td>
+			<%= link_to_reviews_sort('Date / Time', 'start') %>
+		</td>
+		<td>
+			<%= link_to_reviews_sort('Track', 'track') %>
+		</td>
+		<td>
+			<%= link_to_reviews_sort('# Attendees', 'interested') %>
+		</td>
+	</tr>
+  <% @talks.each do |talk| %>
+    <tr>
+      <td>
+        <%= link_to talk.summary,
+                    :controller => "talk", :action => "view",
+                    :id => talk %>
+      </td>
+      <td>
+        <div>
+          <%= number_with_precision(talk.rating, 2) -%>
+          (<%= pluralize(talk.ratings.size, "vote") %>)
+        </div>
+				<div>
+					<% talk.speaker_talks.each do |speaker| %>
+						<i><%= speaker.name %>: <%= number_with_precision(speaker.rating, 2) %></i><br />
+					<% end %>
+				</div>
+      </td>
+      <td>
+        <div>
+          <%= link_to talk.comments.size.to_s + " reviews",
+                      :controller => "talk", :action => "view",
+                      :id => talk %>
+        </div>
+      </td>
+			<td>
+				<div>
+					<%= talk.start.strftime("%m/%d %I:%M%p") %>
+				</div>
+			</td>
+			<td>
+				<%= talk.track %>
+			</td>
+			<td>
+				<%= talk.interested.size %> 
+			</td>
+    </tr>
+  <% end %>
+</table>

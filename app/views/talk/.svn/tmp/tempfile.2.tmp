@@ -1,0 +1,108 @@
+<% content_for 'header' do %><script type='text/javascript' src='/javascripts/prototip.js'></script>
+<link rel="stylesheet" type="text/css" href="/stylesheets/prototip.css" />
+
+<style>
+.prototip .default {
+  border: 3px solid #fc6;
+  width: 400px;
+}
+
+.prototip .default .content {
+	background-color: #fff;
+	color: #000;
+  font-size: 1.0em;
+  font-weight: normal;
+  text-decoration: none;
+}
+</style>
+<% end %>
+
+
+<% hide_unselected_talks = defined?(hide_unselected_talks) ? hide_unselected_talks : false %>
+<% hide_key = defined?(hide_key) ? hide_key : false %>
+<% ratings = defined?(ratings) ? ratings : false %>
+<% current_date = nil %>
+<% current_time = nil %>
+<% current_end_time = nil %>
+<% time_class = '' %>
+<% sidebar = sidebar || false %>
+<% wtm_list = current_user.contacts.to_a.find_all{|c| c.tag == "want-to-meet"}.map{|a| a.contactee } if current_user %>
+<%# TODO: 2008-04-02 <tony@tonystubblebine.com> -- I want the time to only display once per time slot but this doesn't work on the my talks list because of the way we're doing the ajax updating. %>
+<% switch_time = true %>
+<%= render(:partial => "talk/key") if current_site.short_name == "webexsf2008" and !hide_unselected_talks and !hide_key %>
+<% talks.each do |talk| %>
+    <% time_class = '' %>
+    <% if not current_date %>
+	    <% current_date = talk.start_date %>
+        <% current_time = talk.start_time %>
+        <% current_end_time = talk.end_time %>
+        <% switch_time = true %>
+				<a name="<%= current_date %>"></a>
+        <h2><%= talk.start.strftime("%A, %B %d, %Y") rescue nil %></h2>
+        <table class="new_date">
+    <% elsif current_date != talk.start_date %>
+        </table>
+        <% current_date = talk.start_date %>
+        <% current_time = talk.start_time %>
+        <% current_end_time = talk.end_time %>
+        <% switch_time = true %>
+				<a name="<%= current_date %>"></a>
+        <h2 class="date"><%= talk.start.strftime("%A, %B %d, %Y")  rescue nil %></h2>
+        <table class="new_date">
+    <% elsif current_time != talk.start_time or current_end_time != talk.end_time %>
+      <% switch_time = true %>
+      <% current_time = talk.start_time %>
+      <% current_end_time = talk.end_time %>
+    <% else %>
+      <% switch_time = false %>
+        <% unless sidebar %>
+            <% time_class = 'hidden_text' %>
+        <% end %>
+	<% end %>
+      <tr class="time-slot" id="talk_listing_<%= sidebar if sidebar %>_<%= talk.id %>" <%= 'style="display:none;"' if hide_unselected_talks && !current_user.utalks.include?(talk) %>>
+      <td class="time-column">
+        <% if switch_time or hide_unselected_talks %>
+	    <span class="time <%= time_class %>">
+          <%= talk.start.strftime("%I:%M").gsub(/^0/,'') %> - 
+          <%= talk.end.strftime("%I:%M%p").gsub(/^0/,'') %> 
+        </span>
+        <% end %>
+      </td>
+      <td>
+	    <% if !@hide_add_remove_link && logged_in? %>
+			<%= render(:partial => "talk/bookmark_link", :locals => {:talk => talk, :sidebar => sidebar}) %>
+		<% end %>	
+      </td>
+    
+      <td class="talk-column <%= slug(talk.track) if talk.track %>">
+        <a href="<%= url_for(:controller => 'talk', :action => 'view', :id => talk )%>" class="popup" name="<%= "talk_link_#{talk.id}" %>" id="<%= "talk_popup_#{sidebar}_#{talk.id}" %>">
+          <%= truncate(talk.summary, 70) %>   
+        </a>
+        <%= render :partial => "talk/summary_popup",
+                   :locals  => {:talk => talk, :wtm_list => wtm_list, :sidebar => sidebar } %>
+        <% if talk.speakers  and talk.speakers.size > 0 %>
+          - <%= talk.speakers.collect { |speaker| 
+                                           if speaker.pending?
+							                  speaker.name
+									       else
+										      link_to( speaker.name, {:controller => 'talk', :action => 'by_speaker', :id => speaker.name}) 
+									end 
+								}.join(', ') %>
+            <% end %>
+		<% if @talk_attendees and !@talk_attendees[talk.id].empty? %>
+		        <br /><span class="attendees">
+		        <%= @talk_attendees[talk.id].collect { |login| link_to( login, :controller =>
+                               'list', :action => 'view', :login =>  login ) }.join(', ') %></span>
+		<% end %>
+        <span class="location"><%= "-- room #{talk.location}" if talk.location %></span>
+      </td>
+    </tr>
+    <% if ratings %>
+    <tr>
+    <td colspan="2"></td><td>
+      <%= render :partial => "talk/review_box", 
+                 :locals => {:talk => talk, :hide_on_complete => true} %>
+    </td></tr>
+    <% end %>
+<% end %>
+</table>

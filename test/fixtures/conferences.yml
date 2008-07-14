@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+railsconf:
+  id: 1
+  subdomain: railsconf
+foocamp:
+  id: 2
+  subdomain: focamp
+oscon:
+  id: 3
+  subdomain: oscon
+test:
+  id: 4
+  subdomain: test

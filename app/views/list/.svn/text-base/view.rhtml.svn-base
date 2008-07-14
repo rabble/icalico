@@ -1,0 +1,15 @@
+<h1 style="display: inline;"><%= @user.name %>
+<% if current_user == @user %>
+  <%= link_to image_tag('calendar.gif', :alt => 'my calendar.ics', :border => 0, :plugin => "icalico"),
+    {:controller => 'ical', :action => 'my_schedule', :id => current_user}
+%>
+<% end %>	
+</h1>
+
+<br />
+
+<% unless @talks.empty? %>
+	<%= render :partial => 'talk/list', :locals => {:talks => @talks} %>
+<% else %>
+	<p>You haven't added any talks to your schedule! Check out the <%= link_to "main schedule", :controller => 'talk', :action => 'list' %> to see what interests you.</p>
+<% end %>

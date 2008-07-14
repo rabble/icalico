@@ -1,0 +1,2116 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Web 2.0 Expo San Francisco 2008
+VERSION:2.0
+PRODID:Expectnation
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T120000
+DTSTART;TZID=US/Pacific:20080422T090000
+DTSTAMP:20080421T051505
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2520
+UID:http://www.web2expo.com/sf--s2008-04-22-09:00--2520
+SUMMARY:Web 2.0 Best Practices
+DESCRIPTION:Presented by Niall Kennedy (Hat Trick Media). The Web mainta
+ ins fundamental best practices among years of change. Explicitly define 
+ your web site content. Syndicate your work throughout the world. Constru
+ ct engaging, interactive experiences to drive long-term interactions. Th
+ is session will dive deep into the building blocks of Web 2.0 and teach 
+ the basic components of any Web upgrade.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T120000
+DTSTART;TZID=US/Pacific:20080422T090000
+DTSTAMP:20080409T183757
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3316
+UID:http://www.web2expo.com/sf--s2008-04-22-09:00--3316
+SUMMARY:Building an App for Social Platforms
+DESCRIPTION:Presented by Jia Shen (RockYou). In this session, participan
+ ts will learn how to build a multiplatform application, and the do's and
+  don'ts of what it takes to design and implement engaging apps that are 
+ well received by a social network audience.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T120000
+DTSTART;TZID=US/Pacific:20080422T090000
+DTSTAMP:20080306T163953
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3233
+UID:http://www.web2expo.com/sf--s2008-04-22-09:00--3233
+SUMMARY:Cross-Cultural User-Experience Design
+DESCRIPTION:Presented by Aaron Marcus (Aaron Marcus and Associates, Inc.
+  (AM+A)). User interfaces for Web 2.0, whether on desktop or mobile plat
+ forms,  reach across culturally diverse user communities, sometimes with
+ in a single country/language group, and certainly across the globe.  If 
+ user interfaces are to be usable, useful, and appealing to such a wide r
+ ange of users, if social networks are to produce the hoped for communiti
+ es and revenues,
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T120000
+DTSTART;TZID=US/Pacific:20080422T090000
+DTSTAMP:20080314T174438
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3292
+UID:http://www.web2expo.com/sf--s2008-04-22-09:00--3292
+SUMMARY:Free Traffic: SEO/SMO 101 (Search Engine & Social Media Optimiza
+ tion)
+DESCRIPTION:Presented by Stephan Spencer (Netconcepts), Muhammad Saleem 
+ (Advantage Consulting Services (ACS)). This workshop will cover the fund
+ amentals of search engine optimization (SEO) and social media optimizati
+ on (SMO).  The workshop will focus on how to acquire unpaid (aka "organi
+ c") web site visitors from search engines like Google & Yahoo, as well a
+ s from social networking & social media sites like Digg, MySpace, Facebo
+ ok, & YouTube.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T120000
+DTSTART;TZID=US/Pacific:20080422T090000
+DTSTAMP:20080312T103348
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2445
+UID:http://www.web2expo.com/sf--s2008-04-22-09:00--2445
+SUMMARY:Starting Up: Strategies for Financing & Growing Your Web 2.0 Sta
+ rtup
+DESCRIPTION:Presented by Rob Hayes (First Round Capital), Jeff Clavier (
+ Softtech VC). If you're getting ready to start a Web 2.0 business, or yo
+ u're looking for seed capital, this workshop is for you. Learn what earl
+ y stage investors are looking for, how to assess and present your busine
+ ss for funding, and what to expect from the process. Topics include fina
+ ncing, marketing, revenue models, and managing all the other hats every 
+ startup entrepreneur needs to wear.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T120000
+DTSTART;TZID=US/Pacific:20080422T090000
+DTSTAMP:20080409T183826
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/962
+UID:http://www.web2expo.com/sf--s2008-04-22-09:00--962
+SUMMARY:Adobe Flex and AIR Boot Camp
+DESCRIPTION:Presented by Duane Nickull (Adobe Systems). This session is 
+ designed for developers with little or no experience in Flash who want t
+ o learn how to build rich internet and desktop applications in three hou
+ rs. Attendees will build nine projects.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T120000
+DTSTART;TZID=US/Pacific:20080422T090000
+DTSTAMP:20080409T203827
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4294
+UID:http://www.web2expo.com/sf--s2008-04-22-09:00--4294
+SUMMARY:SEO Friendly Web Application Design
+DESCRIPTION:Presented by Nathan Buggia (Microsoft), Vanessa Fox (Ignitio
+ n Partners). You've architected your site to run flawlessly in Firefox a
+ nd IE, but how well is it being crawled by the search engines? With sear
+ ch now driving more than 30% of all traffic to many websites, the answer
+  to this question could have a significant impact on your business. Come
+  learn the best practices for designing your web site in this interactiv
+ e session for web developers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T160000
+DTSTART;TZID=US/Pacific:20080422T130000
+DTSTAMP:20080222T002106
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1896
+UID:http://www.web2expo.com/sf--s2008-04-22-13:00--1896
+SUMMARY:How to Innovate on Time
+DESCRIPTION:Presented by Scott Berkun (Berkun Consulting). Two of the mo
+ st difficult things in the universe are delivering complex work on time 
+ and developing innovative ideas that solve real problems. As a sure sign
+  of our collective insanity, many of us willingly attempt both at the sa
+ me time. This fun, interactive workshop explores different approaches fo
+ r managing innovation on a schedule.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T160000
+DTSTART;TZID=US/Pacific:20080422T130000
+DTSTAMP:20080409T184129
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3234
+UID:http://www.web2expo.com/sf--s2008-04-22-13:00--3234
+SUMMARY:Experience-driven Product Strategy
+DESCRIPTION:Presented by Todd Wilkens (Adaptive Path). Based on a new O'
+ Reilly book by the strategy and design experts at Adaptive Path, this wo
+ rkshop will help you learn how to make user experience a strategic advan
+ tage. As the factors affecting our business get more complex, we must de
+ al with greater and greater uncertainty.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T160000
+DTSTART;TZID=US/Pacific:20080422T130000
+DTSTAMP:20080409T184116
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2961
+UID:http://www.web2expo.com/sf--s2008-04-22-13:00--2961
+SUMMARY:Creating Semantic mashups: Bridging Web 2.0 and the Semantic Web
+DESCRIPTION:Presented by Jamie Taylor (Metaweb), Colin Evans (Metaweb), 
+ Toby Segaran (Metaweb). This tutorial will identify how the architecture
+  of participation can be extended by combining open data and open source
+  semantic technologies. We will use simple, hands-on examples to expose 
+ participants to semantic techniques that are possible today. The tutoria
+ l will culminate by working through the development of a semantic widget
+  for movie reviews that makes use of the techniques described.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T160000
+DTSTART;TZID=US/Pacific:20080422T130000
+DTSTAMP:20080411T175147
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3291
+UID:http://www.web2expo.com/sf--s2008-04-22-13:00--3291
+SUMMARY:Intro to Blogs & Social Media Marketing 101
+DESCRIPTION:Presented by Nick Gonzalez (SocialMedia), Eric Eldon (Ventur
+ eBeat), Trisha Okubo (eBay). This workshop will cover the fundamentals o
+ f blogging, social media marketing, and community evangelism using a var
+ iety of tools, content, and techniques (but primarily blogging!).  Addit
+ ional topics to cover may include viral videos, photoblogging, podcastin
+ g, and microblogging,
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T160000
+DTSTART;TZID=US/Pacific:20080422T130000
+DTSTAMP:20080409T184000
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2378
+UID:http://www.web2expo.com/sf--s2008-04-22-13:00--2378
+SUMMARY:Mobile 2.0: Design and Develop for the iPhone and Beyond
+DESCRIPTION:Presented by Brian Fling (Fling Media). Web 2.0 completely r
+ edefined how we make and use web sites. Now with the iPhone and other mo
+ dern mobile devices, this same revolution is coming to the mobile space.
+  Learn the basic principles of mobile web design and development and exp
+ lore the more advanced capabilities of Mobile 2.0.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T160000
+DTSTART;TZID=US/Pacific:20080422T130000
+DTSTAMP:20080411T183245
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3489
+UID:http://www.web2expo.com/sf--s2008-04-22-13:00--3489
+SUMMARY:Startup Metrics 101: Product & Marketing Workshop
+DESCRIPTION:Presented by Dave McClure (500 Hats), Hiten Shah (CrazyEgg /
+  KISSmetrics), Vanessa Fox (Ignition Partners). This workshop will expla
+ in how to use a simple 5-step model for startup metrics to make better p
+ roduct & marketing decisions.  The model focuses on measuring user activ
+ ity at five basic levels of conversion: Acquisition, Activation, Retenti
+ on, Referral, & Revenue. We'll also provide a basic intro SEO for Startu
+ ps, and we'll do live "Startup Makeover" reviews at the end of the works
+ hop.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T160000
+DTSTART;TZID=US/Pacific:20080422T130000
+DTSTAMP:20080318T194624
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3587
+UID:http://www.web2expo.com/sf--s2008-04-22-13:00--3587
+SUMMARY:Building Next Generation Web 2.0 Applications
+DESCRIPTION:Presented by Dion Hinchcliffe. This in-depth workshop provid
+ es an exploration of the next generation of techniques for creating comp
+ elling and highly competitive Web applications.  Designed especially for
+  the Web architect and product manager, this session closely examines th
+ e latest trends and techniques for leveraging Web 2.0 concepts in Web ap
+ plications to achieve high levels of growth and user adoption.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T000000
+DTSTART;TZID=US/Pacific:20080422T180000
+DTSTAMP:20080403T211002
+LOCATION:Marriott
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4236
+UID:http://www.web2expo.com/sf--s2008-04-22-18:00--4236
+SUMMARY:After Hours @ The Marriott San Francisco
+DESCRIPTION:Not sure where to go to hook up with friends and colleagues 
+ after show hours?  Good chance you’ll find people at the Marriott Hotel,
+  just down the street from Moscone West.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080422T210000
+DTSTART;TZID=US/Pacific:20080422T190000
+DTSTAMP:20080403T201631
+LOCATION:DNA Lounge
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4265
+UID:http://www.web2expo.com/sf--s2008-04-22-19:00--4265
+SUMMARY:Ignite SF
+DESCRIPTION:If you had five minutes on stage what would you say? What if
+  you only got 20 slides and they rotated automatically after 15 seconds?
+  Would you pitch a project? Launch a web site? Teach a hack? We'll find 
+ out during Ignite SF at Web 2.0 Expo SF.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080128T191436
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2133
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--2133
+SUMMARY:Enterprise Mashups
+DESCRIPTION:Presented by John Musser (ProgrammableWeb). What's your ente
+ rprise mashup strategy? As an IT manager you may soon be asked this ques
+ tion as mashups evolve from a consumer internet trend to a force in corp
+ orate IT. This session examines the trends, strategy, and tactics for en
+ terprise mashups.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080408T221740
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3224
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--3224
+SUMMARY:Comparing Social Platforms
+DESCRIPTION:Presented by Justin Smith (Inside Facebook & Watercooler), D
+ ave  Morin (Facebook), Allen Hurff (MySpace), Jessica Alter (Bebo), Anil
+  Dharni (hi5), David Recordon (Six Apart). More information coming soon
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080221T054910
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/832
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--832
+SUMMARY:Designing the RIA Experience (Adobe “Thermo”)
+DESCRIPTION:Presented by Steven Heintz (Adobe Systems). A sneak peak at 
+ “Thermo” (code name), the new design tool from Adobe that will enable de
+ signer and developer collaboration throughout the process of creating en
+ gaging web applications.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080221T060506
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/389
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--389
+SUMMARY:Community Building: Good, Bad, and Ugly
+DESCRIPTION:Presented by Dawn Foster (Jive Software), Jeremiah Owyang (F
+ orrester Research), Bob Duffy (Intel), Kellie Parker (PC World & Macworl
+ d). A great community requires considerable forethought, attention to te
+ chnology, and a dose of know-how to manage the unruly.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080321T234727
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3488
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--3488
+SUMMARY:The Changing Landscape of Affiliate Marketing: Bloggers, Social 
+ Media, & Online Merchants
+DESCRIPTION:Presented by Marc Levin (dogballsblog.com), Stephanie Agrest
+ a (Affiliate Karma), Cam Balzer (DoubleClick Performics), Lisa Picarille
+  (Revenue Magazine), Sam Harrelson (Sam Harrelson Consulting), Jeremy Wr
+ ight (b5media, Inc.). Affiliate marketing is a proven way to monetize on
+ line content, and emerging publishers know it’s important to maximize re
+ lationships with merchants.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080408T221837
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/535
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--535
+SUMMARY:Content Syndication with Case-Hardened Web Badges
+DESCRIPTION:Presented by Kent Brewster (Yahoo!, Inc). During this sessio
+ n we'll walk you through the major challenges in creating secure interac
+ tive badges that can be included in your user's pages with a single line
+  of JavaScript.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080404T211846
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3439
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--3439
+SUMMARY:Increase the Probability of Entrepreneurial Success: Opportunity
+  Computing Expands the Web as the Platform
+DESCRIPTION:Presented by Jeffrey L.  Garon (Etelos, Inc. ), Rene Bonvani
+ e (Serena ), Polly Sumner (Salesforce.com), Ray Solnik. Entrepreneurs fr
+ om leading Web App companies will discuss the challenges and opportuniti
+ es that the Web as a platform brings. Come learn from their experience a
+ nd vision, and get answers to questions you have about the Web as a plat
+ form, like "How is Opportunity Computing expanding the Web as a platform
+ , and how can I take advantage of it to increase my probability of succe
+ ss?"
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080307T064621
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3353
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--3353
+SUMMARY:Innovation Matters for the Next Generation Web
+DESCRIPTION:Presented by Jim Gargan (IBM), Gregg McKnight (IBM Modular S
+ ystems Development). An introduction to the newest infrastructure innova
+ tion from IBM for the Web 2.0 build out environment. Solving the challen
+ ges of dense environments through optimized power and cooling technologi
+ es which reduce the cost to acquire and operate a massive scale out data
+  center.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T092000
+DTSTART;TZID=US/Pacific:20080423T083000
+DTSTAMP:20080310T233922
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3319
+UID:http://www.web2expo.com/sf--s2008-04-23-08:30--3319
+SUMMARY:Building a Microsoft RIA from the Ground Up
+DESCRIPTION:Presented by Rob Bagby (Microsoft). Come learn how to take a
+ dvantage of the next generation of Microsoft’s web-centric technologies 
+ to develop tomorrow’s applications today. In this demo-driven session, y
+ ou will learn how the Entity Framework allows you to expose an applicati
+ on-centric view of your data.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T103000
+DTSTART;TZID=US/Pacific:20080423T094000
+DTSTAMP:20080128T194027
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/836
+UID:http://www.web2expo.com/sf--s2008-04-23-09:40--836
+SUMMARY:Taking Web 2.0 Offline and On the Desktop
+DESCRIPTION:Presented by Ryan  Stewart (Adobe Systems), Dion Almaer (Goo
+ gle). This session will discuss technologies that can be leveraged for d
+ eveloping the next generation of RIAs that run across operating systems—
+ in the browser and on the desktop, both on and offline.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T103000
+DTSTART;TZID=US/Pacific:20080423T094000
+DTSTAMP:20080128T194050
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1770
+UID:http://www.web2expo.com/sf--s2008-04-23-09:40--1770
+SUMMARY:Building the Real-time Web
+DESCRIPTION:Presented by Blaine Cook (Independent). Real-time interactio
+ n is becoming a necessity on the ever-more dynamic Web. Jabber is a powe
+ rful established protocol and ideally suited to web application developm
+ ent. Whether you're an API developer or writing client apps, this sessio
+ n offers real experience and practical advice.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T103000
+DTSTART;TZID=US/Pacific:20080423T094000
+DTSTAMP:20080128T194839
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/698
+UID:http://www.web2expo.com/sf--s2008-04-23-09:40--698
+SUMMARY:Polite, Pertinent, and... Pretty: Designing for the New-wave of 
+ Personal Informatics
+DESCRIPTION:Presented by Matt Jones (Dopplr), Tom Coates (Yahoo! Brickho
+ use). There's an explosion in "personal informatics:" services that surf
+ ace information about you and your network to your advantage. Matt Jones
+  will examine how great UX design can maximize the benefits to all.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T103000
+DTSTART;TZID=US/Pacific:20080423T094000
+DTSTAMP:20080408T222202
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3313
+UID:http://www.web2expo.com/sf--s2008-04-23-09:40--3313
+SUMMARY:Design Learnings from Viral Applications
+DESCRIPTION:Presented by Jia Shen (RockYou). Participants will learn bes
+ t practices and hear case studies on how to design and distribute engagi
+ ng viral applications on the social web.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T103000
+DTSTART;TZID=US/Pacific:20080423T094000
+DTSTAMP:20080220T065645
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2277
+UID:http://www.web2expo.com/sf--s2008-04-23-09:40--2277
+SUMMARY:Creating a Coherent Social Strategy for Business
+DESCRIPTION:Presented by Charlene Li (Forrester Research), Josh Bernoff 
+ (Forrester Research). Lurching from one Web 2.0 technology to the next, 
+ with no plan or buy-in from senior executives? It's time to develop a so
+ cial strategy that delivers business results. This session will lay out 
+ a framework that creates a social strategy based on meeting business obj
+ ectives with real-world ROI.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T103000
+DTSTART;TZID=US/Pacific:20080423T094000
+DTSTAMP:20080408T222237
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/754
+UID:http://www.web2expo.com/sf--s2008-04-23-09:40--754
+SUMMARY:Strategic Domain Name Selection for Increasing Traffic and Conve
+ rsion Rates
+DESCRIPTION:Presented by Jeremiah  Johnston (Sedo). Learn how you can bu
+ ild a portfolio of traffic-generating “Direct Navigation” domain names t
+ o drive additional traffic to your web site while simultaneously increas
+ ing conversion rates.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T103000
+DTSTART;TZID=US/Pacific:20080423T094000
+DTSTAMP:20080318T013231
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3446
+UID:http://www.web2expo.com/sf--s2008-04-23-09:40--3446
+SUMMARY:Sticky Eyeballs: How UX Wins Market Share
+DESCRIPTION:Presented by Dave Wolf (Cynergy). You have the next great id
+ ea. Now it’s time to build it. Great ideas don’t sell themselves. How do
+  you create passionate users?  With rich, interactive, and sticky User E
+ xperiences that engage your users and keep them. Join us to see incredib
+ le User Experiences designed for both startups and market leaders and le
+ arn how incredible experiences have won markets.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T103000
+DTSTART;TZID=US/Pacific:20080423T094000
+DTSTAMP:20080410T180549
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3358
+UID:http://www.web2expo.com/sf--s2008-04-23-09:40--3358
+SUMMARY:Bringing Web 2.0 to Your Enterprise
+DESCRIPTION:Presented by Dave Carter (Awareness, Inc.). What do you need
+  to consider in order to bring “Web 2.0 technology” and more importantly
+  “Web 2.0 thinking” into your Enterprise? This session with Dave Carter,
+  CTO and Founder of Awareness, Inc., will explore how to learn from Web 
+ 2.0 homeruns such as FaceBook, Digg, and LinkedIn.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080128T194111
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/772
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--772
+SUMMARY:Adding “Where” to Mobile and Web Applications
+DESCRIPTION:Presented by Ryan Sarver (Skyhook Wireless). Location-aware 
+ web sites, applications, and devices can provide users with rich social 
+ connectivity, useful content, and more. This session is about the tools 
+ available to bring location to your web site or mobile applications.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080408T222509
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2144
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--2144
+SUMMARY:Children of Flickr: Making the Massively Multiplayer Social Web
+DESCRIPTION:Presented by Justin Hall (GameLayers), Rajat Paharia (Bunchb
+ all), Christopher Chapman (Areae), Gabe Zichermann (rmbr). The presenter
+ s on this panel are each working to integrate video games into online li
+ fe.  Points, levels, distributed persistent social play: metrics for coo
+ peration and competition borrowed from video games and woven into the we
+ b. Learn how video game mechanics can create social cohesion and promote
+  participation in innovative web services.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080408T222440
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2368
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--2368
+SUMMARY:A Symfony Answer
+DESCRIPTION:Presented by Dustin Whittle (Yahoo!). An exploration into ho
+ w to work with open source frameworks to create a complete framework (PH
+ P, JS, CSS) for the enterprise. The main focus will be on how Yahoo! red
+ eveloped Y! Answers with symfony and Yahoo! User Interface libraries. At
+ tendees will learn what worked and what didn’t when building a large Web
+  2.0 product from open source tools.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080321T234838
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3238
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--3238
+SUMMARY:Consumer 2.0: How Web 2.0 is Changing Moods, Metrics, & Monetiza
+ tion
+DESCRIPTION:Presented by Rafe Needleman (CNET), Konrad Feldman (Quantcas
+ t), Erin Hunter (comScore, Inc.), Garrick  Schmitt (Avenue A | Razorfish
+ ), Murtaza Hussain (Peanut Labs, Inc). Consumers are rapidly adopting ne
+ w behaviors powered by Web 2.0 technologies. What can demographics, metr
+ ics, and market research tell us about users, usage, and monetization? F
+ ind out more from this panel of consumer research experts about changes 
+ in online user behavior and how it affects internet marketing techniques
+ .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080408T230541
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3251
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--3251
+SUMMARY:Data Portability, Privacy, and the Emergence of the Social Web
+DESCRIPTION:Presented by Joseph Smarr (Plaxo). “Who you know” is a key i
+ ngredient of a large number of socially enabled services; yet users are 
+ increasingly frustrated at having to re-establish relationships on every
+  new site they visit. We’ll describe the social landscape today, the tec
+ hnologies that are changing what’s possible, and where the Social Web is
+  headed.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080415T172211
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/286
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--286
+SUMMARY:Failing Fast: Get Your App Out of the Lab and into the Arena
+DESCRIPTION:Presented by Tony Hillerson (EffectiveUI), Alan Lewis (eBay)
+ , Randy Reiland (Discovery Health), Ryan  Stewart (Adobe Systems), Scott
+  Green (Google Inc. ). As demand for innovative and custom software appl
+ ications/solutions increases, so does the challenge for businesses to un
+ derstand how an iterative development process should work, as well as ho
+ w critical user testing and feedback is to the success and adoption of t
+ heir product or service.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080404T213225
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4274
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--4274
+SUMMARY:Responsible Web Design
+DESCRIPTION:Presented by Scott Fegette (Adobe Systems Inc.). It’s not en
+ ough to be a strong visual designer these days- web design has increasin
+ gly become a more technical discipline.  In this session, we’ll explore 
+ the current standards and best practices for web design, along with a sn
+ eak peek at how the upcoming release of Adobe Dreamweaver will address s
+ ome of these growing concerns facing today’s web professionals.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080307T070926
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3356
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--3356
+SUMMARY:Web 2.0 in a Virtualized World: Building an Architecture for Gro
+ wth
+DESCRIPTION:Presented by Lori Mac Vittie (F5 Networks). Web 2.0 is all a
+ bout community, sharing, and personalized experience—all of which have t
+ he potential to drive your applications to grow quickly to meet the dema
+ nds of the users. In this session, we will examine some of the applicati
+ on delivery principles that you can use to build an architecture that ca
+ n scale and grow as your application demands increase.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T114000
+DTSTART;TZID=US/Pacific:20080423T105000
+DTSTAMP:20080312T145210
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3493
+UID:http://www.web2expo.com/sf--s2008-04-23-10:50--3493
+SUMMARY:The Next Generation Web Experience for Self-help
+DESCRIPTION:Presented by Clinton Dickey (Microsoft). A discussion on the
+  emerging importance of self-help components on the web, and how Microso
+ ft's Automated Service Agents can provide a new paradigm in customer car
+ e and how people find the information they need.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080419T032119
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2379
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--2379
+SUMMARY:Making Email a Useful Web App
+DESCRIPTION:Presented by Andy Denmark (TripIt). Over 90% of all internet
+  communication happens via email; just about everyone lives and works in
+  their inbox. Even when used in concert with calendars, to-do lists, dat
+ abases, and content- and project management systems, email is still ever
+ yone’s de-facto productivity tool. For something that supposedly doesn’t
+  work, email works extraordinarily well.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080128T194254
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/731
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--731
+SUMMARY:The Dark Side of Ajax
+DESCRIPTION:Presented by Jacob West (Fortify Software). We will look at 
+ popular Ajax programming frameworks and how they can make or break the s
+ ecurity of an application.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080128T195056
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2143
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--2143
+SUMMARY:Copy as Interface
+DESCRIPTION:Presented by Erika Hall (Mule Design). Effective language is
+  essential to a usable, appealing, platform-independent interface.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080220T064956
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2297
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--2297
+SUMMARY:Best-kept Secrets to Search Engine Optimization Success: the Art
+  and the Science
+DESCRIPTION:Presented by Stephan Spencer (Netconcepts). No SEO fundament
+ als here—take your SEO skillset to the next level. Get the "secret sauce
+ " to rocketing past your competitors and learn stuff most agencies won't
+  reveal.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080408T230922
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1133
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--1133
+SUMMARY:The Facebook Platform: Finding Success in the Facebook Economy
+DESCRIPTION:Presented by Saar Gur (Charles River Ventures), Joyce Park (
+ Renkoo), Naval Ravikant (Investor, Venturehacks Co-Author), Matt Sanchez
+  (Videoegg). This panel will examine the Facebook economy and the larger
+  issues around social networks as infrastructure. How big is the potenti
+ al? Who has seen success? What lessons have been learned?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080408T230745
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1088
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--1088
+SUMMARY:Short Attention Span Theater: The Birth of Microblogging & Micro
+ media
+DESCRIPTION:Presented by Gregarious Narain (Blue Whale Labs), Jeremiah O
+ wyang (Forrester Research). Over the past five years, blogging has gone 
+ from "fringe geeky media channel" to mainstream usage and acceptance. Wh
+ ile blogging itself is now commonplace, other new forms of personal publ
+ ishing and lightweight communication are emerging and exploding.  Join u
+ s for a deep dive into personal publishing, microblogging, and micromedi
+ a.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080318T201850
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3357
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--3357
+SUMMARY:Mashing Up: Taking Enterprise Mashups to the Next Level
+DESCRIPTION:Presented by Vince Casarez (Oracle). To increase the power o
+ f enterprise mashups, IT and business users need to expand the scope and
+  include the intellect captured by popular Web 2.0 technologies. This se
+ ssion uncovers how social enterprise mashups can enable valuable on-the-
+ fly information exchanges and develop new ideas to create competitive ad
+ vantage.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080318T014917
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3354
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--3354
+SUMMARY:IBM: Web 2.0 Goes to Work
+DESCRIPTION:Presented by Gina Poole (IBM Software Group), Rod Smith (IBM
+  Emerging Internet Technologies ). Web 2.0 is changing the way companies
+  think, work, and run their businesses. From mashups to social networkin
+ g, these new tools and principles can help improve employee effectivenes
+ s, solve business problems, and change the model for smart, social busin
+ ess interactions. Hear what IBM is doing internally, and how they’re hel
+ ping organizations realize the value of Web 2.0 in the enterprise.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T142000
+DTSTART;TZID=US/Pacific:20080423T133000
+DTSTAMP:20080318T015440
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3443
+UID:http://www.web2expo.com/sf--s2008-04-23-13:30--3443
+SUMMARY:From Access to Interaction and Integrated Experiences: Unleashin
+ g the Power of Mobility to the Internet
+DESCRIPTION:Presented by David Rivas (Nokia). With the evolution to Web 
+ 2.0, mobile has advanced from limited access and mobile-specific technol
+ ogies into a rich platform for interacting with web-based content and se
+ rvices. Bringing internet services to mobile adds value beyond what can 
+ be delivered in a desktop environment: access to services is no longer t
+ ied to any physical location, time, or particular device.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080128T194314
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1824
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--1824
+SUMMARY:Web Site Psychology
+DESCRIPTION:Presented by Gavin Bell (Nature). Creating web sites is a pr
+ ocess of understanding people. Site owners have something to offer and t
+ hey want to help people to use the site to help themselves. Cognitive ps
+ ychology has a lot to say about how we should be approaching web develop
+ ment from pace of change to exploration and interaction.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080128T194330
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2266
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--2266
+SUMMARY:Design Your API: Learnings from Twitter and Stamen
+DESCRIPTION:Presented by Alex Payne (Twitter), Michal Migurski (Stamen D
+ esign). Web 2.0 owes much of its success to APIs: protocols to create, d
+ istribute, update, and modify the valuable data that comprises the Web. 
+ Alex Payne and Michal Migurski will discuss the design of web service AP
+ Is from the dual perspectives of client and provider, outlining best pra
+ ctices and cautioning against worst cases.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080307T081847
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3435
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--3435
+SUMMARY:Global Design Trends
+DESCRIPTION:Presented by Aaron Marcus (Aaron Marcus and Associates, Inc.
+  (AM+A)), Jimmy Kim (Nexon), Erik Hersman (Zungu), Kelly Goto (gotomedia
+ , LLC), Surya Vanka (Microsoft). How do you make it easy to look bigger 
+ and more global than you are? How do you create a maintainable yet perso
+ nal experience for users around the world? Hear about practices and the 
+ trade-offs multinational companies make to incorporate cultural diversit
+ y in user interface design.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080219T093634
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/346
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--346
+SUMMARY:Creating and Engaging Virtual World Communities
+DESCRIPTION:Presented by Geoff Yang (Redpoint Ventures), Craig Sherman (
+ Gaia Online), Reuben Steiger (Millions of Us). This panel explores the c
+ hallenges of engaging Virtual World users by enabling dialogue, balancin
+ g programmed entertainment with user-generated content, and maintaining 
+ a sense of user ownership.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080408T231258
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2380
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--2380
+SUMMARY:Implementing an OpenSocial Container
+DESCRIPTION:Presented by Lou Moore (hi5 Networks). Building apps for Fac
+ ebook and MySpace have become all the rage, but how can you get people t
+ o build apps for your site? Learn the ins and outs of implementing the O
+ penSocial API into your web site.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080408T231235
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/713
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--713
+SUMMARY:Emerging Ad Exchanges: Bidding on Banners and Beyond
+DESCRIPTION:Presented by James Beriker (Efficient Frontier). Join a disc
+ ussion on how consolidation in the ad space, including Google’s purchase
+  of DoubleClick, Yahoo!’s purchase of Right Media, and Microsoft’s purch
+ ases of aQuantive, impacts businesses.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080404T212242
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3440
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--3440
+SUMMARY:OpenID, OAuth, Data Portability, and the Enterprise
+DESCRIPTION:Presented by Marshall Kirkpatrick (ReadWriteWeb), Danny Kolk
+ e (Etelos, Inc. ), David Recordon (Six Apart), Artur Bergman (Wikia), Jo
+ seph Smarr (Plaxo). The debate over identity, data and authentication is
+  gaining ground in the social networking world. The more difficult discu
+ ssion regarding enterprises and Web 2.0 has yet to start. Businesses rea
+ lize that they must protect the data of their company, employees and cus
+ tomers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080307T083152
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3318
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--3318
+SUMMARY:Web 2.0 Killed the Moleskine Star: How Web Apps are Transforming
+  the Entire Country
+DESCRIPTION:Presented by Taewoo Danny Kim (Springnote). What happens whe
+ n you have faster-than-DSL ubiquitous wireless access to the Web and mil
+ lions of device-savvy consumers? In this session, we'll take a look at S
+ pringnote, an online notebook application by Openmaru, and examine how w
+ eb apps are transforming all our activities at schools, work, and in our
+  daily lives.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T153000
+DTSTART;TZID=US/Pacific:20080423T144000
+DTSTAMP:20080312T150100
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3370
+UID:http://www.web2expo.com/sf--s2008-04-23-14:40--3370
+SUMMARY:Windows Live Platform: Take the Best of Windows Live and Make it
+  Yours
+DESCRIPTION:Presented by Angus Logan (Microsoft). Are you a web develope
+ r interested in attracting 400M+ engaged users with over 30 billion rela
+ tionships? Need to access over four billion photos? Ever wanted to inclu
+ de instant messaging experiences in your site, or easily add video strea
+ ming? How about mapping?  We’ve only started.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T161000
+DTSTART;TZID=US/Pacific:20080423T160000
+DTSTAMP:20080306T233307
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3420
+UID:http://www.web2expo.com/sf--s2008-04-23-16:00--3420
+SUMMARY:Opening Welcome
+DESCRIPTION:Presented by Jennifer Pahlka (CMP), Brady Forrest (O'Reilly 
+ Media, Inc.). Welcome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T163000
+DTSTART;TZID=US/Pacific:20080423T161000
+DTSTAMP:20080305T022753
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3423
+UID:http://www.web2expo.com/sf--s2008-04-23-16:10--3423
+SUMMARY:O'Reilly Radar
+DESCRIPTION:Presented by Tim O'Reilly (O'Reilly Media, Inc.). More infor
+ mation coming soon
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T170000
+DTSTART;TZID=US/Pacific:20080423T163000
+DTSTAMP:20080314T235621
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3326
+UID:http://www.web2expo.com/sf--s2008-04-23-16:30--3326
+SUMMARY:A Conversation with Max Levchin
+DESCRIPTION:Presented by Max Levchin (Slide), Charlene Li (Forrester Res
+ earch). Conversation
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T171000
+DTSTART;TZID=US/Pacific:20080423T170000
+DTSTAMP:20080315T213958
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3532
+UID:http://www.web2expo.com/sf--s2008-04-23-17:00--3532
+SUMMARY:Get Mesh!
+DESCRIPTION:Presented by Amit Mital (Microsoft). Keynote
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T173500
+DTSTART;TZID=US/Pacific:20080423T171000
+DTSTAMP:20080314T235739
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3329
+UID:http://www.web2expo.com/sf--s2008-04-23-17:10--3329
+SUMMARY:Here Comes Everybody
+DESCRIPTION:Presented by Clay Shirky. Conversation
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T174500
+DTSTART;TZID=US/Pacific:20080423T173500
+DTSTAMP:20080407T180512
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3396
+UID:http://www.web2expo.com/sf--s2008-04-23-17:35--3396
+SUMMARY:What AIM Knows
+DESCRIPTION:Presented by Edwin  Aoki (AOL). Keynote
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T175500
+DTSTART;TZID=US/Pacific:20080423T174500
+DTSTAMP:20080404T231718
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1897
+UID:http://www.web2expo.com/sf--s2008-04-23-17:45--1897
+SUMMARY:The Myths of Innovation
+DESCRIPTION:Presented by Scott Berkun (Berkun Consulting). Hype and tall
+  tales dominate our knowledge of innovation history, and without awarene
+ ss of the truth, we are set up to fail as innovators. This fun, fast pac
+ ed, opinion provoking keynote, based on the recent bestselling book The 
+ Myths of Innovation (O'Reilly 2007), will dissect the deepest mythologie
+ s in tech invention to reveal truths everyone can use in their own work.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T180000
+DTSTART;TZID=US/Pacific:20080423T175500
+DTSTAMP:20080320T204737
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3531
+UID:http://www.web2expo.com/sf--s2008-04-23-17:55--3531
+SUMMARY:What Tellme Knows
+DESCRIPTION:Presented by Dariusz Paczuski (Tellme). Keynote
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T000000
+DTSTART;TZID=US/Pacific:20080423T180000
+DTSTAMP:20080403T213120
+LOCATION:Marriott
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3637
+UID:http://www.web2expo.com/sf--s2008-04-23-18:00--3637
+SUMMARY:After Hours @ The Marriott San Francisco
+DESCRIPTION:Not sure where to go to hook up with friends and colleagues 
+ after show hours?  Good chance you’ll find people at the Marriott Hotel,
+  just down the street from Moscone West.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080423T220000
+DTSTART;TZID=US/Pacific:20080423T190000
+DTSTAMP:20080416T175701
+LOCATION:South Park, SF
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3483
+UID:http://www.web2expo.com/sf--s2008-04-23-19:00--3483
+SUMMARY:South Park Crawl
+DESCRIPTION:On the evening of the first day of the full conference, loca
+ l Web 2.0 companies and sponsors hosting from popular South Park restaur
+ ants will open their doors to conference attendees for the biggest and b
+ est party of the year. Attendees will arrive with a map of the participa
+ ting venues and a mission to eat, drink and network.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T091000
+DTSTART;TZID=US/Pacific:20080424T090000
+DTSTAMP:20080306T232328
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3448
+UID:http://www.web2expo.com/sf--s2008-04-24-09:00--3448
+SUMMARY:Welcome and Morning Keynotes
+DESCRIPTION:Presented by Brady Forrest (O'Reilly Media, Inc.), Jennifer 
+ Pahlka (CMP). Welcome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T094000
+DTSTART;TZID=US/Pacific:20080424T091000
+DTSTAMP:20080307T083533
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2617
+UID:http://www.web2expo.com/sf--s2008-04-24-09:10--2617
+SUMMARY:A Conversation with Marc Andreessen
+DESCRIPTION:Presented by Marc Andreessen (Ning), John  Battelle (Federat
+ ed Media Publishing). More information coming soon
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T095000
+DTSTART;TZID=US/Pacific:20080424T094000
+DTSTAMP:20080407T180814
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3327
+UID:http://www.web2expo.com/sf--s2008-04-24-09:40--3327
+SUMMARY:The Future of the Internet - And How to Stop It
+DESCRIPTION:Presented by Jonathan Zittrain (Oxford University). More inf
+ ormation coming soon
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T100000
+DTSTART;TZID=US/Pacific:20080424T095000
+DTSTAMP:20080407T181329
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3622
+UID:http://www.web2expo.com/sf--s2008-04-24-09:50--3622
+SUMMARY:Opening the Mobile Web
+DESCRIPTION:Presented by Mitchell Baker (Mozilla Foundation). Keynote
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T101500
+DTSTART;TZID=US/Pacific:20080424T100000
+DTSTAMP:20080407T181837
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3623
+UID:http://www.web2expo.com/sf--s2008-04-24-10:00--3623
+SUMMARY:Yahoo! and Open Platforms
+DESCRIPTION:Presented by Ari Balogh (Yahoo!). Keynote
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T102500
+DTSTART;TZID=US/Pacific:20080424T101500
+DTSTAMP:20080407T182351
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3422
+UID:http://www.web2expo.com/sf--s2008-04-24-10:15--3422
+SUMMARY:What CurrentTV Knows About Viewers
+DESCRIPTION:Presented by Ofer Shaked (Current TV). Keynote
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T103000
+DTSTART;TZID=US/Pacific:20080424T102500
+DTSTAMP:20080407T182907
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4284
+UID:http://www.web2expo.com/sf--s2008-04-24-10:25--4284
+SUMMARY:What MySpace Knows
+DESCRIPTION:More information coming soon
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080307T084023
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2375
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--2375
+SUMMARY:User-Generated Censorship
+DESCRIPTION:Presented by Annalee Newitz (io9). User-generated censorship
+  is what happens when crowds on social media networks flag content as "i
+ nappropriate" and get it removed or hidden. This represents a break with
+  traditional top-down censorship. But is user-generated censorship an im
+ provement, or worse than Big Brother? We'll find out by looking at examp
+ les from Flickr, YouTube, Craiglist, and more.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080408T235919
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2131
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--2131
+SUMMARY:Designing for a Web of Data
+DESCRIPTION:Presented by Tom Coates (Yahoo! Brickhouse). Design patterns
+  for brochureware and editorial sites are well-established. In fact, the
+ y're so simple and formulaic that even waterfall development processes c
+ an churn them out. But what happens when you're pushing into web apps or
+  social media?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080408T235834
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2370
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--2370
+SUMMARY:Future of Databases
+DESCRIPTION:Presented by Brian Aker (MySQL), Dave Campbell (Microsoft), 
+ Matt Domo (Amazon SimpleDB), Alistair Croll (Giga Omni Media). This pane
+ l will pull together representatives from the major databases including 
+ CouchDB and MySQL.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080220T065913
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2270
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--2270
+SUMMARY:Facebook Marketing: Best Practices
+DESCRIPTION:Presented by Jeremiah Owyang (Forrester Research), Evan Mage
+ r (AKQA), Holly Liu (Watercooler), Brett Keintz (750 Industries / Stanfo
+ rd GSB), Kevin Barenblat (Context Optional). Learn from this panel of de
+ ployment experts as they discuss strategy and tactics for successful mar
+ keting on Facebook. Panel topics to include flyers, advertising, groups,
+  sponsored groups, fan pages, widgets, and Beacon.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080408T231533
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2052
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--2052
+SUMMARY:Mobile Ajax and the Future of the Web
+DESCRIPTION:Presented by Daniel Appelquist (Vodafone ). The Web and mobi
+ le ecosystems are converging, with the Web an evolving medium extending 
+ to embrace the mobile platform. New applications of existing web technol
+ ogy are bringing these platforms to life—allowing mobile user experience
+  to live in the Web.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080408T231450
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/503
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--503
+SUMMARY:Maximizing Ad Revenue Through Format Optimization
+DESCRIPTION:Presented by Paul  Edmondson (YieldBuild). This session desc
+ ribes how advertising revenue can be maximized on difficult to monetize 
+ sites, like social networks, through subtle change to text ad format: co
+ lor, size, placement, etc.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080310T235422
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3494
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--3494
+SUMMARY:Microsoft Sponsored Session
+DESCRIPTION:More information coming soon
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080318T021042
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3447
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--3447
+SUMMARY:Developing, Distributing, and Monetizing Web Applications with W
+ ebEx Connect
+DESCRIPTION:Presented by Shankar Iyer (WebEx), Raghu Raghavan (Act-On So
+ ftware, Inc.). Learn about WebEx Connect, Cisco/WebEx's SaaS-platform fo
+ r developing collaborative applications that are at the center of emergi
+ ng distributed, global value chains. Learn from WebEx Connect developers
+  how to build applications for WebEx Connect that showcase some of the u
+ nique features of the platform.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T115000
+DTSTART;TZID=US/Pacific:20080424T110000
+DTSTAMP:20080318T021428
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3438
+UID:http://www.web2expo.com/sf--s2008-04-24-11:00--3438
+SUMMARY:Web 2.0 and the Breathing Enterprise
+DESCRIPTION:Presented by Rene Bonvanie (Serena ), Christopher Keene (Wav
+ eMaker Software). Not many concepts/ technologies have received the kind
+  of hype that Web 2.0 has been subjected to. Observers have even gone ah
+ ead and called Web 2.0 the SOA of the Internet. Not only does this hype 
+ show no signs of abating but today companies from Intel to Wells Fargo a
+ re figuring out how they can create an enterprise that collaborates, inn
+ ovates freely and “breathes.”
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T142000
+DTSTART;TZID=US/Pacific:20080424T133000
+DTSTAMP:20080307T084719
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2367
+UID:http://www.web2expo.com/sf--s2008-04-24-13:30--2367
+SUMMARY:Ontologies for the Enterprise
+DESCRIPTION:Presented by Duane Nickull (Adobe Systems). Enterprises are 
+ beginning to understand the immense importance of the evolution towards 
+ a semantic web. Those who have no clear strategies will be no better off
+  than companies who ignored search engine optimization in the 1990s. Thi
+ s talk explores the rationale and reasons why such approaches might be d
+ esirable as well as delving into some of the research behind the topics.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T142000
+DTSTART;TZID=US/Pacific:20080424T133000
+DTSTAMP:20080409T000152
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/735
+UID:http://www.web2expo.com/sf--s2008-04-24-13:30--735
+SUMMARY:Web 2.0: Fabulously Useful and Confusing
+DESCRIPTION:Presented by Leanne Waldal (OTIVO, INC), Megan Koroshetz, Vi
+ ctor Tom (Retired), Becky  Haycox (UCSB), Susan Harris (Susan Diana Harr
+ is Interior Design), JP Singson (E-Loan, Inc). What happens when average
+  consumers use Web 2.0 sites to share and find and communicate? This wil
+ l be a presentation of Web 2.0 user research and live consumer interview
+ s demonstrating good, bad, and ugly.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T142000
+DTSTART;TZID=US/Pacific:20080424T133000
+DTSTAMP:20080409T000231
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1773
+UID:http://www.web2expo.com/sf--s2008-04-24-13:30--1773
+SUMMARY:A Flickr Approach to Making Sense of the World
+DESCRIPTION:Presented by Dan Catt (Yahoo!, Inc. ). Follow along as Flick
+ r takes something simple, geotagging, makes it nearly unfathomably compl
+ ex by having an awful lot of it, sifts through it while trying not to ma
+ ke the databases cry (that's the trick), and presents it beautifully and
+  elegantly. A behind-the-curtains peek at the fiery hoops we jump throug
+ h.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T142000
+DTSTART;TZID=US/Pacific:20080424T133000
+DTSTAMP:20080313T145518
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3177
+UID:http://www.web2expo.com/sf--s2008-04-24-13:30--3177
+SUMMARY:Influence is Overrated
+DESCRIPTION:Presented by Jonah Peretti (Buzzfeed). The Tipping Point is 
+ Toast. Robert Scoble, get out of my Feed. Tiger Woods, take your Buick, 
+ your Amex, your Wheaties & go home. Jonah Perretti tells us why and how 
+ word-of-mouth marketing trumps influence marketing every time.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T142000
+DTSTART;TZID=US/Pacific:20080424T133000
+DTSTAMP:20080408T235023
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3182
+UID:http://www.web2expo.com/sf--s2008-04-24-13:30--3182
+SUMMARY:From Desktop to Device: Moving into a Convergent World
+DESCRIPTION:Presented by Rekha Murthy (www.rmurthy.com), Kelly Goto (got
+ omedia, LLC), John SanGiovanni (Zumobi), Raj Singh, Brian Fling (Fling M
+ edia), Russell  Beattie. You've built your social networking site, embra
+ ced RoR, and Ajax-ified your stale 1.0 web presence. So what's next? You
+ r audience is no longer sitting still—they are on the move and you need 
+ to keep up. WIth content migrating from desktop to mobile devices, flat-
+ screen televisions, and GPS systems—you need to embrace multiple distrib
+ ution systems and migration to a new environment and approach.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T142000
+DTSTART;TZID=US/Pacific:20080424T133000
+DTSTAMP:20080409T190150
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2269
+UID:http://www.web2expo.com/sf--s2008-04-24-13:30--2269
+SUMMARY:Web 2.0 Product Management: Optimizing Metrics and Viral Growth
+DESCRIPTION:Presented by Dan Olsen (YourVersion). Want to be a Product M
+ anagement Jedi? Web 2.0 product managers need to master new skills to ac
+ hieve success. Products with a viral nature cause the product and the ma
+ rketing of the product to be closely coupled. Come learn best practices 
+ in Web 2.0 Product Management.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T142000
+DTSTART;TZID=US/Pacific:20080424T133000
+DTSTAMP:20080410T163021
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3355
+UID:http://www.web2expo.com/sf--s2008-04-24-13:30--3355
+SUMMARY:What Software Development Tools Can Learn from the Web
+DESCRIPTION:Presented by Kathy Mandelstein  (IBM Rational Software, IBM 
+ SWG ). Communities, collaboration, awareness, simple and open access to 
+ data, multiclient support, massive scale, and continuous evolution... We
+  expect these from the Web, why shouldn't we expect them from our softwa
+ re development tools? We should. Learn about the IBM Rational Jazz Platf
+ orm, inspired by and built on the Web.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T143000
+DTSTART;TZID=US/Pacific:20080424T133000
+DTSTAMP:20080403T183758
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3513
+UID:http://www.web2expo.com/sf--s2008-04-24-13:30--3513
+SUMMARY:Launch Pad
+DESCRIPTION:Presented by Michael Jung (Panorama Capital), Maha Ibrahim (
+ Canaan Partners), David Hornik (August Capital), Zach Coelius (Triggit),
+  Susan Coelius-Keplinger (Triggit), Daniel Arkind (JobScore), Barry Jasp
+ an (Acquia), Eve Phillips (Chirp Interactive), Andy Stack (Oortle), Davi
+ d Li (TradeVibes). A platform for notable companies and products to debu
+ t
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080129T235827
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1799
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--1799
+SUMMARY:Open Platforms in Web 2.0
+DESCRIPTION:Presented by David Recordon (Six Apart). RSS, Atom, Jabber, 
+ OpenID, OAuth, Microformats, and other open community-built technologies
+  took off in 2007 due to a desire to have portable data and social graph
+ s. This talk looks at what caused this topic to become so important, how
+  various open technologies can help to solve these problems, and who is 
+ doing it right.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080221T162416
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/130
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--130
+SUMMARY:The Art of Testing Web Applications
+DESCRIPTION:Presented by Gregg Pollack (Rails Envy). As web frameworks h
+ ave evolved into best practices, methods of testing these frameworks are
+  still evolving.  We'll take a look at the new testing methodologies com
+ ing out of Behavior Driven Development by walking through Ruby on Rails 
+ application running RSpec, and we'll also take a look at BDD libraries f
+ or Java, .NET, PHP, and JavaScript.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080307T090956
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/603
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--603
+SUMMARY:The Next Generation of Tagging: Searching and Discovering a Bett
+ er User Experience
+DESCRIPTION:Presented by Kakul Srivastava (Director of Product Managemen
+ t, Flickr ). Kakul Srivastava, director of product management of the pop
+ ular photo-sharing community Flickr, will discuss enhancing the user exp
+ erience through tagging and geotagging.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080419T232808
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1129
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--1129
+SUMMARY:Bling, Bling: Monetizing and Marketing Through Widgets
+DESCRIPTION:Presented by Ro Choy (RockYou). Widgets are no longer just f
+ or show—embeddable applications now offer an additional strategy for mar
+ keting and monetizing online content on social networks and the Web.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080220T064755
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2353
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--2353
+SUMMARY:Customer Service is the New Marketing
+DESCRIPTION:Presented by Lane Becker (Get Satisfaction), Thor Muller (Ge
+ t Satisfaction). This presentation explores how innovative businesses ar
+ e becoming more transparent with their audience and suggests an overall 
+ framework that both online and offline companies can use to start having
+  a real conversation with their customers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080318T073116
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3406
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--3406
+SUMMARY:Understanding Mobile: From Web 2.0 to World 2.0
+DESCRIPTION:Presented by Marc Davis (Yahoo! Inc.). The mobile web is not
+  just about accessing the Web from your phone—mobile phones that are loc
+ ation aware, temporally situated, and socially connected will transform 
+ our experience of the Web, the world, and ourselves.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080404T212341
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3441
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--3441
+SUMMARY:Enabling Opportunity Computing in the Cloud
+DESCRIPTION:Presented by Danny Kolke (Etelos, Inc. ). We’ve all heard of
+  Utility Computing, and are familiar with its limitations for developers
+ . What developers need to get to revenue fast goes far beyond the curren
+ t capabilities of utility computing. Opportunity Computing gives develop
+ ers the tools, partnerships, API support and go-to-market capability tha
+ t they need to be successful as a business.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080317T211815
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3368
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--3368
+SUMMARY:Create a Social Network—It’s Easy!
+DESCRIPTION:Presented by Tatiana Rizzante (Reply). Web 2.0 brought a lot
+  of new social networks to the Internet and to company environments. The
+  foundation of a social network is to encourage and motivate people to m
+ ake quality contributions to the content offered. This would not only ma
+ ke proper justification to it, but also add value to it.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T153000
+DTSTART;TZID=US/Pacific:20080424T144000
+DTSTAMP:20080420T155021
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3365
+UID:http://www.web2expo.com/sf--s2008-04-24-14:40--3365
+SUMMARY:Innovation in an Age of Mobility and Openness
+DESCRIPTION:Presented by Lenn Pryor (Nokia). Mobile devices are developi
+ ng greater capabilities to sense and make sense of the world around us. 
+ Nokia CTO Bob Iannucci will discuss how the compelling synergy of these 
+ devices with new innovative technologies and development tools have open
+ ed up opportunities for creative minds everywhere to build new applicati
+ ons, services, and experiences that fuse our physical and digital worlds
+ .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080409T000928
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3371
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--3371
+SUMMARY:After The Phone Rings: Money and Mobile Content
+DESCRIPTION:Presented by Eric Lin (HTC), Julie Ask (Jupiter Research), R
+ ussell Buckley (AdMob), Andrew Stein (PopCap Games). As sales of rington
+ es and mobile applications decline, developers and content creators need
+  to reconsider how to make money from mobile users. Looking to models us
+ ed on the desktop Internet is increasingly attractive.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080311T184824
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1758
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--1758
+SUMMARY:Social Data: Collecting, Mining, and Using it in Your Applicatio
+ ns
+DESCRIPTION:Presented by Toby Segaran (Metaweb). Huge sets of data are g
+ enerated every day by people using online applications and many techniqu
+ es for analyzing and interpreting these datasets exist, making it possib
+ le to use this data to draw new conclusions, build predictive models, an
+ d make web applications smarter.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080221T045144
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1112
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--1112
+SUMMARY:10 Tools for Managing a Creative Environment
+DESCRIPTION:Presented by Bryan Mason (Adaptive Path), Sarah  Nelson (Ada
+ ptive Path). There's a lot to learn from how other industries manage cre
+ ative professionals. Stage managers, editors, conductors, and others can
+  teach us how to build environments that are creative and effective.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080314T182659
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/364
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--364
+SUMMARY:Social Networks and Avatars: Living Studies in Identity, Anthrop
+ ology, Sociology, and Creativity
+DESCRIPTION:Presented by Lauren Bigelow (WeeWorld Inc.). Real-world comp
+ anies have trouble gaining relevant insights into the elusive 13-17 year
+  olds. Since avatar social networks do it all day long, they are living 
+ studies in identity and social formation.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080219T230807
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1543
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--1543
+SUMMARY:Faceforce: Bringing the Power of the Social Graph to Enterprise 
+ Apps
+DESCRIPTION:Presented by Clara Shih (Faceforce). Faceforce, which integr
+ ates Salesforce and Facebook, is the first social networking mash-up for
+  the enterprise. This session will walk through the development of Facef
+ orce and how social networking will fundamentally change how and what so
+ ftware businesses deploy.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080409T001001
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1021
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--1021
+SUMMARY:Creativity vs. Control: The Debate Continues—Can Enterprises Hav
+ e Both?
+DESCRIPTION:Presented by Anant Jhingran (IBM), Stephen O'Grady (Redmonk)
+ , Lauren Cooney (IBM). Creativity is at the heart of Web 2.0, but there 
+ is much debate recently within enterprise organizations: can there be cr
+ eativity with control in the enterprise? How? And what do you think?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080416T144210
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4329
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--4329
+SUMMARY:Adobe – RIA Applications and the Web
+DESCRIPTION:Presented by Duane Nickull (Adobe Systems), Darin Ohlandt (A
+ OL), Claude Courbois (The Nasdaq Stock Market, Inc. ), Carnet Williams (
+ Sprout), William White (Yahoo!). Come see, hear and talk about what some
+  of the most innovative companies are doing with Adobe’s RIA technologie
+ s. The session will consist of demonstrations and discussion on how thes
+ e new technologies will drive the web forward. Duane Nickull, Adobe Seni
+ or Evangelist, will host the event with the following companies particip
+ ating:
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080307T153948
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/875
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--875
+SUMMARY:Disney.com
+DESCRIPTION:Presented by Eric Freeman (Disney Online), Jason Davis (Disn
+ ey Online). This talk will showcase the Web 2.0 themes across several ne
+ w products including the new Disney.com, Disney Fairies, and the new Fam
+ ily.com.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080318T074528
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3437
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--3437
+SUMMARY:Games Customers Play: Insights from Online Gaming for Enterprise
+  2.0
+DESCRIPTION:Presented by Lyle Fong (Lithium Technologies). You want your
+  Web 2.0 site to be Facebook for the Enterprise, but what if no one come
+ s? Hear how leading companies have used lessons learned from online gami
+ ng to create critical mass and establish thriving customer communities.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T164000
+DTSTART;TZID=US/Pacific:20080424T155000
+DTSTAMP:20080409T190600
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4297
+UID:http://www.web2expo.com/sf--s2008-04-24-15:50--4297
+SUMMARY:Google App Engine: Making it Easier For Developers to Build and 
+ Scale Apps
+DESCRIPTION:In this session, we'll discuss the issues developers face bu
+ ilding web applications and how developers can leverage Google App Engin
+ e to build and scale web applications.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T180000
+DTSTART;TZID=US/Pacific:20080424T164000
+DTSTAMP:20080310T220056
+LOCATION:1st Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3484
+UID:http://www.web2expo.com/sf--s2008-04-24-16:40--3484
+SUMMARY:Booth Crawl
+DESCRIPTION:Quench your thirst with vendor-hosted libations and snacks w
+ hile you check out all the cool stuff on the show floor. This event is o
+ pen to all attendees.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T000000
+DTSTART;TZID=US/Pacific:20080424T180000
+DTSTAMP:20080403T215655
+LOCATION:Marriott
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4238
+UID:http://www.web2expo.com/sf--s2008-04-24-18:00--4238
+SUMMARY:After Hours @ The Marriott San Francisco
+DESCRIPTION:Not sure where to go to hook up with friends and colleagues 
+ after show hours?  Good chance you’ll find people at the Marriott Hotel,
+  just down the street from Moscone West.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080424T203000
+DTSTART;TZID=US/Pacific:20080424T183000
+DTSTAMP:20080414T235811
+LOCATION:Marriott View Lounge (39th Floor)
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4322
+UID:http://www.web2expo.com/sf--s2008-04-24-18:30--4322
+SUMMARY:Women's Networking Evening
+DESCRIPTION:Web 2.0 Expo is excited to provide a forum to bring together
+  the women of web 2.0 communities for discussion, debate and networking.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T090500
+DTSTART;TZID=US/Pacific:20080425T090000
+DTSTAMP:20080306T232343
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3449
+UID:http://www.web2expo.com/sf--s2008-04-25-09:00--3449
+SUMMARY:Welcome and Morning Keynotes
+DESCRIPTION:Presented by Jennifer Pahlka (CMP), Brady Forrest (O'Reilly 
+ Media, Inc.). Welcome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T093500
+DTSTART;TZID=US/Pacific:20080425T090500
+DTSTAMP:20080225T210851
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3328
+UID:http://www.web2expo.com/sf--s2008-04-25-09:05--3328
+SUMMARY:A Conversation with Jonathan Schwartz
+DESCRIPTION:Presented by Jonathan Schwartz (Sun Microsystems), Tim O'Rei
+ lly (O'Reilly Media, Inc.). More information coming soon
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T100000
+DTSTART;TZID=US/Pacific:20080425T093500
+DTSTAMP:20080407T183534
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3376
+UID:http://www.web2expo.com/sf--s2008-04-25-09:35--3376
+SUMMARY:Dan Lyons, aka Fake Steve Jobs
+DESCRIPTION:Presented by Dan Lyons aka Fake Steve Jobs (Forbes). More in
+ formation coming soon
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T100500
+DTSTART;TZID=US/Pacific:20080425T100000
+DTSTAMP:20080407T183635
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3530
+UID:http://www.web2expo.com/sf--s2008-04-25-10:00--3530
+SUMMARY:What Dash Knows
+DESCRIPTION:Presented by Mark Williamson (Dash Navigation, Inc.). Keynot
+ e
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T101500
+DTSTART;TZID=US/Pacific:20080425T100500
+DTSTAMP:20080407T183650
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3424
+UID:http://www.web2expo.com/sf--s2008-04-25-10:05--3424
+SUMMARY:What Google Knows About Spam
+DESCRIPTION:Presented by Matt Cutts (Google). Keynote
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T102500
+DTSTART;TZID=US/Pacific:20080425T101500
+DTSTAMP:20080417T191152
+LOCATION:Ballroom - 3rd Level
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4338
+UID:http://www.web2expo.com/sf--s2008-04-25-10:15--4338
+SUMMARY:High Order Bit:  WordPress
+DESCRIPTION:Presented by Matt Mullenweg (WordPress), Toni Schneider (Wor
+ dPress). .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080409T164435
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2369
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--2369
+SUMMARY:Agile Development
+DESCRIPTION:Presented by David Verba (Adaptive Path). It's difficult to 
+ talk about development these days without coming across references to Ag
+ ile. We'll explore the broad landscape of Agile and Agile-inspired devel
+ opment going into detail about specific practices, and take a look at wh
+ ere these approaches came from, discuss why they're important, and how y
+ ou can start taking advantage of lessons learned.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080409T164526
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/557
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--557
+SUMMARY:Next-generation Mobile UI
+DESCRIPTION:Presented by Ben Bederson (Zumobi), John SanGiovanni (Zumobi
+ ). Explore a new era of mobile UI with industry pioneer Dr. Ben Bederson
+ . Bederson will speak on how Human-Computer Interaction (HCI) research i
+ s reshaping how consumers interact with their mobile phones.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080409T164557
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/629
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--629
+SUMMARY:Secure Session Management for Web Applications
+DESCRIPTION:Presented by Chris Palmer (iSEC Partners). Developers will l
+ earn how to develop web applications that securely manage user sessions,
+  even on the Internet, with cookies and a dash of cryptography.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080409T164238
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1769
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--1769
+SUMMARY:Failure Happens: What Broke Since Last Year (and What We Learned
+  from It)
+DESCRIPTION:Presented by Jesse Robbins (O'Reilly Radar), Artur Bergman (
+ Wikia). An entertaining/informative/eye-opening review of the year's big
+ gest failures, disasters, and painful lessons learned. Presented by Jess
+ e Robbins and Artur Bergman of O'Reilly Radar.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080219T094054
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/2268
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--2268
+SUMMARY:Games 2.0: Why the Future of Games Looks More Like Zombies and S
+ crabulous and Less Like Halo 3
+DESCRIPTION:Presented by Jeremy  Liew (Lightspeed Venture Patners), Sher
+ vin Pishevar (Social Gaming Network), Siqi Chen (Serious Business), Mark
+  Pincus (Zynga Game Networks), Johan Christenson (Power Challenge). Game
+ s are getting easier and cheaper to build as the drivers of Web 2.0 spil
+ l into the games industry. This presentation explores the key drivers of
+  this disruption and identifies some promising paths to create large bus
+ inesses out of the opportunity.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080409T164211
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1160
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--1160
+SUMMARY:Integrating SEO, Usability, and Internet Marketing for High Perf
+ ormance and Results
+DESCRIPTION:Presented by Rebecca Murtagh (Karner Blue Marketing LLC). Th
+ e success of a web site is not determined by cool design or technology, 
+ but its inherent ability to reach target audiences, resonate with users,
+  and successfully convert visitors to loyal customers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080318T075635
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3436
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--3436
+SUMMARY:Widgets Growing Up
+DESCRIPTION:Presented by Alex Bard (AOL - Goowy Media), Tariq Krim (NetV
+ ibes), Hooman Radfar (Clearspring Technologies, Inc.), Gary Benitt (AOL 
+ - Goowy Media), Rooly Eliezerov (Gigya Inc.), Ganesh Sivaraman (Nokia, I
+ nc.). Widgets are portable bits of code that are used for consumption of
+  content and expression of your identity across the Web, desktop, and in
+ creasingly mobile. Widgets include games, stock tickers, slideshows, uti
+ lities, music players, and more.  If 2007 was the year of the widget, 20
+ 08 is the year of the widget growing up.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080318T080201
+LOCATION:2016
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3442
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--3442
+SUMMARY:The Best of Both Worlds: Combining Traditional Map Building with
+  the Power of Community
+DESCRIPTION:Presented by Rik Temmink (Tele Atlas), Clayton Morlock (Tele
+  Atlas), Maureen Backe (Tele Atlas). Tele Atlas is a leading global supp
+ lier of digital map data and dynamic content to Internet, Wireless, and 
+ Navigation markets. Hear how Tele Atlas, its partners, and the large end
+ -user community are working together to produce the next generation of d
+ igital map content.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080408T181351
+LOCATION:2018
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3606
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--3606
+SUMMARY:Look Inside the Social Web
+DESCRIPTION:Presented by Todd Fast (webweave.com), Ryan Kennedy (webweav
+ e.com). At Web 2.0 Expo, webweave.com is pulling the wraps off a new way
+  to build the social web. Attend this session and learn how to collabora
+ tively build, publish, and host social applications of all shapes and si
+ zes - Facebooks apps, meebo apps, iPhone apps, and more - using nothing 
+ more than a browser and your creativity.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T115000
+DTSTART;TZID=US/Pacific:20080425T110000
+DTSTAMP:20080410T225343
+LOCATION:Alcove 2
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4313
+UID:http://www.web2expo.com/sf--s2008-04-25-11:00--4313
+SUMMARY:The Production Mashup
+DESCRIPTION:Web 2.0 is transforming the concept of a mashup from an inte
+ resting hack to a method for non-technical users to create production ap
+ plications.   We're not there yet, but we're making progress.  Learn mor
+ e about the state of “mashing up” and see how standardized integration i
+ s changing the rules of the game.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T142000
+DTSTART;TZID=US/Pacific:20080425T133000
+DTSTAMP:20080409T164848
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3321
+UID:http://www.web2expo.com/sf--s2008-04-25-13:30--3321
+SUMMARY:Even Faster Web Sites
+DESCRIPTION:Presented by Steve Souders (Google). Souders' book, High Per
+ formance Web Sites, describes the 14 best practices he developed while w
+ orking as the Chief Performance Yahoo!. YSlow, the Firebug extension he 
+ created, codified those best practices. Now working at Google, Souders d
+ iscusses the next set of best practices he's discovered, including the b
+ est ways to load JavaScript and where to place (and where not to place) 
+ inline scripts.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T142000
+DTSTART;TZID=US/Pacific:20080425T133000
+DTSTAMP:20080307T154957
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3302
+UID:http://www.web2expo.com/sf--s2008-04-25-13:30--3302
+SUMMARY:Developing Firefox Extensions/Add-Ons for Web Sites
+DESCRIPTION:Presented by Tim Mason (Wesabe). More and more companies and
+  individuals are harnessing the popularity and power of Firefox's extend
+ ability. This session will walk you through the steps of setting up a de
+ velopment environment, developing a simple "Hello World" add-on, and how
+  to deploy it to the Firefox world at large.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T142000
+DTSTART;TZID=US/Pacific:20080425T133000
+DTSTAMP:20080213T000930
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/847
+UID:http://www.web2expo.com/sf--s2008-04-25-13:30--847
+SUMMARY:Checking the "Feel" of Your UI with an Interaction Audit
+DESCRIPTION:Presented by Josh Damon Williams (Hot Studio, Inc. ), Peter 
+ Stahl (eBay). What is the "feel" of your user interface? Is it consisten
+ t or jagged? See how an audit of interactions can reveal whether your si
+ te delivers a clean, simple, easy-to-operate experience to your users.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T142000
+DTSTART;TZID=US/Pacific:20080425T133000
+DTSTAMP:20080419T220929
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/420
+UID:http://www.web2expo.com/sf--s2008-04-25-13:30--420
+SUMMARY:Maximizing Conversions and Overall Campaign ROI
+DESCRIPTION:Presented by Robert Bergquist (Widemile), Sam Ee (MIVA Direc
+ t and ALOT). This session will focus on the step-by-step strategies and 
+ tactics employed by MIVA Direct and Widemile, which improved SEM spendin
+ g efficiency by over 100% in less than 6 weeks.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T142000
+DTSTART;TZID=US/Pacific:20080425T133000
+DTSTAMP:20080418T183221
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4346
+UID:http://www.web2expo.com/sf--s2008-04-25-13:30--4346
+SUMMARY:The Audience is the Medium: Video 2.0 & Online Communities
+DESCRIPTION:Presented by Liz Gannes (GigaOm / NewTeeVee), Mark Goldenson
+  (PlayCafe). description tbd.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T142000
+DTSTART;TZID=US/Pacific:20080425T133000
+DTSTAMP:20080409T164818
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1894
+UID:http://www.web2expo.com/sf--s2008-04-25-13:30--1894
+SUMMARY:Entering the World of Personal Analytics
+DESCRIPTION:Presented by Ankur Shah (Techlightenment). As users enter an
+ d then look beyond the world of user-generated content and Web 2.0, they
+  generate vast amounts of data. This discussion explores the possibiliti
+ es, learnings, and likely future path of personal analytics: the analysi
+ s and management of personal data.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T142000
+DTSTART;TZID=US/Pacific:20080425T133000
+DTSTAMP:20080419T174403
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/4349
+UID:http://www.web2expo.com/sf--s2008-04-25-13:30--4349
+SUMMARY:Yahoo! and Open Platforms – A Deeper Dive
+DESCRIPTION:Presented by Neal  Sample (Yahoo!).  In this session Neal Sa
+ mple will talk about Yahoo!’s approach to developing open platforms that
+  enable developers to create websites and applications that can deliver 
+ more relevant, compelling and engaging experiences for users.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T153000
+DTSTART;TZID=US/Pacific:20080425T144000
+DTSTAMP:20080409T165053
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/897
+UID:http://www.web2expo.com/sf--s2008-04-25-14:40--897
+SUMMARY:Designing Like We Give a Damn
+DESCRIPTION:Presented by Katrina Alcorn (Hot Studio), Maria Giudice (Hot
+  Studio). In this case study, we show how research inspired the design o
+ f a system that harnesses the best of Web 2.0 concepts to allow architec
+ ts to collaborate on humanitarian projects around the world.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T153000
+DTSTART;TZID=US/Pacific:20080425T144000
+DTSTAMP:20080307T160612
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3297
+UID:http://www.web2expo.com/sf--s2008-04-25-14:40--3297
+SUMMARY:The "How" of OAuth
+DESCRIPTION:Presented by Scott Fleckenstein (Get Satisfaction). Do you w
+ ant users to share their content from your web site? OAuth can help. OAu
+ th is an emerging community standard that enables authentication between
+  apps. After a brief introduction and explanation of why you should impl
+ ement it, Fleckenstein will jump into the steps needed to implement OAut
+ h into your application.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T153000
+DTSTART;TZID=US/Pacific:20080425T144000
+DTSTAMP:20080409T165021
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/994
+UID:http://www.web2expo.com/sf--s2008-04-25-14:40--994
+SUMMARY:Opening the Source of Intellectual Property
+DESCRIPTION:Presented by Kennedy Brooks (Etelos, Inc. ). How do you prot
+ ect your IP in an open source licensing environment? How do you balance 
+ the need for IP protection in an open source marketplace? Learn from som
+ e real-world case studies.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T153000
+DTSTART;TZID=US/Pacific:20080425T144000
+DTSTAMP:20080324T163905
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/761
+UID:http://www.web2expo.com/sf--s2008-04-25-14:40--761
+SUMMARY:The Power of Online Communities: Lessons from the Best of the Co
+ nsumer & Business Community Managers
+DESCRIPTION:Presented by Caroline Dietz (Dell), Kingsley Joseph (salesfo
+ rce.com, inc.), Sam  Mankiewicz (Kiva.org), Matt Warburton (Yahoo!, Inc.
+ ), Heather Champ (Flickr). What makes Web 2.0 companies different? The p
+ eople. Online communities can form around personal interests and busines
+ ses. Hear from leading community managers on how to develop and manage g
+ rowth.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T153000
+DTSTART;TZID=US/Pacific:20080425T144000
+DTSTAMP:20080307T161311
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1117
+UID:http://www.web2expo.com/sf--s2008-04-25-14:40--1117
+SUMMARY:Finance 2.0: New Business Models in Financial Services
+DESCRIPTION:Presented by Paul Kedrosky (Venture Capitalist), Michiel de 
+ Boer (Zecco), Aaron Patzer (Mint.com), David Friedberg (WeatherBill), Ch
+ ris Larsen (Prosper.com). Social networking, user generated content, and
+  collective intelligence are disrupting a traditionally conservative and
+  closed industry. Leading Finance 2.0 start-ups, providing innovative se
+ rvices based on new, yet solid business models, creating unprecedented v
+ alue to consumers regarding their spending, savings, and investments.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T153000
+DTSTART;TZID=US/Pacific:20080425T144000
+DTSTAMP:20080130T002831
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1024
+UID:http://www.web2expo.com/sf--s2008-04-25-14:40--1024
+SUMMARY:Capacity Planning for Web Operations
+DESCRIPTION:Presented by John Allspaw (Flickr (Yahoo!)). This talk will 
+ take a look at new and different approaches to capacity planning, and ho
+ w they do it at Flickr.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T153000
+DTSTART;TZID=US/Pacific:20080425T144000
+DTSTAMP:20080324T163957
+LOCATION:2014
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3445
+UID:http://www.web2expo.com/sf--s2008-04-25-14:40--3445
+SUMMARY:Beyond Google, Wikipedia, & Amazon: A Practicum on How Tradition
+ al Businesses Can Lead, Compete & Win on the Social Web
+DESCRIPTION:Presented by George T.  LeBrun (O'Reilly Insight Group), Jos
+ hua Ross (O'Reilly Insight Group). Companies wanting to be successful on
+  the social web will be listening to their customers in ways they never 
+ imagined and every operating group within an enterprise will see its bus
+ iness rules significantly change as we move deeper into the networked ec
+ onomy. Hear real-world experiences highlighting the successes and failur
+ es of traditional businesses that are trying to getting right.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T164000
+DTSTART;TZID=US/Pacific:20080425T155000
+DTSTAMP:20080409T165202
+LOCATION:2002
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/3670
+UID:http://www.web2expo.com/sf--s2008-04-25-15:50--3670
+SUMMARY:Web 2.0 Workflow
+DESCRIPTION:Presented by Kelly Goto (gotomedia, LLC). The new web has be
+ come more than interaction; more than design. In this rapid-paced enviro
+ nment, companies and teams need to rethink their process and methodologi
+ es to keep up to the pace. Workflow veteran Kelly Goto combines both Agi
+ le and User Centered Design (UCD) methodologies to provide you with a ne
+ w arsenal of  best practices to align your design and development proces
+ ses.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T164000
+DTSTART;TZID=US/Pacific:20080425T155000
+DTSTAMP:20080417T171944
+LOCATION:2003
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1186
+UID:http://www.web2expo.com/sf--s2008-04-25-15:50--1186
+SUMMARY:Do Try This at Home: Ajax Bookmarking, Cross-site Scripting, and
+  Other Web 2.0 Browser Hacks
+DESCRIPTION:Presented by Brian Dillard (Pathfinder Associates). This ses
+ sion will examine the ways in which standards bodies, browser vendors an
+ d library/plug-in authors are shaping the future of our foundational web
+  technologies - and how individual developers can participate in that pr
+ ocess.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T164000
+DTSTART;TZID=US/Pacific:20080425T155000
+DTSTAMP:20080409T165346
+LOCATION:2006
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1826
+UID:http://www.web2expo.com/sf--s2008-04-25-15:50--1826
+SUMMARY:Casual Privacy
+DESCRIPTION:Presented by Kellan Elliott-McCrea (Flickr). Casual Privacy 
+ is a design pattern for sharing semi-private information that maps to ho
+ w secrets are shared in real social networks, and that people will actua
+ lly use. Casual Privacy plays nicely with work being done on OpenID and 
+ OAuth to offer easy sharing, ad-hoc group forming, and a reasonable expe
+ ctation of privacy.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T164000
+DTSTART;TZID=US/Pacific:20080425T155000
+DTSTAMP:20080324T164147
+LOCATION:2009
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/638
+UID:http://www.web2expo.com/sf--s2008-04-25-15:50--638
+SUMMARY:How to Create Successful Unconferences, BarCamps, & Meetups for 
+ Almost No $$
+DESCRIPTION:Presented by Susan Mernit (.), Elisa Camahort Page (BlogHer 
+ Inc), Tara Hunt (BarCamp/Citizen Agency), Kaliya Hamlin (Identity Common
+ s). Learn how to tap the power of unconferences, barcamps, and more to d
+ rive viral marketing, create community, and generate business momentum—f
+ or almost no $$.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T164000
+DTSTART;TZID=US/Pacific:20080425T155000
+DTSTAMP:20080219T094657
+LOCATION:2022
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/538
+UID:http://www.web2expo.com/sf--s2008-04-25-15:50--538
+SUMMARY:Living with the Internet: Experiencing the Digital Revolution fr
+ om a Latino Perspective
+DESCRIPTION:Presented by Fernando Madeira (Terra). There is a new revolu
+ tion in Latin America. The region is emerging as a bellwether player for
+  internet trends. See how the Latinos are creating a new media environme
+ nt and reshaping the society.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=US/Pacific:20080425T164000
+DTSTART;TZID=US/Pacific:20080425T155000
+DTSTAMP:20080130T002857
+LOCATION:2010
+URL:http://en.oreilly.com/webexsf2008/public/schedule/detail/1787
+UID:http://www.web2expo.com/sf--s2008-04-25-15:50--1787
+SUMMARY:Why Your Start-up Needs an Automated Infrastructure
+DESCRIPTION:Presented by Adam Jacob (HJK Solutions). Providing efficient
+ , automated operations is critical to new startups. Utilizing a demonstr
+ ation company running in EC2, we'll show you what all the components of 
+ an automated infrastructure are, how they work together to solve real pr
+ oblems, and why they provide an important competitive advantage.
+END:VEVENT
+END:VCALENDAR

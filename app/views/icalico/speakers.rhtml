@@ -1,0 +1,14 @@
+<h1>Speakers</h1>
+<p>
+<div class="tagcloud_block" id="tagcloud_block">
+<p>
+<h2>Speaker's Cloud</h2>
+	<ul id='tagcloud'>
+	
+		<% @speakers.each do |speaker| %>
+			<li><%= link_to speaker.name, {:controller => 'talk', :action => 'by_speaker', :id => speaker.name}, {:class=> "popularity#{popularity_rank(speaker.popularity)}"} %></li>
+		<% end %>
+	</ul>
+	
+</p>
+</div>

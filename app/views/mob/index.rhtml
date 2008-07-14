@@ -1,0 +1,7 @@
+<p>
+<% form_tag({:action => 'schedule'}, {:method => 'get'}) do %>
+Show schedule for: <%= text_field_tag 'login' %>
+    <%= submit_tag 'Show' %>
+<% end %>
+</p>
+<%= link_to 'Talks happening now', :controller => 'mob', :action => 'now' %><br />

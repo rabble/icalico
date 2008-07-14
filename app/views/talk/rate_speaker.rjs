@@ -1,0 +1,1 @@
+page.replace_html "star-ratings-block-speaker-#{@speaker.id}", :partial => 'talk/speaker_rating', :locals => { :speaker => @speaker }

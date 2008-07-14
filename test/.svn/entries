@@ -1,0 +1,55 @@
+8
+
+dir
+2066
+svn+ssh://murdock.socialworkshop.com/home/svn/projects/mysocialnetwork/vendor/plugins/icalico/test
+svn+ssh://murdock.socialworkshop.com/home/svn/projects
+
+
+
+2008-03-11T23:21:52.862115Z
+1655
+tony
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+279d93c5-ac13-0410-8847-c7ed3d3a5271
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2008-03-19T01:42:54.000000Z
+a1a96e45a3fa5bb21494cd7d14ab4722
+2008-03-11T23:21:52.862115Z
+1655
+tony
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+
+mocks
+dir
+

@@ -1,0 +1,13 @@
+<% hook = (sidebar == "side") ? "hook : {target: 'bottomLeft', tip : 'topRight'}" : "offset: {x:30, y:16}" %>
+
+<script type="text/javascript" language="javascript">
+//<![CDATA[
+new Tip("<%= "talk_popup_#{sidebar}_#{talk.id}" %>", "<%= escape_javascript("<div align=\"left\">
+<strong>Tags: </strong>
+#{render :partial => "talk/tags", :locals => {:tags => talk.tags}}
+<br /><em>
+#{pluralize talk.users.size, "attendee"} signed up
+</em>
+#{my_simple_format(talk.description)}</div>")%>", {fixed : true, <%= hook %>})
+//]]>
+</script>

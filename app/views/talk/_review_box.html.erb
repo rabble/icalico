@@ -1,0 +1,12 @@
+   <div id="star-ratings-block-<%= talk.id %>">
+        <%= render :partial => "talk/rating", :locals => { :talk => talk} %>
+      </div>
+      <% talk.speaker_talks.each do |speaker| %>
+        <div id="star-ratings-block-speaker-<%= speaker.id %>">
+          <%= render :partial => "talk/speaker_rating", :locals => { :speaker  => speaker} %>
+        </div>
+      <% end %>
+      <%= link_to "leave a written review", 
+                  :controller => "talk", :action => "view", 
+                  :id => talk.id, :reviews => "1", :anchor => "new_review" %>
+

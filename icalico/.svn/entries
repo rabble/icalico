@@ -1,0 +1,94 @@
+8
+
+dir
+2066
+svn+ssh://murdock.socialworkshop.com/home/svn/projects/mysocialnetwork/vendor/plugins/icalico
+svn+ssh://murdock.socialworkshop.com/home/svn/projects
+
+
+
+2008-05-27T06:33:44.963945Z
+2044
+tony
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+279d93c5-ac13-0410-8847-c7ed3d3a5271
+
+test
+dir
+
+app
+dir
+
+assets
+dir
+
+routes.rb
+file
+
+
+
+
+2008-05-09T03:09:11.000000Z
+b0f1709f8f258a1de28e80d22bc07d23
+2008-05-03T00:36:53.734384Z
+1898
+jay
+
+script
+dir
+
+db
+dir
+
+init.rb
+file
+
+
+
+
+2008-03-19T01:42:56.000000Z
+674cbb7a806a3aedf68a4a5bb3c2e760
+2008-03-11T23:21:52.862115Z
+1655
+tony
+
+lib
+dir
+
+install.rb
+file
+
+
+
+
+2008-03-19T01:42:56.000000Z
+cbe738c10eba4ae2da8c6859c9723e44
+2008-03-11T23:21:52.862115Z
+1655
+tony
+
+uninstall.rb
+file
+
+
+
+
+2008-03-19T01:42:56.000000Z
+2a5fc883fe7f8dfe22ced24643d59ad4
+2008-03-11T23:21:52.862115Z
+1655
+tony
+

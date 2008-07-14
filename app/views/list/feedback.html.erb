@@ -1,0 +1,15 @@
+<% content_for "sidebar" do %>
+    <h1>All Sessions</h1>
+    <div>Need to leave feedback for a talk that's not on your schedule? Click through directly to one of the sessions.</div>
+	<%= render :partial => "talk/list", 
+               :locals => {:hide_key => true, :talks => @all_talks} %>
+<% end %>
+<h1>Feedback on sessions you're signed up for</h1>
+
+<br />
+
+<% unless @talks.empty? %>
+	<%= render :partial => 'talk/list', :locals => {:hide_key => true, :talks => @talks, :ratings => true} %>
+<% else %>
+	<p>You haven't added any talks to your schedule! Check out the <%= link_to "main schedule", :controller => 'talk', :action => 'list' %> to see what interests you.</p>
+<% end %>

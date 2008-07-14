@@ -1,0 +1,36 @@
+<h2>Sexy Dates and Times with Chronic</h2>
+
+<p>
+	The date and time entry on icalico uses <a href="http://chronic.rubyforge.org/">chronic</a> to use english language date time entry.
+</p>
+
+<p>
+	Example Valid Formats
+</p>
+<ul><li>	thursday</li>
+<li>  november</li>
+<li>  summer</li>
+<li>  friday</li>
+<li>  mon</li>
+<li>	2:35</li>
+<li>	13:00</li>
+<li>  4pm</li>
+<li>  6 in the morning</li>
+<li>  1pm</li>
+<li>  sat 7 in the evening</li>
+<li>  yesterday</li>
+<li>  today</li>
+<li>  tomorrow</li>
+<li>  this tuesday</li>
+<li>  next month</li>
+<li>  last winter</li>
+<li>  this morning</li>
+<li>  last night</li>
+<li>  this second</li>
+<li>  yesterday at 4:00</li>
+<li>  last friday at 20:00</li>
+<li>  last week tuesday</li>
+<li>  tomorrow at 6:45pm</li>
+<li>  afternoon yesterday</li>
+<li>  thursday last week</li>
+</ul>

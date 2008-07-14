@@ -1,0 +1,1 @@
+<%= tags.map{|tag| link_to(tag.name_pretty, :controller => 'talk', :action => 'by_tag', :id => tag.name)}.join(", ") %>

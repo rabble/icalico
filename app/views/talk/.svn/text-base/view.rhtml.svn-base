@@ -1,0 +1,103 @@
+<% content_for("sidebar") do %>
+		<%# render :partial => "talk/twitters", :locals => {:twitters => @talk.twitters} %>
+    <% if current_user %>
+      <% 
+        @to_meet = @talk.interested.to_a.find_all{|p| current_user.friend?(p, "want-to-meet")}
+        @the_rest = @talk.interested.to_a.find_all{|p| !current_user.friend?(p, "want-to-meet")}
+      %>
+      <% unless @to_meet.empty? %>
+        <h3>On your to-meet list</h3>
+	    <% @to_meet.each do |user| %>
+	      <%= render :partial => "profiles/picture", 
+                     :locals => {:user => user} %>
+	    <% end %>
+      <% end %>
+      <br class="clear" /> 
+      <% unless @the_rest.empty? %> 
+	    <h3>Who's Interested?</h3> 
+	    <% @the_rest.each do |user| %>
+	      <%= render :partial => "profiles/picture", 
+                     :locals => {:user => user} %>
+	    <% end %>
+      <% end %>
+    <% end %>
+
+    <% if @similar and !@similar.empty? %>
+	<p>
+	  <h3>Similar Talks</h3> 
+	  <%= render :partial => 'list', :locals => {:talks => @similar} %>
+	</p>
+    <% end %>
+<% end %>
+
+<div style="padding: 20px;">
+    <div id="talk_view" >
+    <h2><%= @talk.bare_summary %> <%= link_to( '[edit]', {:controller => 'talk', :action => 'edit', :id => @talk.id}) if current_user and current_user.admin? %></h2>
+    <% if @talk.start + 10.minutes < Time.now  %>
+    <div class="review_box highlight_box">
+      <h3>Review this session</h3>
+      <%= render :partial => "talk/review_box", 
+                 :locals => {:talk => @talk} %>
+     </div>
+     <% end %>
+
+    <div class="talk_info_box">
+    <p>
+        <% @talk.speaker_talks.each do |speaker| %>
+          <% if speaker.user %>
+            <%= link_to speaker.name, {:controller => 'talk', :action => 'by_speaker', :id => speaker} %><br />
+          <% elsif speaker.name %>
+            <%= speaker.name %><br />
+          <% end %>
+        <% end %>
+    </p>
+    
+    <b>Date:</b> <span class="dtstart" title="<%= @talk.start_date %>"><%= @talk.start.strftime("%A, %B %d") %></span><br />
+    <b>Time:</b> 
+          <%= @talk.start.strftime("%I:%M").gsub(/^0/,'') %> - 
+          <%= @talk.end.strftime("%I:%M%p").gsub(/^0/,'') %> <br />
+    <% if @talk.location %><b>Location:</b> <%= link_to  @talk.location, :controller => 'talk', :action => 'by_location', :location => space_to_underscore( @talk.location ) %> <br /><% end %>
+    <% if current_user and current_user.talks.include?(@talk) %>
+	  <%= link_to 'Remove from My Schedule', :controller => 'talk', :action => 'unbookmark', :id => @talk %>
+    <% else %>
+	  <%= link_to 'Add to My Schedule', :controller => 'talk', :action => 'bookmark', :id => @talk %>
+    <% end %>
+    </div>
+    <br class="clear" />
+    <!--
+    <b>Track:</b> <%# link_to @talk.track, :controller => 'talk', :action => 'by_tag', :id => @talk.track %> -->
+    
+    </p>
+        <div id="session_desc">
+            <%= simple_format @talk.bare_description %>
+        </div>
+        <p>
+        <!--            Source: <a href="http://www.web2expo.com/cs/webex2007/view/e_sess/<%= @talk.uid %>">http://www.web2expo.com/cs/webex2007/view/e_sess/<%= @talk.uid %></a> -->
+        </p>
+    </div>
+    
+	<p>
+      <h3>Tags</h3>
+      <%= render :partial => "talk/tags", :locals => {:tags => @talk.tags} %>
+	</p>
+
+    <% if @talk.start + 10.minutes < Time.now %>
+    <div id="reviews">
+			<h3>Reviews</h3> 
+				<div class="talk_reviews">
+           <%= render :partial => "comments/list", 
+                      :locals => {:comments => @talk.comments } %>
+	        <div id="new_review" class="form">
+						<% form_tag :controller => "talk", :action => "comment", :id => @talk do %>
+	             <%= text_area_tag "comment", "", :cols => "60", :rows => "8" %><br />
+	             <%= submit_tag "review" %>
+	          <% end %>
+					</div>
+				</div>
+    </div>
+    <% end %>
+       
+
+    	
+	
+</div>

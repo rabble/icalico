@@ -1,0 +1,116 @@
+<p>
+Build lists of interesting looking sessions, check out what your friends are going to see, or tag surf your way to serependity. 
+
+
+</p>
+<div class="home_block" id="home_block">
+<div class="by_day_listing_block" id="by_day_listing_block">
+<p>
+ <h2>By Day</h2>
+   <style>
+    #daygrid {
+        color: white;
+        background-color: #707070;
+    }
+    
+    #daygrid th {
+        background-color: #707070;
+        text-align: center;
+        text-transform:uppercase;
+        letter-spacing: .1em;
+    }
+    
+    #daygrid td {
+        background-color: white;
+        color: #707070;
+        padding-bottom: 10px;
+    }
+    
+    #daygrid th a {
+        color: white;
+    }
+    
+    #daygrid ul {
+        margin: 0 0 0 5px;
+        padding: 0 0 0 1em;
+    }
+    
+    #daygrid h3 {
+        padding: 0 0 2px 5px;
+        margin: 0;
+    }
+    
+   </style>
+    <table id="daygrid" border="1" >
+        <tr>
+            <% unless @pop_day1.empty? %><th><%= link_to @pop_day1.first.start.strftime("%A %b. %e"), :controller => 'talk', :action => 'by_date', :id => @pop_day1.first.start.strftime('%Y-%m-%d') %></th><% end %>
+            <% unless @pop_day2.empty? %><th><%= link_to @pop_day2.first.start.strftime("%A %b. %e"), :controller => 'talk', :action => 'by_date', :id => @pop_day2.first.start.strftime('%Y-%m-%d') %></th><% end %>
+            <% unless @pop_day3.empty? %><th><%= link_to @pop_day3.first.start.strftime("%A %b. %e"), :controller => 'talk', :action => 'by_date', :id => @pop_day3.first.start.strftime('%Y-%m-%d') %></th><% end %>
+        </tr>
+        <tr>
+            <td valign="top">
+                <% unless @pop_day1.empty? %>
+                <h3>Popular Today</h3>
+                <ul>
+                <% @pop_day1.each do |talk| %>
+                    <li><%= link_to truncate(talk.summary, 70), {:controller => 'talk', :action => 'view', :id => talk}, {:name => "talk_link_#{talk.id}"} %></li>
+                <% end %>
+                </ul>
+                <p>
+                <h3><%= link_to 'See all of today\'s talks.', :controller => 'talk', :action => 'by_date', :id => @pop_day1.first.start.strftime('%Y-%m-%d') %></h3>
+                </p>
+                <% end %>
+                
+            </td>
+            <td valign="top">
+                <% unless @pop_day2.empty? %>
+                <h3>Popular Today</h3>
+                <ul>
+                <% @pop_day2.each do |talk| %>
+                    <li><%= link_to truncate(talk.summary, 70), {:controller => 'talk', :action => 'view', :id => talk}, {:name => "talk_link_#{talk.id}"} %></li>
+                <% end %>
+                </ul>
+                <p>
+                <h3><%= link_to 'See all of today\'s talks.', :controller => 'talk', :action => 'by_date', :id => @pop_day2.first.start.strftime('%Y-%m-%d') %></h3>
+                </p>
+                <% end %>
+            </td>
+            <td valign="top">
+                <% unless @pop_day3.empty? %>
+                <h3>Popular Today</h3>
+                <ul>
+                <% @pop_day3.each do |talk| %>
+                    <li><%= link_to truncate(talk.summary, 70), {:controller => 'talk', :action => 'view', :id => talk}, {:name => "talk_link_#{talk.id}"} %></li>
+                <% end %>
+                </ul>
+                <p>
+                <h3><%= link_to 'See all of today\'s talks.', :controller => 'talk', :action => 'by_date', :id => @pop_day3.first.start.strftime('%Y-%m-%d') %></h3>
+                </p>
+                <% end %>
+            </td>
+        </tr>
+    </table>
+
+</p>
+</div>
+<div class="tagcloud_block" id="tagcloud_block">
+<p>
+<table style="border: 0px;">
+    <tr>
+        <td valign="top" width="50%">
+            <h2>Popular: Tags</h2>
+            	<ul id='tagcloud'>
+            		
+            		<% @popular_tags.each do |tag| %>
+            			<li><%= link_to tag.name_pretty, {:controller => 'talk', :action => 'by_tag', :id => tag.name}, {:class=> "popularity#{popularity_rank(tag.popularity)}"} %></li>
+            		<% end %>
+            		<li><%= link_to 'all tags', {:controller => 'home', :action => 'tags'}, {:class=> "popularity9"} %></li>
+            	</ul>
+        </td>
+        <td valign="top">
+        </td>
+    </tr>
+</table>    
+
+</div>
+</div>

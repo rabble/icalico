@@ -1,0 +1,39 @@
+<% unless rating = speaker.rating(current_user) 
+     rating = 0
+   end 
+ %>
+<% if speaker.name and speaker.name.match(/\w/) %>
+<div class="rating-heading"><%= speaker.name %>:</div>
+<ul class='star-rating'>
+    <li class='current-rating' style='width:<%= (rating * 16).to_i -%>px;'>
+          Rate this speaker
+        </li>
+    <li>
+        <%= link_to_remote( "1", {:url => { :controller => "talk", 
+            :action => "rate_speaker", :id => speaker.id, :rating => 1}},
+            :class => 'one-star', :name => '1 star out of 5') %>
+    </li>
+    <li>
+        <%= link_to_remote( "2", {:url => { :controller => "talk", 
+            :action => "rate_speaker", :id => speaker.id, :rating => 2}},
+            :class => 'two-stars', :name => '2 stars out of 5') %>    
+    </li>
+    <li>
+        <%= link_to_remote( "3", {:url => { :controller => "talk", 
+            :action => "rate_speaker", :id => speaker.id, :rating => 3}},
+            :class => 'three-stars', :name => '3 stars out of 5') %>
+    </li>
+    <li>
+        <%= link_to_remote( "4", {:url => { :controller => "talk", 
+            :action => "rate_speaker", :id => speaker.id, :rating => 4}},
+            :class => 'four-stars', :name => '4 stars out of 5') %>    
+    </li>
+    <li>
+        <%= link_to_remote( "5", {:url => { :controller => "talk", 
+            :action => "rate_speaker", :id => speaker.id, :rating => 5}},
+            :class => 'five-stars', :name => '5 stars out of 5') %>
+    </li>
+</ul>
+<% end %>
+<br class="clear">
+<em class="rating-results"><%= number_with_precision(speaker.rating, 2) %> (<%= pluralize(speaker.ratings.size, "vote") %>)</em>

@@ -1,0 +1,51 @@
+<% form_tag do %>
+<input type="hidden" name="id" value="<%= @talk.id %>">
+<table border="0" style="border: 0px;">
+    <tr>
+        <td>Summary:</td> 
+        <td><%= text_field 'talk', 'summary' %></td>
+    </tr>
+    <tr>
+        <td>Date: <small>eg: saturday</td>
+        <td><%= text_field 'talk', 'day_str' %></td>
+    </tr>
+    <tr>
+        <td>Start: <small>eg: 7pm</small></td> 
+        <td><%= text_field 'talk', 'start_str' %></td>
+    </tr>
+    <tr>
+        <td>End: <small>eg: 8pm</small></td> 
+        <td><%= text_field 'talk', 'end_str' %></td>
+    </tr>
+		<tr>
+				<td><%= link_to 'date and time format documentation', :controller => 'home', :action => 'chronic' %></td>
+		</tr>
+    <tr>
+        <td colspan="2">
+    Description: <br />
+    <%=  text_area("talk", "description", "cols" => 60, "rows" => 10)  %>
+        </td>
+    </tr>
+<!--    <tr>
+        <td>Location:</td>
+        <td><%# select("talk", "location", Talk.locations) %>
+            or other: <%# text_field 'talk', 'other_location' %></td>
+    </tr>-->
+    <tr>
+      <td>Speakers:</td>
+      <td><%= text_field 'talk', 'speakers_str' %></td>
+    </tr>
+    <!--
+    <tr>
+        <td>URL:</td>
+        <td><%= text_field 'talk', 'url' %></td>
+    </tr>
+    -->
+</table>
+<%= submit_tag 'Save New' %>
+<% end %>
+<br />
+<br />
+<% if @talk %>	
+	<%= link_to "Delete Event", {:controller => 'talk', :action => 'delete', :id => @talk.id, :confirm => "Are you sure?"} %>
+<% end %>

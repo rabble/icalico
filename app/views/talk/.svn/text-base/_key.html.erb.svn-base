@@ -1,0 +1,58 @@
+<ul class="track_key">
+<li style="border: none"><strong>Tracks: </strong></li>
+<li class="keynote">
+  <%= link_to("Keynote", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Keynote") %>
+</li>
+<li class="design_and_user_experience">
+  <%= link_to("Design and User Experience", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Design and User Experience") %>
+</li>
+<li class="development">
+  <%= link_to("Development", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Development") %>
+</li>
+<li class="focus_on_social_platforms">
+  <%= link_to("Focus on Social Platforms", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Focus on Social Platforms") %>
+</li>
+<li class="focus_on_mobile_web">
+  <%= link_to("Focus on Mobile Web", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Focus on Mobile Web") %>
+</li>
+<li class="focus_on_web_operations">
+  <%= link_to("Focus on Web Operations", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Focus on Web Operations") %>
+</li>
+<li class="fundamentals">
+  <%= link_to("Fundamentals", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Fundamentals") %>
+</li>
+<li class="marketing_and_community">
+  <%= link_to("Marketing and Community", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Marketing and Community") %>
+</li>
+<li class="strategy_and_business_models">
+  <%= link_to("Strategy and Business Models", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Strategy and Business Models") %>
+</li>
+<li class="workshop">
+  <%= link_to("Workshop", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Workshop") %>
+</li>
+<li class="sponsored">
+  <%= link_to("Sponsored", 
+              :action => "by_tag", :controller => "talk",
+              :id => "Sponsored") %>
+</li>
+</ul>

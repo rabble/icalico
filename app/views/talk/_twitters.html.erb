@@ -1,0 +1,16 @@
+<style>
+	div.talk_twitters ul li {
+		padding: 3px;
+		font-size: 12px;
+	}
+</style>
+<% unless twitters.empty? %>
+	<div class="talk_twitters">
+		<h2>Twitter chat</h2>
+		<ul>
+			<% twitters[0..15].each do |t| %>
+			<li><%= link_to t.title, t.link, :style => "color: #3B3B3B" %></li>
+			<% end %>
+		</ul>
+	</div>
+<% end %>

@@ -1,0 +1,1 @@
+page.replace_html "star-ratings-block-#{@talk.id}", :partial => 'talk/rating', :locals => { :talk => @talk }

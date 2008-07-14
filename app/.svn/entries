@@ -1,0 +1,40 @@
+8
+
+dir
+2066
+svn+ssh://murdock.socialworkshop.com/home/svn/projects/mysocialnetwork/vendor/plugins/icalico/app
+svn+ssh://murdock.socialworkshop.com/home/svn/projects
+
+
+
+2008-05-27T06:33:44.963945Z
+2044
+tony
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+279d93c5-ac13-0410-8847-c7ed3d3a5271
+
+helpers
+dir
+
+models
+dir
+
+controllers
+dir
+
+views
+dir
+

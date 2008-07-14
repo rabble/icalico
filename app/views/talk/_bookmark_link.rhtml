@@ -1,0 +1,3 @@
+<% hide_span = defined?(hide_span) ? hide_span : false %>
+<% sidebar = sidebar ? sidebar : "" %>
+<% unless hide_span %><span class="bookmark_buton" id="<%= "bookmark_#{sidebar}_#{talk.id}_span" %>"><% end %><%= link_to_add_or_remove_talk(talk, sidebar) %><% unless hide_span %></span><% end %>

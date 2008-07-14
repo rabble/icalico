@@ -1,0 +1,26 @@
+<div id="sidebar" class="my_list">
+	<% unless @hide_my_talk_list %>
+		<% if logged_in? %>
+	        <%= link_to image_tag('calendar.gif', :alt => 'my calendar.ics', :border => 0, :plugin => "icalico"),
+	    	    {:controller => 'ical', :action => 'my_schedule', :id => current_user},
+	    	    {:style => 'float: right; padding: 4px 4px 0 0'}
+	    	%>
+		<% end %>
+	
+		    <% if logged_in? %>
+		        <h2><%= link_to('My Schedule', profile_talks_url(current_user)) %></h2>
+		    <% else %>
+		        <h2>My Schedule</h2>
+		    <% end %>
+		<% if logged_in? %>
+		<div id="my_talk_list">
+			<%= render :partial => 'talk/list', :locals => {:talks => Talk.find_in_order, :sidebar => "side", :hide_unselected_talks => true} %>
+		</div>
+		<% else %>
+			<p>You need to be logged in to keep a list of talks and sessions you are interested in attending.</p>
+			<p><%= link_to "login", :controller => 'account', :action => 'login' %> |
+				<%= link_to "sign up", :controller => 'account', :action => 'signup'%>
+			</p>
+		<% end %>
+	<% end %>
+</div><!-- sidebar -->

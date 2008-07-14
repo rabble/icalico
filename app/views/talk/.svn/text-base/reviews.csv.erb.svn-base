@@ -1,0 +1,1 @@
+<%= talk_reviews_to_csv(@talks) %>

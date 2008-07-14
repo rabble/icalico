@@ -1,0 +1,7 @@
+      <ul>
+         <li class="first"><%= link_to "main schedule", :controller => 'talk', :action => 'list' %></li>
+                <% if logged_in? %>
+                    <li><%= link_to('my schedule', profile_talks_url(current_user)) %></li>
+    			<% end %>
+          <% if current_user and [1, 10].include?(current_user.id) %><li><%= link_to 'Add Talks', :controller => 'talk', :action => 'new' %></li><% end %>
+       </ul>

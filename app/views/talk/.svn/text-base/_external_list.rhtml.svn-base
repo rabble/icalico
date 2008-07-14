@@ -1,0 +1,57 @@
+<% current_date = nil %>
+<% current_time = nil %>
+<% time_class = '' %>
+<% sidebar = sidebar || false %>
+<% show_number_of_attendees = @talk_attendees.keys.find{|a| @talk_attendees[a].length > 1} ? true : false %>
+<% talks.each do |talk| %>
+    <% time_class = '' %>
+    <% if not current_date %>
+	      <% current_date = talk.start_date %>
+        <% current_time = talk.start_time %>
+        <br />
+				<a name="<%= current_date %>"></a>
+        <h3><%= talk.start.strftime("%A, %B %d, %Y") rescue nil %></h3>
+        <ul class="new_date">
+            <li>
+                <ul class="new_time">
+    <% elsif current_date != talk.start_date %>
+                </ul>
+            </li>
+        </ul>
+        <% current_date = talk.start_date %>
+        <% current_time = talk.start_time %>
+        <br />
+				<a name="<%= current_date %>"></a>
+        <h3 class="date"><%= talk.start.strftime("%A, %B %d, %Y")  rescue nil %></h3>
+        <ul class="new_date">
+            <li>
+                <ul class="new_time">
+    <% elsif current_time != talk.start_time %>
+        <% current_time = talk.start_time %>
+                </ul>
+                <hr />
+                <ul class="new_time">
+    <% else %>
+        <% unless sidebar %>
+            <% time_class = 'hidden_text' %>
+        <% end %>
+	  <% end %>
+    
+    <li class="time-slot">
+	        <% unless @hide_add_remove_link %>
+			<%= link_to_add_or_remove_talk(talk, sidebar) %>
+		<% end %>	
+			<span class="time <%= time_class %>"><%= talk.start_time %> - <%= talk.end_time %>:</span>
+			<a href="http://<%= talk.conference.subdomain %>.crowdvine.com/talk/view/<%= talk.id %>"><%= truncate(talk.summary, 70) %></a>
+			 <b><%= talk.location %></b> 
+		<% if @talk_attendees and !@talk_attendees[talk.id].empty? and show_number_of_attendees %>
+		        <span class="attendees">
+						Attendees: <%= @talk_attendees[talk.id].length %>
+                </span>
+						
+		<% end %>
+		<br />
+    </li>
+<% end %>
+
+		
